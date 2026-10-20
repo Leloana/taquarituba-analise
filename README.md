@@ -79,7 +79,15 @@ Método e limitações do voto por renda (estimativa ecológica, 8 locais de vot
 ![Gasto real por área](graficos/18-gasto-real-por-area.svg)
 ![Investimentos reais](graficos/19-investimentos-real.svg)
 
-Análise completa do gasto acima da inflação em [05-financas-publicas/gasto-real-por-area.md](05-financas-publicas/gasto-real-por-area.md).
+![Urbanismo por natureza](graficos/21-urbanismo-composicao.svg)
+![Cultura por natureza](graficos/22-cultura-composicao.svg)
+![Shows sem licitação](graficos/23-shows-facita.svg)
+
+Análise completa do gasto acima da inflação em [05-financas-publicas/gasto-real-por-area.md](05-financas-publicas/gasto-real-por-area.md) e do que fez cultura e urbanismo saltarem em [05-financas-publicas/cultura-e-urbanismo-o-que-mudou.md](05-financas-publicas/cultura-e-urbanismo-o-que-mudou.md).
+
+### Estratégia
+![Saída de jovens](graficos/24-saida-de-jovens.svg)
+![Câmara 2024 e quociente](graficos/25-camara-2024-quociente.svg)
 
 ## Principais conclusões
 

@@ -8,6 +8,10 @@ Abertura empenho por empenho da base de despesas do TCE-SP (https://transparenci
 
 ## 1. Cultura: de R$ 0,8 mi para R$ 3,0 mi
 
+![Cultura por natureza](../graficos/22-cultura-composicao.svg)
+
+![Shows sem licitação](../graficos/23-shows-facita.svg)
+
 | Grupo de despesa | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |---|---|---|---|---|---|---|---|
 | Pessoal | 344 | 352 | 384 | 406 | 365 | 428 | 490 |
@@ -30,6 +34,8 @@ O que aconteceu em cada fase:
 ---
 
 ## 2. Urbanismo: de R$ 6,4 mi (2021) para R$ 16 a 21 mi (2022 a 2025)
+
+![Urbanismo por natureza](../graficos/21-urbanismo-composicao.svg)
 
 | Grupo de despesa | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 |---|---|---|---|---|---|---|---|

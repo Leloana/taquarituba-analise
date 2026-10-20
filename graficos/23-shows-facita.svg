@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="748.903125pt" height="465.048437pt" viewBox="0 0 748.903125 465.048437" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T18:09:13.512137</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 465.048437 
+L 748.903125 465.048437 
+L 748.903125 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 200.803125 382.751562 
+L 730.903125 382.751562 
+L 730.903125 50.111562 
+L 200.803125 50.111562 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 200.803125 382.751562 
+L 200.803125 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m6c993e585a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #898781; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6c993e585a" x="200.803125" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="200.803125" y="397.349219" transform="rotate(-0 200.803125 397.349219)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 292.994429 382.751562 
+L 292.994429 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m6c993e585a" x="292.994429" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="292.994429" y="397.349219" transform="rotate(-0 292.994429 397.349219)">200</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 385.185734 382.751562 
+L 385.185734 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m6c993e585a" x="385.185734" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="385.185734" y="397.349219" transform="rotate(-0 385.185734 397.349219)">400</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 477.377038 382.751562 
+L 477.377038 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m6c993e585a" x="477.377038" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="477.377038" y="397.349219" transform="rotate(-0 477.377038 397.349219)">600</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 569.568342 382.751562 
+L 569.568342 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m6c993e585a" x="569.568342" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="569.568342" y="397.349219" transform="rotate(-0 569.568342 397.349219)">800</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 661.759647 382.751562 
+L 661.759647 50.111562 
+" clip-path="url(#p201acb8295)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m6c993e585a" x="661.759647" y="382.751562" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="661.759647" y="397.349219" transform="rotate(-0 661.759647 397.349219)">1000</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="363.079886" transform="rotate(-0 193.803125 363.079886)">JVS Produções (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="337.037648" transform="rotate(-0 193.803125 337.037648)">MC Music (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="311.080567" transform="rotate(-0 193.803125 311.080567)">SAM Business (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="285.208641" transform="rotate(-0 193.803125 285.208641)">LR Produções (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="259.166404" transform="rotate(-0 193.803125 259.166404)">OK Music (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="233.294478" transform="rotate(-0 193.803125 233.294478)">B4 Produções (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="207.337397" transform="rotate(-0 193.803125 207.337397)">CER Produções (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="181.495159" transform="rotate(-0 193.803125 181.495159)">Cobaia Produção Artística (2025)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="155.338077" transform="rotate(-0 193.803125 155.338077)">Baile da rainha (2026)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="129.380996" transform="rotate(-0 193.803125 129.380996)">Murilo Huff (2026)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_17">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="103.623914" transform="rotate(-0 193.803125 103.623914)">Zezé Di Camargo &amp; Luciano (2026)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="193.803125" y="77.466833" transform="rotate(-0 193.803125 77.466833)">Simone Mendes (2026)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 200.803125 367.631562 
+L 223.850951 367.631562 
+L 223.850951 350.759459 
+L 200.803125 350.759459 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 200.803125 341.674481 
+L 237.679647 341.674481 
+L 237.679647 324.802378 
+L 200.803125 324.802378 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 200.803125 315.717399 
+L 281.470516 315.717399 
+L 281.470516 298.845296 
+L 200.803125 298.845296 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 200.803125 289.760318 
+L 283.775299 289.760318 
+L 283.775299 272.888215 
+L 200.803125 272.888215 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 200.803125 263.803236 
+L 316.042255 263.803236 
+L 316.042255 246.931133 
+L 200.803125 246.931133 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 200.803125 237.846155 
+L 333.558603 237.846155 
+L 333.558603 220.974052 
+L 200.803125 220.974052 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 200.803125 211.889073 
+L 339.090082 211.889073 
+L 339.090082 195.01697 
+L 200.803125 195.01697 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 200.803125 185.931992 
+L 469.079821 185.931992 
+L 469.079821 169.059889 
+L 200.803125 169.059889 
+z
+" clip-path="url(#p201acb8295)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 200.803125 159.97491 
+L 214.631821 159.97491 
+L 214.631821 143.102807 
+L 200.803125 143.102807 
+z
+" clip-path="url(#p201acb8295)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 200.803125 134.017829 
+L 525.777473 134.017829 
+L 525.777473 117.145726 
+L 200.803125 117.145726 
+z
+" clip-path="url(#p201acb8295)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 200.803125 108.060747 
+L 555.739647 108.060747 
+L 555.739647 91.188644 
+L 200.803125 91.188644 
+z
+" clip-path="url(#p201acb8295)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 200.803125 82.103666 
+L 638.711821 82.103666 
+L 638.711821 65.231562 
+L 200.803125 65.231562 
+z
+" clip-path="url(#p201acb8295)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 200.803125 382.751562 
+L 730.903125 382.751562 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="229.382429" y="361.403851" transform="rotate(-0 229.382429 361.403851)">R$ 50 mil</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="243.211125" y="335.446769" transform="rotate(-0 243.211125 335.446769)">R$ 80 mil</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="287.001995" y="309.489688" transform="rotate(-0 287.001995 309.489688)">R$ 175 mil</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="289.306777" y="283.532606" transform="rotate(-0 289.306777 283.532606)">R$ 180 mil</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="321.573734" y="257.575525" transform="rotate(-0 321.573734 257.575525)">R$ 250 mil</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="339.090082" y="231.618443" transform="rotate(-0 339.090082 231.618443)">R$ 288 mil</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="344.62156" y="205.661362" transform="rotate(-0 344.62156 205.661362)">R$ 300 mil</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="474.611299" y="179.70428" transform="rotate(-0 474.611299 179.70428)">R$ 582 mil</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="220.163299" y="153.747198" transform="rotate(-0 220.163299 153.747198)">R$ 30 mil</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="531.308951" y="127.790117" transform="rotate(-0 531.308951 127.790117)">R$ 705 mil</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="561.271125" y="101.833035" transform="rotate(-0 561.271125 101.833035)">R$ 770 mil</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="644.243299" y="75.875954" transform="rotate(-0 644.243299 75.875954)">R$ 950 mil</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="200.803125" y="41.176536" transform="rotate(-0 200.803125 41.176536)">Só os shows da FACITA 2026 superam o orçamento de cultura do ano inteiro (R$ 2,0 mi na LOA 2026)</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="200.803125" y="28.111562" transform="rotate(-0 200.803125 28.111562)">Shows contratados sem licitação (inexigibilidade)</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_16">
+     <path d="M 467.945312 355.948437 
+L 487.945312 355.948437 
+L 487.945312 348.948437 
+L 467.945312 348.948437 
+z
+" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_33">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="495.945312" y="355.948437" transform="rotate(-0 495.945312 355.948437)">2025: R$ 1,9 mi (TCE, empenhado)</text>
+    </g>
+    <g id="patch_17">
+     <path d="M 467.945312 371.349219 
+L 487.945312 371.349219 
+L 487.945312 364.349219 
+L 467.945312 364.349219 
+z
+" style="fill: #eb6834; stroke: #eb6834; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="495.945312" y="371.349219" transform="rotate(-0 495.945312 371.349219)">2026: R$ 2,46 mi (PNCP, contratado até set.)</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #898781" x="122.143125" y="445.126562" transform="rotate(-0 122.143125 445.126562)">Fonte: TCE-SP (2025); PNCP, contratações 2026/118 a 121 (2026); LOA 2026</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p201acb8295">
+   <rect x="200.803125" y="50.111562" width="530.1" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -19,9 +19,15 @@ Tudo aqui é **análise** sobre os dados das outras pastas, que têm as fontes. 
 | 5 | Eleitorado de 18 mil: 25% com 60 anos ou mais, 43% com no máximo o fundamental. Cerca de dois terços votam na direita nas eleições nacionais e a esquerda tem um piso de um terço. | 04-politica |
 | 6 | Éder Miano (PP) foi reeleito com 58%; **42% votaram contra**, mas a oposição organizada hoje é de centro-direita (PSD, União, PSDB). | 04-politica |
 | 7 | **Nos bairros pobres, o eleitor vota mais na esquerda para presidente e mais no Éder para prefeito.** Lula venceu em 2022 no terço mais pobre (53%), onde Éder teve 64% em 2024. | 04-politica/voto-por-renda.md |
-| 8 | **Em 2024 a esquerda quase elegeu um vereador.** Tio da Vila (PT) foi o 8º mais votado (407 votos) e ficou de fora porque a chapa não atingiu o quociente (cerca de 1.250 votos). A federação do PT teve 533 votos e o PSB 535. Juntos, teriam ficado perto do quociente. | 04-politica/dados |
+| 8 | **Em 2024 a esquerda quase elegeu um vereador.** Tio da Vila (PT) foi o 8º mais votado (407 votos) e ficou de fora porque a chapa não atingiu o quociente (cerca de 1.250 votos). A federação do PT teve 533 votos e o PSB 535. Juntos (1.068) teriam passado de 80% do quociente e disputado as sobras, como o PSDB, que elegeu 1 vereador com 1.200 votos. | 04-politica/dados |
 | 9 | A Câmara é governista e passiva: a Mesa toda é da base e 80% das leis vêm do Executivo. | 04-politica/prefeitura-e-camara.md |
 | 10 | A Prefeitura depende de repasses para 80% da receita, a previdência própria cresce 8% ao ano acima da inflação e o gasto com agricultura caiu pela metade desde 2013. | 05-financas-publicas |
+
+## Gráficos-chave
+
+![Saída de jovens](../graficos/24-saida-de-jovens.svg)
+![Câmara 2024 e quociente](../graficos/25-camara-2024-quociente.svg)
+![Shows da FACITA](../graficos/23-shows-facita.svg)
 
 ## 2. A tese central
 
@@ -95,7 +101,7 @@ Leitura direta dos números: em Taquarituba, uma candidatura que se apresente co
 | Fase | Período | Objetivo | Como |
 |---|---|---|---|
 | **Base** | 2027 e 2028 | Virar referência local antes de virar candidato | Movimento "Faculdade em Taquarituba"; coletivo de jovens; fiscalização com pedidos de informação e boletim mensal do orçamento; presença fixa em 5 bairros |
-| **Cabeça de ponte** | eleição de 2028 | Eleger 1 ou 2 vereadores | **Concentrar a esquerda numa única lista.** Coligação para vereador é proibida, então os candidatos precisam estar no mesmo partido ou federação (PT, PCdoB e PV já são federados; PSOL e Rede também; o PSB não). A chapa precisa de 8 a 11 candidatos de 100 a 250 votos cada e 1 ou 2 puxadores. Em 2024 a federação do PT teve 533 votos e o PSB 535. Somados, ficariam a uns 200 votos do quociente |
+| **Cabeça de ponte** | eleição de 2028 | Eleger 1 ou 2 vereadores | **Concentrar a esquerda numa única lista.** Coligação para vereador é proibida, então os candidatos precisam estar no mesmo partido ou federação (PT, PCdoB e PV já são federados; PSOL e Rede também; o PSB não). A chapa precisa de 8 a 11 candidatos de 100 a 250 votos cada e 1 ou 2 puxadores. Em 2024 a federação do PT teve 533 votos e o PSB 535. Somados (1.068), passariam de 80% do quociente e disputariam as sobras, como o PSDB, que elegeu 1 com 1.200 votos. Ver gráfico 25 |
 | **Projeção** | 2029 a 2032 | Mandato de vereador como vitrine | Projetos de lei de transporte universitário, emprego qualificado e Plano Diretor; CPIs e fiscalização; prestação de contas pública |
 | **Teste majoritário** | eleição de 2032 | Disputar a prefeitura ou compor como vice | Medir o teto. Pode ser aliança com parte da oposição de centro que rompeu com o Éder |
 | **Disputa** | eleição de 2036 | Prefeitura | Candidatura jovem com 8 anos de presença, entrega como vereador e uma pauta da cidade (faculdade e emprego) |
