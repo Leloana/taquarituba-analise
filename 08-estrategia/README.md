@@ -66,6 +66,7 @@ Leitura direta dos números: em Taquarituba, uma candidatura que se apresente co
   - **Previdência dos servidores:** passivo de cerca de R$ 151 mi, que cresce todo ano.
   - Empréstimo FINISA de R$ 18 mi recebido em 2025, com só R$ 8 mi de investimento empenhado no ano. Para onde vai o resto?
   - A **CPI 001.2026** aparece no site da Câmara sem documento publicado.
+  - **Cultura é quase só a FACITA.** Em 2025 a Prefeitura assumiu o festival e contratou empresa e 7 shows sem licitação (inexigibilidade), somando R$ 2,64 mi, cerca de 88% do gasto anual com cultura. Para 2026, só três shows nacionais somam R$ 2,4 mi, mais que o orçamento inteiro da cultura no ano. Enquanto isso, o fundo de turismo existe desde 1998 sem gasto, nenhum bem é tombado e os resultados dos editais federais (R$ 736 mil desde 2020) não estão publicados. Ver [../07-cultura/](../07-cultura/). Proposta: cultura do ano inteiro, com edital para artista local (música raiz, hip hop, Navegantes) e cota mínima do orçamento fora do rodeio.
 - Ferramentas: pedidos pela Lei de Acesso à Informação, acompanhamento do Diário Oficial, presença nas sessões e audiências do orçamento (LDO e LOA), denúncia ao TCE e ao MP quando houver base.
 - **Cuidado com a cassação de 2022.** O TJ-SP a anulou por cerceamento de defesa e pelo voto do presidente da Câmara, que viraria prefeito. Usada como ataque, ela tende a virar a favor do Éder (o "perseguido" que venceu). Ver [../04-politica/prefeitura-e-camara.md](../04-politica/prefeitura-e-camara.md).
 
