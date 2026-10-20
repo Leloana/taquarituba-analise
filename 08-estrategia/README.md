@@ -90,9 +90,30 @@ Leitura direta dos números: em Taquarituba, uma candidatura que se apresente co
     - **Como falar disso sem atacar a festa** (a FACITA é querida e agro): "a festa é do povo, a conta também tem que ser". Proposta: FACITA com prestação de contas pública, teto de cachê, cota para artista local e o mesmo valor investido em cultura o ano inteiro (música raiz, hip hop, Navegantes, biblioteca).
     - Fontes: [../07-cultura/gestao-e-incentivos.md](../07-cultura/gestao-e-incentivos.md), [PNCP 2025/50](https://pncp.gov.br/app/editais/46634218000107/2025/50), base de despesas do TCE-SP (https://transparencia.tce.sp.gov.br/conjunto-de-dados).
 - Ferramentas: pedidos pela Lei de Acesso à Informação, acompanhamento do Diário Oficial, presença nas sessões e audiências do orçamento (LDO e LOA), denúncia ao TCE e ao MP quando houver base.
+- **Compras sem licitação em alta.** A inexigibilidade foi de R$ 1,0 mi (2023) para R$ 6,5 mi (2025) e a dispensa chegou a R$ 6,9 mi. Parte é mudança de modalidade das contas de luz e água, mas dentro há shows (R$ 1,9 mi), uma empresa de "processamento de carbono e energia" (R$ 288 mil), uma holding em Administração (R$ 104 mil) e a limpeza de escolas e vias entregue sem licitação à J.S.L. (R$ 1,16 mi), depois do processo por abandono contratual da empresa anterior. Pedir os processos pela Lei de Acesso à Informação. Ver [../05-financas-publicas/compras-sem-licitacao-e-precatorios.md](../05-financas-publicas/compras-sem-licitacao-e-precatorios.md).
+- **Acordo de precatórios de R$ 10,2 mi (2024 e 2025)** com 24 credores, homologado pelo juiz, com R$ 1,3 mi de honorários advocatícios. É legal e pode ter sido bom negócio. Perguntas: de onde veio a dívida, de que governo, qual foi o desconto e quanto ainda falta. Tom de pergunta, não de acusação.
+- **Pontas soltas para apurar:** o objeto da CPI 001.2026; por que o vereador mais votado de 2024 (Rodrigo Politori) não ocupa a cadeira (está com Glauber Gilio); o contrato para "manter" um título de Município de Interesse Turístico que não aparece em lei estadual; o fundo de turismo que existe desde 1998 e que o PPA 2026 a 2029 diz que vai "criar"; o Plano Diretor de 2006, vencido desde 2016.
 - **Cuidado com a cassação de 2022.** O TJ-SP a anulou por cerceamento de defesa e pelo voto do presidente da Câmara, que viraria prefeito. Usada como ataque, ela tende a virar a favor do Éder (o "perseguido" que venceu). Ver [../04-politica/prefeitura-e-camara.md](../04-politica/prefeitura-e-camara.md).
 
-### 4.5 Os bairros onde a disputa se decide
+### 4.5 O que o governo faz bem (e não vale atacar)
+
+Uma oposição que nega tudo perde credibilidade. Os dados mostram acertos:
+
+| Área | Fato | Fonte no repo |
+|---|---|---|
+| Educação | IDEB 2025 da rede pública acima de SP nas três etapas (7,0 nos anos iniciais) | 01-demografia/indicadores-sociais.md |
+| Saúde | Mortalidade infantil de 9,7 por mil (2020 a 2024), abaixo de SP (10,8) | 01-demografia/natalidade-mortalidade.md |
+| Contas | Pareceres favoráveis do TCE de 2020 a 2024; pessoal em 39% da receita, longe do limite de 54% | 05-financas-publicas/contas-e-tce.md |
+| Segurança | Guarda virou "Polícia Municipal", armada e com base reformada; pauta popular no eleitorado de direita | 04-politica/leis-aprovadas.md |
+| Transporte | Tarifa Zero e transporte gratuito para universitários (Lei 1.898/2022) | 04-politica/leis-aprovadas.md |
+
+Também vale lembrar: o único parecer desfavorável do TCE na série (contas de 2019, ensino abaixo de 25%) foi do governo Bola (PSDB), e a Câmara aprovou as contas mesmo assim. A oposição tradicional não tem moral para falar de gestão.
+
+**Consequência para o discurso:** o ataque genérico ("gestão ruim") não cola. O que cola é **prioridade e transparência**: dinheiro em show, em reforma da sede da Prefeitura com empréstimo e em compra sem licitação, enquanto agricultura, faculdade e salário ficam de fora. E é melhor reconhecer e prometer manter o que funciona (escola, Tarifa Zero, transporte universitário, guarda): isso tira do adversário o argumento de que "a esquerda vai desmontar tudo".
+
+Ressalva sobre o PIB: o PIB per capita "rico" é em parte efeito estatístico. As exportações de US$ 58 mi são 98% café de uma empresa comercial sediada na cidade, não produção local; a usina de álcool está em recuperação judicial e a cana quase acabou. Usar o dado com cuidado ("a riqueza registrada aqui não chega a quem mora aqui").
+
+### 4.6 Os bairros onde a disputa se decide
 - Vila Santa Rita, Vila São Vicente, Vila Ouro Branco, Parque São Roque e Aleixos têm a menor renda, a pior drenagem e o maior voto em Lula e no Éder ao mesmo tempo. Ver [../03-bairros/](../03-bairros/) e o mapa.
 - Lá o voto municipal é de **entrega e presença**: quem resolveu o bueiro, a lombada, o ônibus da Tarifa Zero e o posto de saúde. A estratégia é estar lá todo mês, com pauta de bairro (drenagem, ESF na Santa Rita, creche), muito antes da eleição.
 
