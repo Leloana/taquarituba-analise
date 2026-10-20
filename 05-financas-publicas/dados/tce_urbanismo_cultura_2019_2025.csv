@@ -1,0 +1,33 @@
+# R$ mil correntes, despesa empenhada líquida de anulações, Prefeitura (sem Câmara e RPPS). Fonte: TCE-SP, conjunto de dados de despesas (https://transparencia.tce.sp.gov.br/conjunto-de-dados).
+ds_funcao_governo,grupo,2019,2020,2021,2022,2023,2024,2025
+ADMINISTRAÇÃO,Combustível,632.0,583.0,646.0,46.0,53.0,23.0,46.0
+ADMINISTRAÇÃO,Energia elétrica (inclui iluminação pública),238.0,209.0,301.0,59.0,78.0,105.0,79.0
+ADMINISTRAÇÃO,Limpeza e terceirizados,3.0,2.0,1.0,1.0,0.0,0.0,0.0
+ADMINISTRAÇÃO,Obras,0.0,0.0,0.0,0.0,0.0,0.0,356.0
+ADMINISTRAÇÃO,Outro custeio,4124.0,4602.0,4686.0,4785.0,4924.0,10536.0,11685.0
+ADMINISTRAÇÃO,Outros,1838.0,2118.0,2594.0,3921.0,5950.0,6632.0,3731.0
+ADMINISTRAÇÃO,Pessoal e encargos,5553.0,5830.0,5629.0,3347.0,4690.0,5231.0,5728.0
+ADMINISTRAÇÃO,"Veículos, máquinas e equipamentos",77.0,33.0,42.0,342.0,128.0,27.0,168.0
+CULTURA,Energia elétrica (inclui iluminação pública),74.0,46.0,79.0,70.0,57.0,90.0,106.0
+CULTURA,Festividades e homenagens,0.0,0.0,0.0,13.0,142.0,0.0,1931.0
+CULTURA,Limpeza e terceirizados,2.0,2.0,1.0,1.0,0.0,0.0,0.0
+CULTURA,Outro custeio,411.0,286.0,362.0,939.0,1319.0,1027.0,484.0
+CULTURA,Pessoal e encargos,344.0,352.0,384.0,406.0,365.0,428.0,490.0
+CULTURA,"Veículos, máquinas e equipamentos",1.0,2.0,7.0,73.0,2.0,7.0,20.0
+DESPORTO E LAZER,Combustível,9.0,7.0,6.0,8.0,55.0,37.0,55.0
+DESPORTO E LAZER,Energia elétrica (inclui iluminação pública),89.0,71.0,86.0,67.0,68.0,74.0,72.0
+DESPORTO E LAZER,Limpeza e terceirizados,3.0,3.0,1.0,1.0,1.0,0.0,0.0
+DESPORTO E LAZER,Obras,0.0,0.0,0.0,0.0,36.0,0.0,0.0
+DESPORTO E LAZER,Outro custeio,326.0,234.0,211.0,408.0,411.0,754.0,843.0
+DESPORTO E LAZER,Outros,0.0,0.0,0.0,0.0,60.0,0.0,80.0
+DESPORTO E LAZER,Pessoal e encargos,340.0,312.0,284.0,457.0,714.0,732.0,661.0
+DESPORTO E LAZER,"Veículos, máquinas e equipamentos",47.0,0.0,1.0,116.0,8.0,2.0,12.0
+URBANISMO,Combustível,161.0,163.0,163.0,1233.0,1161.0,956.0,1090.0
+URBANISMO,Energia elétrica (inclui iluminação pública),1531.0,1678.0,1616.0,1726.0,1431.0,1455.0,2164.0
+URBANISMO,Limpeza e terceirizados,0.0,0.0,0.0,2.0,257.0,745.0,822.0
+URBANISMO,Obras,1976.0,3446.0,2129.0,3171.0,6325.0,3253.0,2312.0
+URBANISMO,Outro custeio,1205.0,1011.0,607.0,3100.0,2717.0,3593.0,3122.0
+URBANISMO,Outros,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+URBANISMO,Outros investimentos,0.0,0.0,389.0,0.0,0.0,0.0,0.0
+URBANISMO,Pessoal e encargos,1621.0,1691.0,1457.0,3864.0,5494.0,5209.0,5301.0
+URBANISMO,"Veículos, máquinas e equipamentos",975.0,933.0,37.0,3042.0,3210.0,321.0,891.0
