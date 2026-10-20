@@ -251,3 +251,9 @@ Nenhuma citação para Jardim São Pedro, Residencial Alvorada, Colina Verde, Al
 - [dados/setores_censitarios_2010_taquarituba.csv](dados/setores_censitarios_2010_taquarituba.csv): 40 setores de 2010 com domicílios, moradores, renda (R$ e salários mínimos) e zona de 2022 onde caem.
 - [dados/comparacao_2010_2022_macroregioes.csv](dados/comparacao_2010_2022_macroregioes.csv): comparação 2010 x 2022 por macrorregião (recomendada).
 - [dados/comparacao_2010_2022_por_bairro.csv](dados/comparacao_2010_2022_por_bairro.csv): rateio fino por bairro, só indicativo.
+
+## Mapa de renda
+
+![Mapa de renda por setor](../graficos/20-mapa-renda-setores.svg)
+
+Gerado por [`scripts/mapa_renda.py`](../scripts/mapa_renda.py) a partir de `dados/setores_taquarituba_2022.geojson` (malha IBGE 2022) e `dados/ruas_osm.geojson` (© colaboradores do OpenStreetMap, licença ODbL). Faixas pela renda média do responsável pelo domicílio em salários mínimos de 2022 (R$ 1.212).

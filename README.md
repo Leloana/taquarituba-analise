@@ -58,6 +58,7 @@ Gerados por [`scripts/graficos.py`](scripts/graficos.py) a partir dos CSVs (`pip
 ![Classes sociais](graficos/08-classes-sociais.svg)
 
 ### Bairros
+![Mapa de renda](graficos/20-mapa-renda-setores.svg)
 ![Renda por bairro](graficos/09-renda-por-bairro.svg)
 
 ### Política
@@ -69,6 +70,10 @@ Gerados por [`scripts/graficos.py`](scripts/graficos.py) a partir dos CSVs (`pip
 ![Despesas por função](graficos/13-despesas-funcao-2025.svg)
 ![Pessoal e LRF](graficos/14-pessoal-lrf.svg)
 ![Emendas federais](graficos/15-emendas-federais.svg)
+![Gasto real por área](graficos/18-gasto-real-por-area.svg)
+![Investimentos reais](graficos/19-investimentos-real.svg)
+
+Análise completa do gasto acima da inflação em [05-financas-publicas/gasto-real-por-area.md](05-financas-publicas/gasto-real-por-area.md).
 
 ## Principais conclusões
 
