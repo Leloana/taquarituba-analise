@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="708.500937pt" height="556.238594pt" viewBox="0 0 708.500937 556.238594" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T15:46:21.085165</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 556.238594 
+L 708.500937 556.238594 
+L 708.500937 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 188.300938 460.653969 
+L 690.500938 460.653969 
+L 690.500938 50.397969 
+L 188.300938 50.397969 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 188.300938 460.653969 
+L 188.300938 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m85f54d4082" d="M 0 0 
+L 0 3.5 
+" style="stroke: #898781; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m85f54d4082" x="188.300938" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="188.300938" y="475.251625" transform="rotate(-0 188.300938 475.251625)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 261.242811 460.653969 
+L 261.242811 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m85f54d4082" x="261.242811" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="261.242811" y="475.251625" transform="rotate(-0 261.242811 475.251625)">1000</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 334.184685 460.653969 
+L 334.184685 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m85f54d4082" x="334.184685" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="334.184685" y="475.251625" transform="rotate(-0 334.184685 475.251625)">2000</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 407.126558 460.653969 
+L 407.126558 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m85f54d4082" x="407.126558" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="407.126558" y="475.251625" transform="rotate(-0 407.126558 475.251625)">3000</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 480.068432 460.653969 
+L 480.068432 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m85f54d4082" x="480.068432" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="480.068432" y="475.251625" transform="rotate(-0 480.068432 475.251625)">4000</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 553.010305 460.653969 
+L 553.010305 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m85f54d4082" x="553.010305" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="553.010305" y="475.251625" transform="rotate(-0 553.010305 475.251625)">5000</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 625.952179 460.653969 
+L 625.952179 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m85f54d4082" x="625.952179" y="460.653969" style="fill: #898781; stroke: #898781; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="625.952179" y="475.251625" transform="rotate(-0 625.952179 475.251625)">6000</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_8">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="440.414356" transform="rotate(-0 181.300938 440.414356)">Vila Santa Rita de Cássia</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_9">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="425.120268" transform="rotate(-0 181.300938 425.120268)">Vila Ouro Branco</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_10">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="410.068563" transform="rotate(-0 181.300938 410.068563)">Vila São Vicente</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_11">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="394.944476" transform="rotate(-0 181.300938 394.944476)">Parque São Roque</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_12">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="379.918005" transform="rotate(-0 181.300938 379.918005)">Conj. Hab. Dona Amélia Firmo de Melo</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_13">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="364.623918" transform="rotate(-0 181.300938 364.623918)">Rural sul</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_14">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="349.49983" transform="rotate(-0 181.300938 349.49983)">Vila do Trabalhador</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_15">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="334.545743" transform="rotate(-0 181.300938 334.545743)">Pedro Mário de Barros</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_16">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="319.251655" transform="rotate(-0 181.300938 319.251655)">Bairro dos Aleixos</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_17">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="304.297567" transform="rotate(-0 181.300938 304.297567)">Jardim dos Ipês</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_18">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="289.00348" transform="rotate(-0 181.300938 289.00348)">Vila Mendes</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_19">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="273.879392" transform="rotate(-0 181.300938 273.879392)">Rural norte e nordeste</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="text_20">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="258.755305" transform="rotate(-0 181.300938 258.755305)">Bairro do Barreiro</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="text_21">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="243.631217" transform="rotate(-0 181.300938 243.631217)">Distrito Industrial e entorno rural</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="text_22">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="228.50713" transform="rotate(-0 181.300938 228.50713)">Pasquale Sangiacomo</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="text_23">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="213.553042" transform="rotate(-0 181.300938 213.553042)">Jardim Santa Virgínia</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="text_24">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="198.258954" transform="rotate(-0 181.300938 198.258954)">Porto Taquari</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="text_25">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="183.134535" transform="rotate(-0 181.300938 183.134535)">Centro</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="text_26">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="168.010779" transform="rotate(-0 181.300938 168.010779)">Rural leste</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="text_27">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="152.886692" transform="rotate(-0 181.300938 152.886692)">Nova Vila Mendes</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="text_28">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="137.932604" transform="rotate(-0 181.300938 137.932604)">Loteamento Dona Carmélia</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="text_29">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="122.638516" transform="rotate(-0 181.300938 122.638516)">Rural sudeste</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="text_30">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="107.514429" transform="rotate(-0 181.300938 107.514429)">Residencial Novo Centro</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="text_31">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="92.390341" transform="rotate(-0 181.300938 92.390341)">Residencial Carolina</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="text_32">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="181.300938" y="77.266254" transform="rotate(-0 181.300938 77.266254)">Residencial Zico Marcolino</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 188.300938 442.005969 
+L 290.939636 442.005969 
+L 290.939636 432.024071 
+L 188.300938 432.024071 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 188.300938 426.881881 
+L 296.75748 426.881881 
+L 296.75748 416.899983 
+L 188.300938 416.899983 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 188.300938 411.757794 
+L 309.151034 411.757794 
+L 309.151034 401.775896 
+L 188.300938 401.775896 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 188.300938 396.633706 
+L 311.795177 396.633706 
+L 311.795177 386.651808 
+L 188.300938 386.651808 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 188.300938 381.509618 
+L 312.919211 381.509618 
+L 312.919211 371.527721 
+L 188.300938 371.527721 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 188.300938 366.385531 
+L 324.964832 366.385531 
+L 324.964832 356.403633 
+L 188.300938 356.403633 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 188.300938 351.261443 
+L 327.1881 351.261443 
+L 327.1881 341.279545 
+L 188.300938 341.279545 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 188.300938 336.137356 
+L 332.460339 336.137356 
+L 332.460339 326.155458 
+L 188.300938 326.155458 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 188.300938 321.013268 
+L 335.165753 321.013268 
+L 335.165753 311.03137 
+L 188.300938 311.03137 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 188.300938 305.88918 
+L 337.549493 305.88918 
+L 337.549493 295.907283 
+L 188.300938 295.907283 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 188.300938 290.765093 
+L 343.214159 290.765093 
+L 343.214159 280.783195 
+L 188.300938 280.783195 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 188.300938 275.641005 
+L 343.669316 275.641005 
+L 343.669316 265.659107 
+L 188.300938 265.659107 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 188.300938 260.516918 
+L 344.182827 260.516918 
+L 344.182827 250.53502 
+L 188.300938 250.53502 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 188.300938 245.39283 
+L 348.597999 245.39283 
+L 348.597999 235.410932 
+L 188.300938 235.410932 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 188.300938 230.268742 
+L 357.43126 230.268742 
+L 357.43126 220.286845 
+L 188.300938 220.286845 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 188.300938 215.144655 
+L 362.786652 215.144655 
+L 362.786652 205.162757 
+L 188.300938 205.162757 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 188.300938 200.020567 
+L 383.460567 200.020567 
+L 383.460567 190.038669 
+L 188.300938 190.038669 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 188.300938 184.89648 
+L 386.348336 184.89648 
+L 386.348336 174.914582 
+L 188.300938 174.914582 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 188.300938 169.772392 
+L 413.322241 169.772392 
+L 413.322241 159.790494 
+L 188.300938 159.790494 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 188.300938 154.648305 
+L 421.085445 154.648305 
+L 421.085445 144.666407 
+L 188.300938 144.666407 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 188.300938 139.524217 
+L 421.307188 139.524217 
+L 421.307188 129.542319 
+L 188.300938 129.542319 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 188.300938 124.400129 
+L 452.159412 124.400129 
+L 452.159412 114.418232 
+L 188.300938 114.418232 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 188.300938 109.276042 
+L 470.977686 109.276042 
+L 470.977686 99.294144 
+L 188.300938 99.294144 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 188.300938 94.151954 
+L 597.815581 94.151954 
+L 597.815581 84.170056 
+L 188.300938 84.170056 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 188.300938 79.027867 
+L 613.894158 79.027867 
+L 613.894158 69.045969 
+L 188.300938 69.045969 
+z
+" clip-path="url(#pd695b17d7e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 363.142608 460.653969 
+L 363.142608 50.397969 
+" clip-path="url(#pd695b17d7e)" style="fill: none; stroke: #52514e; stroke-linecap: square"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 188.300938 460.653969 
+L 690.500938 460.653969 
+" style="fill: none; stroke: #c3c2b7; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="295.316148" y="439.22336" transform="rotate(-0 295.316148 439.22336)">R$ 1.407</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="301.133992" y="424.099272" transform="rotate(-0 301.133992 424.099272)">R$ 1.487</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="313.527546" y="408.975185" transform="rotate(-0 313.527546 408.975185)">R$ 1.657</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="316.171689" y="393.851097" transform="rotate(-0 316.171689 393.851097)">R$ 1.693</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="317.295723" y="378.727009" transform="rotate(-0 317.295723 378.727009)">R$ 1.708</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="329.341344" y="363.602922" transform="rotate(-0 329.341344 363.602922)">R$ 1.874</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="331.564613" y="348.478834" transform="rotate(-0 331.564613 348.478834)">R$ 1.904</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="336.836851" y="333.354747" transform="rotate(-0 336.836851 333.354747)">R$ 1.976</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="339.542265" y="318.230659" transform="rotate(-0 339.542265 318.230659)">R$ 2.013</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="341.926006" y="303.106571" transform="rotate(-0 341.926006 303.106571)">R$ 2.046</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="347.590672" y="287.982484" transform="rotate(-0 347.590672 287.982484)">R$ 2.124</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.045829" y="272.858396" transform="rotate(-0 348.045829 272.858396)">R$ 2.130</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.55934" y="257.734309" transform="rotate(-0 348.55934 257.734309)">R$ 2.137</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="352.974511" y="242.610221" transform="rotate(-0 352.974511 242.610221)">R$ 2.198</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="361.807772" y="227.486133" transform="rotate(-0 361.807772 227.486133)">R$ 2.319</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="367.163165" y="212.362046" transform="rotate(-0 367.163165 212.362046)">R$ 2.392</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="387.83708" y="197.237958" transform="rotate(-0 387.83708 197.237958)">R$ 2.676</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="390.724849" y="182.113871" transform="rotate(-0 390.724849 182.113871)">R$ 2.715</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="417.698753" y="166.989783" transform="rotate(-0 417.698753 166.989783)">R$ 3.085</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="425.461957" y="151.865695" transform="rotate(-0 425.461957 151.865695)">R$ 3.191</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="425.6837" y="136.741608" transform="rotate(-0 425.6837 136.741608)">R$ 3.194</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="456.535925" y="121.61752" transform="rotate(-0 456.535925 121.61752)">R$ 3.617</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="475.354199" y="106.493433" transform="rotate(-0 475.354199 106.493433)">R$ 3.875</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="602.192093" y="91.369345" transform="rotate(-0 602.192093 91.369345)">R$ 5.614</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="618.27067" y="76.245257" transform="rotate(-0 618.27067 76.245257)">R$ 5.835</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="367.519121" y="64.962465" transform="rotate(-0 367.519121 64.962465)">média do município R$ 2.397</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="188.300938" y="39.910622" transform="rotate(-0 188.300938 39.910622)">Azul acima da média do município, laranja abaixo; bairros reconstruídos a partir dos setores censitários</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="188.300938" y="28.397969" transform="rotate(-0 188.300938 28.397969)">Renda média do responsável pelo domicílio, por bairro (2022)</text>
+   </g>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #898781" x="113.780938" y="536.316719" transform="rotate(-0 113.780938 536.316719)">Fonte: IBGE Censo 2022, agregados por setor; recorte de bairro próprio (ver 03-bairros)</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd695b17d7e">
+   <rect x="188.300938" y="50.397969" width="502.2" height="410.256"/>
+  </clipPath>
+ </defs>
+</svg>

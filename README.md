@@ -41,6 +41,35 @@ Cada pasta tem um `README.md` com o resumo e uma subpasta `dados/` com os CSVs.
 | Emendas federais | Pagas | R$ 11,2 mi (R$ 5,7 mi em 2025 e 2026) | 2016 a 2026 |
 | Eleitorado | Eleitores | 18.117 | out/2026 |
 
+## Gráficos
+
+Gerados por [`scripts/graficos.py`](scripts/graficos.py) a partir dos CSVs (`pip install matplotlib pandas && python scripts/graficos.py`).
+
+### Demografia
+![População](graficos/01-populacao.svg)
+![Pirâmide etária](graficos/02-piramide-etaria.svg)
+![Nascimentos e óbitos](graficos/03-nascimentos-obitos.svg)
+![Causas de óbito](graficos/04-causas-obito.svg)
+
+### Economia e renda
+![PIB real](graficos/05-pib-real.svg)
+![PIB per capita na região](graficos/06-pib-per-capita-vizinhos.svg)
+![Setores](graficos/07-setores-economia.svg)
+![Classes sociais](graficos/08-classes-sociais.svg)
+
+### Bairros
+![Renda por bairro](graficos/09-renda-por-bairro.svg)
+
+### Política
+![Presidente](graficos/10-presidente.svg)
+![Câmara por partido](graficos/11-camara-partidos.svg)
+
+### Finanças públicas
+![Receitas](graficos/12-receitas-dependencia.svg)
+![Despesas por função](graficos/13-despesas-funcao-2025.svg)
+![Pessoal e LRF](graficos/14-pessoal-lrf.svg)
+![Emendas federais](graficos/15-emendas-federais.svg)
+
 ## Principais conclusões
 
 1. **População cresce devagar e envelhece.** O crescimento recente é inflado pela Penitenciária (cerca de 1.200 presos). Sem ela, a migração líquida é negativa. Os nascimentos caíram de 384 (2000) para 275 (2022), e em 2021 houve mais mortes que nascimentos.
