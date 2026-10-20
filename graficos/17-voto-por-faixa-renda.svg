@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="715.971406pt" height="700.672625pt" viewBox="0 0 715.971406 700.672625" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T16:41:04.155627</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 700.672625 
+L 715.971406 700.672625 
+L 715.971406 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 135.8575 180.962437 
+L 684.36 180.962437 
+L 684.36 89.491047 
+L 135.8575 89.491047 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_1">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="170.194937" transform="rotate(-0 128.8575 170.194937)">Renda alta (R$ 3.090)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_2">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="138.626078" transform="rotate(-0 128.8575 138.626078)">Renda média (R$ 2.620)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_3">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="106.717219" transform="rotate(-0 128.8575 106.717219)">Renda baixa (R$ 1.734)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 135.8575 176.804647 
+L 466.549657 176.804647 
+L 466.549657 157.126555 
+L 135.8575 157.126555 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 135.8575 145.065788 
+L 447.40692 145.065788 
+L 447.40692 125.387696 
+L 135.8575 125.387696 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 135.8575 113.32693 
+L 391.679066 113.32693 
+L 391.679066 93.648837 
+L 135.8575 93.648837 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 466.549657 176.804647 
+L 684.36 176.804647 
+L 684.36 157.126555 
+L 466.549657 157.126555 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 447.40692 145.065788 
+L 684.36 145.065788 
+L 684.36 125.387696 
+L 447.40692 125.387696 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 391.679066 113.32693 
+L 684.36 113.32693 
+L 684.36 93.648837 
+L 391.679066 93.648837 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 684.36 176.804647 
+L 684.36 176.804647 
+L 684.36 157.126555 
+L 684.36 157.126555 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 684.36 145.065788 
+L 684.36 145.065788 
+L 684.36 125.387696 
+L 684.36 125.387696 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 684.36 113.32693 
+L 684.36 113.32693 
+L 684.36 93.648837 
+L 684.36 93.648837 
+z
+" clip-path="url(#pe722bd4244)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="301.203579" y="169.043726" transform="rotate(-0 301.203579 169.043726)">60,3%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="291.63221" y="137.304867" transform="rotate(-0 291.63221 137.304867)">56,8%</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="263.768283" y="105.566009" transform="rotate(-0 263.768283 105.566009)">46,6%</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="575.454829" y="169.043726" transform="rotate(-0 575.454829 169.043726)">39,7%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="565.88346" y="137.304867" transform="rotate(-0 565.88346 137.304867)">43,2%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="538.019533" y="105.566009" transform="rotate(-0 538.019533 105.566009)">53,4%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="135.8575" y="85.491047" transform="rotate(-0 135.8575 85.491047)">Presidente 2022, 2º turno:  Bolsonaro (PL)  x  Lula (PT)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_12">
+    <path d="M 135.8575 298.513828 
+L 684.36 298.513828 
+L 684.36 207.042438 
+L 135.8575 207.042438 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10"/>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11"/>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_4">
+     <g id="text_11">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="287.746327" transform="rotate(-0 128.8575 287.746327)">Renda alta (R$ 3.090)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_12">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="256.177469" transform="rotate(-0 128.8575 256.177469)">Renda média (R$ 2.620)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_13">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="224.26861" transform="rotate(-0 128.8575 224.26861)">Renda baixa (R$ 1.734)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_13">
+    <path d="M 135.8575 294.356038 
+L 471.266779 294.356038 
+L 471.266779 274.677945 
+L 135.8575 274.677945 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 135.8575 262.617179 
+L 455.305356 262.617179 
+L 455.305356 242.939087 
+L 135.8575 242.939087 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 135.8575 230.87832 
+L 400.839058 230.87832 
+L 400.839058 211.200228 
+L 135.8575 211.200228 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 471.266779 294.356038 
+L 684.36 294.356038 
+L 684.36 274.677945 
+L 471.266779 274.677945 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 455.305356 262.617179 
+L 684.36 262.617179 
+L 684.36 242.939087 
+L 455.305356 242.939087 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 400.839058 230.87832 
+L 684.36 230.87832 
+L 684.36 211.200228 
+L 400.839058 211.200228 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 684.36 294.356038 
+L 684.36 294.356038 
+L 684.36 274.677945 
+L 684.36 274.677945 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 684.36 262.617179 
+L 684.36 262.617179 
+L 684.36 242.939087 
+L 684.36 242.939087 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 684.36 230.87832 
+L 684.36 230.87832 
+L 684.36 211.200228 
+L 684.36 211.200228 
+z
+" clip-path="url(#p13fc92a533)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="303.562139" y="286.595116" transform="rotate(-0 303.562139 286.595116)">61,1%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="295.581428" y="254.856258" transform="rotate(-0 295.581428 254.856258)">58,2%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="268.348279" y="223.117399" transform="rotate(-0 268.348279 223.117399)">48,3%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="577.813389" y="286.595116" transform="rotate(-0 577.813389 286.595116)">38,9%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="569.832678" y="254.856258" transform="rotate(-0 569.832678 254.856258)">41,8%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="542.599529" y="223.117399" transform="rotate(-0 542.599529 223.117399)">51,7%</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="135.8575" y="203.042438" transform="rotate(-0 135.8575 203.042438)">Governador 2022, 2º turno:  Tarcísio (REPUBLICANOS)  x  Haddad (PT)</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_22">
+    <path d="M 135.8575 416.065219 
+L 684.36 416.065219 
+L 684.36 324.593828 
+L 135.8575 324.593828 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_13">
+     <g id="line2d_13"/>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14"/>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15"/>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16"/>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17"/>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_7">
+     <g id="text_21">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="405.297718" transform="rotate(-0 128.8575 405.297718)">Renda alta (R$ 3.085)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_22">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="373.728859" transform="rotate(-0 128.8575 373.728859)">Renda média (R$ 2.614)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_23">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="341.820001" transform="rotate(-0 128.8575 341.820001)">Renda baixa (R$ 1.732)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_23">
+    <path d="M 135.8575 411.907428 
+L 434.18801 411.907428 
+L 434.18801 392.229336 
+L 135.8575 392.229336 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 135.8575 380.16857 
+L 444.883808 380.16857 
+L 444.883808 360.490477 
+L 135.8575 360.490477 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 135.8575 348.429711 
+L 485.527844 348.429711 
+L 485.527844 328.751619 
+L 135.8575 328.751619 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 434.18801 411.907428 
+L 684.36 411.907428 
+L 684.36 392.229336 
+L 434.18801 392.229336 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 444.883808 380.16857 
+L 684.36 380.16857 
+L 684.36 360.490477 
+L 444.883808 360.490477 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 485.527844 348.429711 
+L 684.36 348.429711 
+L 684.36 328.751619 
+L 485.527844 328.751619 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 684.36 411.907428 
+L 684.36 411.907428 
+L 684.36 392.229336 
+L 684.36 392.229336 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 684.36 380.16857 
+L 684.36 380.16857 
+L 684.36 360.490477 
+L 684.36 360.490477 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 684.36 348.429711 
+L 684.36 348.429711 
+L 684.36 328.751619 
+L 684.36 328.751619 
+z
+" clip-path="url(#pd8f6124886)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="285.022755" y="404.146507" transform="rotate(-0 285.022755 404.146507)">54,4%</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="290.370654" y="372.407648" transform="rotate(-0 290.370654 372.407648)">56,3%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="310.692672" y="340.66879" transform="rotate(-0 310.692672 340.66879)">63,8%</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="559.274005" y="404.146507" transform="rotate(-0 559.274005 404.146507)">45,6%</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="564.621904" y="372.407648" transform="rotate(-0 564.621904 372.407648)">43,7%</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="584.943922" y="340.66879" transform="rotate(-0 584.943922 340.66879)">36,2%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="135.8575" y="320.593828" transform="rotate(-0 135.8575 320.593828)">Prefeito 2024:  Éder Miano (PP)  x  Marcelo Milla (PSD)</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_32">
+    <path d="M 135.8575 533.616609 
+L 684.36 533.616609 
+L 684.36 442.145219 
+L 135.8575 442.145219 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_19">
+     <g id="line2d_19"/>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_20"/>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_21"/>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_22"/>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_23"/>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_24"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_10">
+     <g id="text_31">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="522.849109" transform="rotate(-0 128.8575 522.849109)">Renda alta (R$ 3.080)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_32">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="491.28025" transform="rotate(-0 128.8575 491.28025)">Renda média (R$ 2.608)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_33">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="459.371391" transform="rotate(-0 128.8575 459.371391)">Renda baixa (R$ 1.734)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_33">
+    <path d="M 135.8575 529.458819 
+L 481.633476 529.458819 
+L 481.633476 509.780727 
+L 135.8575 509.780727 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 135.8575 497.71996 
+L 462.71014 497.71996 
+L 462.71014 478.041868 
+L 135.8575 478.041868 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 135.8575 465.981102 
+L 424.753767 465.981102 
+L 424.753767 446.303009 
+L 135.8575 446.303009 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 481.633476 529.458819 
+L 644.92267 529.458819 
+L 644.92267 509.780727 
+L 481.633476 509.780727 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 462.71014 497.71996 
+L 649.20099 497.71996 
+L 649.20099 478.041868 
+L 462.71014 478.041868 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 424.753767 465.981102 
+L 649.694642 465.981102 
+L 649.694642 446.303009 
+L 424.753767 446.303009 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 644.92267 529.458819 
+L 684.36 529.458819 
+L 684.36 509.780727 
+L 644.92267 509.780727 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 649.20099 497.71996 
+L 684.36 497.71996 
+L 684.36 478.041868 
+L 649.20099 478.041868 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 649.694642 465.981102 
+L 684.41485 465.981102 
+L 684.41485 446.303009 
+L 649.694642 446.303009 
+z
+" clip-path="url(#p0af52dfb81)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="308.745488" y="521.697898" transform="rotate(-0 308.745488 521.697898)">63,0%</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="299.28382" y="489.959039" transform="rotate(-0 299.28382 489.959039)">59,6%</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="280.305633" y="458.22018" transform="rotate(-0 280.305633 458.22018)">52,7%</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="563.278073" y="521.697898" transform="rotate(-0 563.278073 521.697898)">29,8%</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="555.955565" y="489.959039" transform="rotate(-0 555.955565 489.959039)">34,0%</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="537.224204" y="458.22018" transform="rotate(-0 537.224204 458.22018)">41,0%</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="664.641335" y="521.697898" transform="rotate(-0 664.641335 521.697898)">7,2%</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="666.780495" y="489.959039" transform="rotate(-0 666.780495 489.959039)">6,4%</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #0b0b0b" x="667.054746" y="458.22018" transform="rotate(-0 667.054746 458.22018)">6,3%</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="135.8575" y="438.145219" transform="rotate(-0 135.8575 438.145219)">Presidente 2026, 1º turno:  Flávio Bolsonaro (PL)  x  Lula (PT)</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_42">
+    <path d="M 135.8575 651.168 
+L 684.36 651.168 
+L 684.36 559.696609 
+L 135.8575 559.696609 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_25">
+     <g id="line2d_25"/>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_26"/>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_27"/>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_28"/>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_29"/>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_30"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_13">
+     <g id="text_44">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="640.400499" transform="rotate(-0 128.8575 640.400499)">Renda alta (R$ 3.080)</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="text_45">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="608.831641" transform="rotate(-0 128.8575 608.831641)">Renda média (R$ 2.608)</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="text_46">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="128.8575" y="576.922782" transform="rotate(-0 128.8575 576.922782)">Renda baixa (R$ 1.734)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_43">
+    <path d="M 135.8575 647.01021 
+L 529.572594 647.01021 
+L 529.572594 627.332117 
+L 135.8575 627.332117 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 135.8575 615.271351 
+L 507.413093 615.271351 
+L 507.413093 595.593259 
+L 135.8575 595.593259 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 135.8575 583.532492 
+L 472.802586 583.532492 
+L 472.802586 563.8544 
+L 135.8575 563.8544 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 529.572594 647.01021 
+L 679.697729 647.01021 
+L 679.697729 627.332117 
+L 529.572594 627.332117 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 507.413093 615.271351 
+L 681.343236 615.271351 
+L 681.343236 595.593259 
+L 507.413093 595.593259 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 472.802586 583.532492 
+L 679.588028 583.532492 
+L 679.588028 563.8544 
+L 472.802586 563.8544 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #e34948; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 679.697729 647.01021 
+L 684.30515 647.01021 
+L 684.30515 627.332117 
+L 679.697729 627.332117 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 681.343236 615.271351 
+L 684.36 615.271351 
+L 684.36 595.593259 
+L 681.343236 595.593259 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 679.588028 583.532492 
+L 684.36 583.532492 
+L 684.36 563.8544 
+L 679.588028 563.8544 
+z
+" clip-path="url(#peb8ada8e89)" style="fill: #b5b3ab; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="332.715047" y="639.249288" transform="rotate(-0 332.715047 639.249288)">71,8%</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="321.635297" y="607.51043" transform="rotate(-0 321.635297 607.51043)">67,7%</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="304.330043" y="575.771571" transform="rotate(-0 304.330043 575.771571)">61,4%</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="604.635162" y="639.249288" transform="rotate(-0 604.635162 639.249288)">27,4%</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="594.378165" y="607.51043" transform="rotate(-0 594.378165 607.51043)">31,7%</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="576.195307" y="575.771571" transform="rotate(-0 576.195307 575.771571)">37,7%</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="135.8575" y="555.696609" transform="rotate(-0 135.8575 555.696609)">Governador 2026, 1º turno:  Tarcísio (REPUBLICANOS)  x  Haddad (PT)</text>
+   </g>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="18" y="28.111562" transform="rotate(-0 18 28.111562)">Voto por faixa de renda do entorno do local de votação, Taquarituba</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="18" y="39.672" transform="rotate(-0 18 39.672)">% dos votos válidos. Azul: 1º nome do título; vermelho: PT; laranja: PSD; cinza: outros. Terços aproximados do eleitorado; estimativa ecológica</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #898781" x="18" y="680.75075" transform="rotate(-0 18 680.75075)">Fonte: TSE, votação por seção 2022, 2024 e 2026; IBGE Censo 2022, setores; cruzamento próprio</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe722bd4244">
+   <rect x="135.8575" y="89.491047" width="548.5025" height="91.471391"/>
+  </clipPath>
+  <clipPath id="p13fc92a533">
+   <rect x="135.8575" y="207.042438" width="548.5025" height="91.471391"/>
+  </clipPath>
+  <clipPath id="pd8f6124886">
+   <rect x="135.8575" y="324.593828" width="548.5025" height="91.471391"/>
+  </clipPath>
+  <clipPath id="p0af52dfb81">
+   <rect x="135.8575" y="442.145219" width="548.5025" height="91.471391"/>
+  </clipPath>
+  <clipPath id="peb8ada8e89">
+   <rect x="135.8575" y="559.696609" width="548.5025" height="91.471391"/>
+  </clipPath>
+ </defs>
+</svg>

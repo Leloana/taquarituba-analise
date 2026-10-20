@@ -64,6 +64,10 @@ Gerados por [`scripts/graficos.py`](scripts/graficos.py) a partir dos CSVs (`pip
 ### Política
 ![Presidente](graficos/10-presidente.svg)
 ![Câmara por partido](graficos/11-camara-partidos.svg)
+![Voto x renda](graficos/16-voto-x-renda-dispersao.svg)
+![Voto por faixa de renda](graficos/17-voto-por-faixa-renda.svg)
+
+Método e limitações do voto por renda (estimativa ecológica, 8 locais de votação) em [04-politica/voto-por-renda.md](04-politica/voto-por-renda.md).
 
 ### Finanças públicas
 ![Receitas](graficos/12-receitas-dependencia.svg)
