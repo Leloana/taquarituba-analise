@@ -105,7 +105,7 @@ Uma oposição que nega tudo perde credibilidade. Os dados mostram acertos:
 | Saúde | Mortalidade infantil de 9,7 por mil (2020 a 2024), abaixo de SP (10,8) | 01-demografia/natalidade-mortalidade.md |
 | Contas | Pareceres favoráveis do TCE de 2020 a 2024; pessoal em 39% da receita, longe do limite de 54% | 05-financas-publicas/contas-e-tce.md |
 | Segurança | Guarda virou "Polícia Municipal", armada e com base reformada; pauta popular no eleitorado de direita | 04-politica/leis-aprovadas.md |
-| Transporte | Tarifa Zero e transporte gratuito para universitários (Lei 1.898/2022) | 04-politica/leis-aprovadas.md |
+| Transporte | Ônibus da Tarifa Zero (citado nos pedidos da Câmara) e transporte gratuito para universitários (Lei 1.898/2022) | 03-bairros/README.md e 04-politica/leis-aprovadas.md |
 
 Também vale lembrar: o único parecer desfavorável do TCE na série (contas de 2019, ensino abaixo de 25%) foi do governo Bola (PSDB), e a Câmara aprovou as contas mesmo assim. A oposição tradicional não tem moral para falar de gestão.
 
