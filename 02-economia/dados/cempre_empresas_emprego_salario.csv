@@ -1,0 +1,161 @@
+localidade,ano,variavel,valor,fonte
+Avaré,2022,salario_medio_reais,2588.15,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,salario_medio_reais,3068.73,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,salario_medio_reais,3202.95,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,salario_medio_reais,2149.72,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,salario_medio_reais,2449.56,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,salario_medio_reais,2736.05,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,salario_medio_reais,4147.84,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,salario_medio_reais,4369.88,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,salario_medio_reais,4598.40,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,salario_medio_reais,2049.37,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,salario_medio_reais,2308.13,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,salario_medio_reais,2460.64,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,salario_medio_reais,2119.86,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,salario_medio_reais,2363.71,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,salario_medio_reais,2556.49,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,salario_medio_reais,2801.74,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,salario_medio_reais,3468.21,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,salario_medio_reais,3657.20,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,salario_medio_reais,1625.21,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,salario_medio_reais,1791.73,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,salario_medio_reais,1897.32,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,salario_medio_reais,2434.59,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,salario_medio_reais,2971.51,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,salario_medio_reais,3171.13,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2022,salario_medio_sm,2.1,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,salario_medio_sm,2.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,salario_medio_sm,2.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,salario_medio_sm,1.8,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,salario_medio_sm,1.9,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,salario_medio_sm,1.9,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,salario_medio_sm,3.4,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,salario_medio_sm,3.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,salario_medio_sm,3.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,salario_medio_sm,1.7,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,salario_medio_sm,1.8,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,salario_medio_sm,1.7,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,salario_medio_sm,1.7,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,salario_medio_sm,1.8,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,salario_medio_sm,1.8,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,salario_medio_sm,2.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,salario_medio_sm,2.6,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,salario_medio_sm,2.6,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,salario_medio_sm,1.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,salario_medio_sm,1.4,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,salario_medio_sm,1.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,salario_medio_sm,2.0,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,salario_medio_sm,2.3,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,salario_medio_sm,2.2,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2022,empresas_e_organizacoes,6232,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,empresas_e_organizacoes,6450,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,empresas_e_organizacoes,6618,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,empresas_e_organizacoes,788,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,empresas_e_organizacoes,796,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,empresas_e_organizacoes,805,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,empresas_e_organizacoes,3292271,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,empresas_e_organizacoes,3473146,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,empresas_e_organizacoes,3664811,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,empresas_e_organizacoes,2095,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,empresas_e_organizacoes,2140,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,empresas_e_organizacoes,2178,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,empresas_e_organizacoes,1851,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,empresas_e_organizacoes,1884,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,empresas_e_organizacoes,1915,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,empresas_e_organizacoes,2156,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,empresas_e_organizacoes,2222,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,empresas_e_organizacoes,2312,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,empresas_e_organizacoes,1007,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,empresas_e_organizacoes,1032,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,empresas_e_organizacoes,1070,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,empresas_e_organizacoes,2222,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,empresas_e_organizacoes,2303,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,empresas_e_organizacoes,2376,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2022,unidades_locais,6647,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,unidades_locais,6885,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,unidades_locais,7070,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,unidades_locais,876,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,unidades_locais,888,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,unidades_locais,894,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,unidades_locais,3539337,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,unidades_locais,3729934,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,unidades_locais,3929118,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,unidades_locais,2346,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,unidades_locais,2413,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,unidades_locais,2461,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,unidades_locais,2019,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,unidades_locais,2064,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,unidades_locais,2113,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,unidades_locais,2488,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,unidades_locais,2576,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,unidades_locais,2660,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,unidades_locais,1097,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,unidades_locais,1128,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,unidades_locais,1168,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,unidades_locais,2536,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,unidades_locais,2632,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,unidades_locais,2716,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2022,pessoal_ocupado_total,29483,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,pessoal_ocupado_total,32518,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,pessoal_ocupado_total,32902,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,pessoal_ocupado_total,1393,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,pessoal_ocupado_total,1513,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,pessoal_ocupado_total,1579,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,pessoal_ocupado_total,18391352,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,pessoal_ocupado_total,19151372,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,pessoal_ocupado_total,19637485,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,pessoal_ocupado_total,5551,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,pessoal_ocupado_total,5570,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,pessoal_ocupado_total,5509,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,pessoal_ocupado_total,3872,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,pessoal_ocupado_total,3975,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,pessoal_ocupado_total,3989,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,pessoal_ocupado_total,6448,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,pessoal_ocupado_total,6618,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,pessoal_ocupado_total,6985,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,pessoal_ocupado_total,5475,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,pessoal_ocupado_total,5386,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,pessoal_ocupado_total,5458,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,pessoal_ocupado_total,7039,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,pessoal_ocupado_total,7547,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,pessoal_ocupado_total,7610,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2022,pessoal_assalariado,21921,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2023,pessoal_assalariado,24749,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Avaré,2024,pessoal_assalariado,24978,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2022,pessoal_assalariado,693,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2023,pessoal_assalariado,807,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Coronel Macedo,2024,pessoal_assalariado,869,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2022,pessoal_assalariado,14256050,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2023,pessoal_assalariado,14770626,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Estado de SP,2024,pessoal_assalariado,15085003,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2022,pessoal_assalariado,3383,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2023,pessoal_assalariado,3372,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Fartura,2024,pessoal_assalariado,3265,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2022,pessoal_assalariado,2065,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2023,pessoal_assalariado,2146,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaporanga,2024,pessoal_assalariado,2113,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2022,pessoal_assalariado,4230,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2023,pessoal_assalariado,4330,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Itaí,2024,pessoal_assalariado,4626,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2022,pessoal_assalariado,4488,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2023,pessoal_assalariado,4361,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taguaí,2024,pessoal_assalariado,4409,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2022,pessoal_assalariado,4647,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2023,pessoal_assalariado,5054,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2024,pessoal_assalariado,5040,IBGE CEMPRE tabela 9509 https://sidra.ibge.gov.br/tabela/9509
+Taquarituba,2010,salario_medio_sm,1.9,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2015,salario_medio_sm,2.0,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2019,salario_medio_sm,2.0,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2021,salario_medio_sm,2.0,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2010,unidades_locais,1346,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2015,unidades_locais,1469,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2019,unidades_locais,1282,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2021,unidades_locais,1319,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2010,pessoal_ocupado_total,4623,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2015,pessoal_ocupado_total,5437,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2019,pessoal_ocupado_total,5667,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2021,pessoal_ocupado_total,5616,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2010,pessoal_assalariado,3360,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2015,pessoal_assalariado,4117,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2019,pessoal_assalariado,4516,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685
+Taquarituba,2021,pessoal_assalariado,4372,IBGE CEMPRE tabela 1685 (serie encerrada) https://sidra.ibge.gov.br/tabela/1685

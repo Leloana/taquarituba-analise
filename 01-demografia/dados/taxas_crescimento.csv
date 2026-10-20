@@ -1,0 +1,8 @@
+periodo,taxa_geometrica_anual_pct,tipo,fonte
+1970-1980,1.48,calculo proprio sobre censos,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+1980-1991,1.25,calculo proprio sobre censos,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+1991-2000,1.91,calculo proprio sobre censos,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+2000-2010,0.14,calculo proprio sobre censos,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+2010-2022,0.74,oficial IBGE (variavel 10605),IBGE SIDRA tabela 4709
+2022-2025,0.79,calculo proprio: censo 2022 vs estimativa 2025,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2022-2026,0.66,calculo proprio: censo 2022 vs estimativa 2026,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579

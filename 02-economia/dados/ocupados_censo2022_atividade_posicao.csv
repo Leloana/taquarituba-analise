@@ -1,0 +1,47 @@
+recorte,categoria,ocupados_taquarituba,pct_taquarituba,pct_estado_sp,fonte
+secao_atividade,Total,11240,100.00,100.00,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Agricultura, pecuária, produção florestal, pesca e aquicultura",1619,14.40,2.71,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Indústrias extrativas,7,0.06,0.11,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Indústrias de transformação,1590,14.15,12.50,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Eletricidade e gás,-,-,0.19,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Água, esgoto, atividades de gestão de resíduos e descontaminação",83,0.74,0.76,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Construção,940,8.36,6.97,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Comércio; reparação de veículos automotores e motocicletas,2356,20.96,16.68,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Transporte, armazenagem e correio",432,3.84,6.66,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Alojamento e alimentação,411,3.66,4.46,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Informação e comunicação,62,0.55,2.53,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Atividades financeiras, de seguros e serviços relacionados",106,0.94,2.02,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Atividades imobiliárias,24,0.21,0.76,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Atividades profissionais, científicas e técnicas",410,3.65,4.92,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Atividades administrativas e serviços complementares,377,3.35,5.95,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Administração pública, defesa e seguridade social",424,3.77,3.29,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Educação,650,5.78,6.25,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Saúde humana e serviços sociais,324,2.88,6.52,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,"Artes, cultura, esporte e recreação",46,0.41,1.12,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Outras atividades de serviços,378,3.36,3.83,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Serviços domésticos,531,4.72,3.72,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Organismos internacionais e outras instituições extraterritoriais,-,-,0.00,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+secao_atividade,Atividades mal especificadas,469,4.17,8.04,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Total,11240,100.00,100.00,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,"Empregado no setor privado, exclusive trabalhador doméstico",6336,56.37,58.06,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,"Empregado no setor privado, exclusive trabalhador doméstico - com carteira de trabalho assinada",4814,42.83,48.15,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,"Empregado no setor privado, exclusive trabalhador doméstico - sem carteira de trabalho assinada",1522,13.54,9.91,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Trabalhador doméstico,450,4.00,3.34,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Trabalhador doméstico (inclusive diarista) - com carteira de trabalho assinada,59,0.52,1.19,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Trabalhador doméstico (inclusive diarista) - sem carteira de trabalho assinada,391,3.48,2.15,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,"Militar do exército, da marinha, da aeronáutica, da polícia militar ou do corpo de bombeiros militar",35,0.31,0.27,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado no setor público,1020,9.07,9.42,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado no setor público - funcionário estatutário,763,6.79,7.17,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado no setor público - empregado não estatutário,257,2.29,2.26,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado no setor público - empregado não estatutário com carteira de trabalho assinada,132,1.17,1.54,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado do setor público - empregado não estatutário sem carteira de trabalho assinada,126,1.12,0.72,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado de empresas estatais,28,0.25,0.58,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado de empresas estatais com carteira de trabalho assinada,11,0.10,0.46,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregado de empresas estatais sem carteira de trabalho assinada,17,0.15,0.12,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregador (com pelo menos um empregado),765,6.81,3.51,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregador com CNPJ,641,5.70,3.14,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Empregador sem CNPJ,124,1.10,0.37,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Conta própria (sem empregados),2605,23.18,24.31,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Conta própria com CNPJ,882,7.85,8.77,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Conta própria sem CNPJ,1723,15.33,15.54,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262
+posicao_ocupacao,Trabalhador familiar auxiliar,-,-,0.50,IBGE Censo 2022 tabela 10262 https://sidra.ibge.gov.br/tabela/10262

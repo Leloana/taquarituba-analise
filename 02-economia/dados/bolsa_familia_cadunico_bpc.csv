@@ -1,0 +1,24 @@
+ano_mes,familias_bolsa_familia,pessoas_bolsa_familia,valor_repassado_pbf_reais_mes,beneficio_medio_pbf_reais,familias_cadunico,pessoas_cadunico,familias_cadunico_extrema_pobreza,familias_cadunico_pobreza,beneficiarios_bpc,valor_bpc_reais_mes,obs,fonte
+200412,1193,,66558,55.79,,,,,224,58461.76,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+200512,1533,,83412,54.41,,,,,268,80705.52,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+200612,1804,,88893,49.28,,,,,336,118046.88,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+200712,1680,,99919,59.48,,,,,392,149524.48,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+200812,1570,,95964,61.12,,,,,492,204056.0,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+200912,1350,,95756.00,70.93,,,,,564,262260.0,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201012,1309,,99245,75.82,,,,,592,301920.0,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201112,1403,,142632.00,101.66,,,,,606,329799.53,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201212,1352,,154654,114.39,3524,11102,615,901,636,395218.8,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201312,1259,4320,146324,116.22,3674,11344,609,820,659,446043.2,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201412,1069,3630,139074,130.1,3752,11434,611,838,670,481483.75,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201512,1165,3921,149692,128.49,3342,10055,527,582,677,531036.5,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201612,1007,3312,138218,137.26,3027,8948,504,484,743,650659.5,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201712,953,2986,134196,140.81,2966,8536,619,454,775,724476.06,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201812,946,2818,145452,153.75,2840,7829,675,361,792,754976.5,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+201912,888,2685,137311,154.63,2910,7920,737,413,801,800396.0,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202012,991,2914,28228,28.48,2832,7531,782,367,827,868395.5,"dez/2020: maioria das familias recebia Auxilio Emergencial, por isso valor PBF baixo",MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202112,,,,,3085,8042,861,403,816,899800.0,periodo do Auxilio Brasil (ver md),MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202212,,,,,3789,9180,1117,576,860,1042357.25,periodo do Auxilio Brasil (ver md),MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202312,1444,4015,942470.0,658.61,3926,9489,867,455,954,1260641.2,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202412,1381,3742,877214.0,639.37,3660,9098,663,364,1099,1551855.0,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202512,1162,3126,742815,648.75,3538,8796,611,349,1068,1625845.5,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/
+202606,1174,3045,750965,640.21,3568,8900,584,391,1061,1719941.6,,MDS/SAGI MI Social (VIS Data) https://aplicacoes.mds.gov.br/sagi/vis/data3/

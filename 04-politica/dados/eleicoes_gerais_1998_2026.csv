@@ -1,0 +1,525 @@
+ano,turno,cargo,nome_urna,nome,partido,votos,pct_votos_nominais_validos,situacao,fonte
+1998,1,Presidente,FERNANDO HENRIQUE,FERNANDO HENRIQUE CARDOSO,PSDB,6853,71.53,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,LULA,LUIZ INÁCIO LULA DA SILVA,PT,1772,18.49,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,CIRO GOMES,CIRO FERREIRA GOMES,PPS,549,5.73,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,ENÉAS,ENÉAS FERREIRA CARNEIRO,PRONA,142,1.48,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,JOÃO DE DEUS BARBOSA,JOÃO DE DEUS BARBOSA DE JESUS,PT do B,56,0.58,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,SIRKIS,ALFREDO HÉLIO SYRKIS,PV,40,0.42,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,EYMAEL,JOSÉ MARIA EYMAEL,PSDC,38,0.4,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,THEREZA RUIZ,THEREZA TINAJERO RUIZ,PTN,32,0.33,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,ZÉ MARIA,JOSÉ MARIA DE ALMEIDA,PSTU,30,0.31,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,BRIGADEIRO IVAN FROTA,IVAN MOACYR DA FROTA,PMN,27,0.28,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,SERGIO BUENO,SERGIO BUENO,PSC,26,0.27,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Presidente,VASCO NETO,VASCO AZEVEDO NETO,PSN,16,0.17,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,MÁRIO COVAS,MÁRIO COVAS JUNIOR,PSDB,3404,36.59,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,PAULO MALUF,PAULO SALIM MALUF,PPB,3070,33.0,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,FRANCISCO ROSSI,FRANCISCO ROSSI DE ALMEIDA,PDT,1353,14.54,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,MARTA SUPLICY,MARTA TERESA SUPLICY,PT,813,8.74,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,QUÉRCIA,ORESTES QUERCIA,PMDB,534,5.74,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,JOÃO MANUEL,JOÃO MANUEL BAPTISTA,PSDC,45,0.48,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,ANTONIO FERREIRA,ANTONIO DONIZETE FERREIRA,PSTU,27,0.29,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,LEVY FIDELIX,JOSÉ LEVY FIDELIX DA CRUZ,PRTB,21,0.23,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,FALANGA,EDSON FALANGA,PSC,19,0.2,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Governador,CONSTANTINO CURY NETO,CONSTANTINO CURY NETO,PRONA,17,0.18,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,OSCAR DO BASQUETE,OSCAR DANIEL BEZERRA SCHMIDT,PPB,3377,40.54,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,2002,24.03,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,JOÃO LEITE NETO,JOÃO LEITE NETO,PTB,1996,23.96,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,OSMAR SIMIONATTO,OSMAR BALDIN SIMIONATTO,PSDC,278,3.34,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,JOOJI HATO,JOOJI HATO,PMDB,196,2.35,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,PAULO CORRÊA,PAULO CESAR CORRÊA,PRONA,153,1.84,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,DOMINGOS FERNANDES,DOMINGOS FERNANDES,PV,134,1.61,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,ALMINO AFFONSO,ALMINO MONTEIRO ALVARES AFFONSO,PSB,79,0.95,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,MAURO PUERRO,MAURO AILTON PUERRO,PSTU,39,0.47,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,LEÔNIDAS R. DE OLIVEIRA,LEÔNIDAS RODRIGUES DE OLIVEIRA,PT do B,29,0.35,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,AGUIAR FILHO,NICANOR AGUIAR FILHO,PRTB,29,0.35,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Senador,NAPOLEÃO ALVES,NAPOLEON MIGUEL ALVES,PGT,18,0.22,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,PAULO KOBAYASHI,PAULO SEITI KOBAYASHI,PSDB,3041,43.62,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,CUNHA BUENO,ANTONIO HENRIQUE BITENCOURT CUNHA BUENO,PPB,645,9.25,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PMDB,599,8.59,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,JACO BITTAR,JACÓ BITTAR,PSB,446,6.4,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,KINCAS MATOS,JOAQUIM DE MATTOS SALLES,PSB,420,6.02,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,VALDEMAR COSTA NETO,VALDEMAR COSTA NETO,PL,283,4.06,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,BATTOCHIO,JOSÉ ROBERTO BATOCHIO,PDT,125,1.79,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,BISPO WANDERVAL DE JESUS,VANDEVAL LIMA DOS SANTOS,PTB,78,1.12,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,SALVADOR ZIMBALDI,SALVADOR ZIMBALDI FILHO,PSDB,76,1.09,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,ARNALDO MADEIRA,ARNALDO DE ABREU MADEIRA,PSDB,76,1.09,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,BOUCINHAS,JOSÉ FERNANDO DA COSTA BOUCINHAS,PPB,70,1.0,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,PAULO LIMA,PAULO CESAR DE OLIVEIRA LIMA,PFL,66,0.95,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,LAIR DA APAE,LAIR MOURA SALA MALAVILA,PSDB,56,0.8,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,ELIEL,ELIEL RAMOS MAURÍCIO,PMDB,46,0.66,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Federal,ADHEMAR DE BARROS FILHO,ADHEMAR DE BARROS FILHO,PPB,45,0.65,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,PEDRO CARUNCHO,PEDRO FERRAZ,PPB,3645,45.51,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,EDSON APARECIDO,EDSON APARECIDO DOS SANTOS,PSDB,1273,15.89,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,ARNALDO JARDIM,ARNALDO CALIL PEREIRA JARDIM,PMDB,299,3.73,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,CARLITO,LUIZ CARLOS DOMINGOS,PMDB,287,3.58,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,TEREZINHA DA PAULINA,TEREZINHA DE JESUS MORAIS VASCONCELOS SILVA,PFL,280,3.5,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,REYNALDO DE BARROS FILHO,REYNALDO EMYGDIO DE BARROS FILHO,PPB,216,2.7,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,FLAVIO CHAVES,FLAVIO NELSON DA COSTA CHAVES,PMDB,180,2.25,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,CARLOS SAMPAIO,CARLOS HENRIQUE FOCESI SAMPAIO,PSDB,112,1.4,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,MARIA LUCIA AMARY,MARIA LUCIA CARDOSO PINTO AMARY,PSDB,83,1.04,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,SILVIO MARTINI,SYLVIO BENITO MARTINI,PL,81,1.01,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,CURIATI,ANTONIO SALIM CURIATI,PPB,76,0.95,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,FARIA JR,WALDEMAR ALVES FARIA JÚNIOR,PMDB,72,0.9,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,ROGELIO BARCHETI,ROGÉLIO BARCHETI URREA,PMDB,68,0.85,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,RAMIRO MEVES,RAMIRO MEVES,PRONA,63,0.79,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,1,Deputado Estadual,CORONEL EDSON FERRARINI,EDSON FERRARINI,PL,55,0.69,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,2,Governador,MÁRIO COVAS,MÁRIO COVAS JUNIOR,PSDB,6748,61.69,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+1998,2,Governador,PAULO MALUF,PAULO SALIM MALUF,PPB,4190,38.31,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip
+2002,1,Presidente,LULA,LUIZ INACIO LULA DA SILVA,PT,5297,49.8,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Presidente,JOSÉ SERRA,JOSÉ SERRA,PSDB,4106,38.6,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Presidente,GAROTINHO,ANTHONY WILLIAM GAROTINHO MATHEUS DE OLIVEIRA,PSB,706,6.64,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Presidente,CIRO,CIRO FERREIRA GOMES,PPS,497,4.67,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Presidente,ZÉ MARIA,JOSÉ MARIA DE ALMEIDA,PSTU,27,0.25,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Presidente,RUI COSTA PIMENTA,RUI COSTA PIMENTA,PCO,4,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,2,Presidente,LULA,LUIZ INACIO LULA DA SILVA,PT,6634,55.66,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,2,Presidente,JOSÉ SERRA,JOSÉ SERRA,PSDB,5285,44.34,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,GERALDO ALCKMIN,GERALDO JOSE RODRIGUES ALCKMIN FILHO,PSDB,5225,49.17,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,GENOÍNO,JOSE GENOINO NETO,PT,2845,26.77,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,PAULO MALUF,PAULO SALIM MALUF,PPB,2203,20.73,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,LAMARTINE POSELLA,LAMARTINE POSELLA SOBRINHO,PMDB,136,1.28,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,CARLOS APOLINARIO,CARLOS ALBERTO EUGENIO APOLINARIO,PGT,82,0.77,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,CARLOS ROBERTO PITTOLI,CARLOS ROBERTO PITTOLI,PSB,46,0.43,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,CABRERA,ANTONIO CABRERA MANO FILHO,PTB,40,0.38,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,PINHEIRO PEDRO,ANTONIO FERNANDO PINHEIRO PEDRO,PV,18,0.17,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,ROBSON MALEK,ROBSON MALEK,PRONA,10,0.09,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,DIRCEU TRAVESSO,DIRCEU TRAVESSO,PSTU,9,0.08,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,ROBERTO SIQUEIRA,ROBERTO SIQUEIRA GOMES,PSL,4,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,CIRO MOURA,CIRO TIZIANI MOURA,PTC,4,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,ANAI,ANAI CAPRONI PINTO,PCO,3,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,OSMAR LINS,OSMAR DE OLIVEIRA LINS,PAN,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Governador,LEVY FIDELIX,JOSE LEVY FIDELIX DA CRUZ,PRTB,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,ROMEU TUMA,ROMEU TUMA,PFL,4872,26.06,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,MERCADANTE,ALOIZIO MERCADANTE OLIVA,PT,4354,23.29,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,JOSÉ ANIBAL,JOSÉ ANIBAL PERES DE PONTES,PSDB,4177,22.34,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,QUERCIA,ORESTES QUERCIA,PMDB,2544,13.61,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,WAGNER GOMES,WAGNER GOMES,PC do B,1277,6.83,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,CUNHA BUENO,ANTONIO HENRIQUE BITENCOURT CUNHA BUENO,PPB,1183,6.33,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,ELISEU GABRIEL,ELISEU GABRIEL DE PIERI,PDT,95,0.51,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,LEANDRINI,FLORIANO LEANDRINI,PMDB,45,0.24,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,PENNA,JOSE LUIZ DE FRANÇA PENNA,PV,35,0.19,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,WILLIANS RAFAEL,WILLIANS RAFAEL DA SILVA,PTB,23,0.12,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,MOURAD,MOHAMAD SAID MOURAD,PSB,22,0.12,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,MAURO PUERRO,MAURO AILTON PUERRO,PSTU,12,0.06,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,RUBENS CALVO,RUBENS WAGNER CALVO,PSB,11,0.06,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,LUCAS ALBANO,LUCAS ALBANO RIBEIRO DOS SANTOS,PMN,11,0.06,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,THEREZA RUIZ,THEREZA TINAJERO RUIZ,PTN,10,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,ADEMAR DE BARROS,ADEMAR BARROS BEZERRA,PGT,10,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,MARIN,JOSE MARIA MARIN,PSC,8,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,DR. PAULO CORREA,PAULO CESAR CORREA,PRONA,6,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,RENATÃO,RENATO BENTO LUIZ,PSTU,2,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Senador,PAULO FORTUNATO,PAULO FERNANDO FORTUNATO,PSDC,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,MADEIRA,ARNALDO DE ABREU MADEIRA,PSDB,4418,45.72,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,ORLANDO FANTAZZINI,ORLANDO FANTAZZINI NETO,PT,915,9.47,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,VALDEMAR COSTA NETO,VALDEMAR COSTA NETO,PL,473,4.89,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PMDB,444,4.59,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,ENÉAS,ENEAS FERREIRA CARNEIRO,PRONA,431,4.46,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,DR. PINOTTI,JOSE ARISTODEMO PINOTTI,PMDB,294,3.04,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,DUILIO PISANESCHI,DUILIO PISANESCHI,PTB,266,2.75,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,LUÍS AUGUSTO,LUIS AUGUSTO POLES DA CUNHA,PHS,264,2.73,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,LAIR DA APAE,LAIR MOURA SALA MALAVILA,PSDB,171,1.77,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,SALVADOR ZIMBALDI,SALVADOR ZIMBALDI FILHO,PSDB,122,1.26,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,IARA BERNARDI,IARA BERNARDI,PT,115,1.19,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,ZÉ DIRCEU,JOSE DIRCEU DE OLIVEIRA E SILVA,PT,108,1.12,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,BISPO WANDERVAL DE JESUS,VANDEVAL LIMA DOS SANTOS,PL,108,1.12,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,JEFFERSON CAMPOS,JEFFERSON ALVES DE CAMPOS,PSB,92,0.95,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Federal,PEDRO HORTA,PEDRO JOSE VILAR GODOY HORTA,PSDB,83,0.86,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,EDSON APARECIDO,EDSON APARECIDO DOS SANTOS,PSDB,4028,44.27,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,LEVI MONTEBELO,JOSE LEVI PEREIRA MONTEBELO,PV,797,8.76,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,TIAOZINHO,SEBASTIÃO MOREIRA ARCANJO,PT,700,7.69,MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,TEREZINHA DA PAULINA,TEREZINHA DE JESUS MORAIS VASCONCELOS SILVA,PFL,535,5.88,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,VITOR SAPIENZA,VITOR SAPIENZA,PPS,225,2.47,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,ANTONIO SALIM CURIATI ,ANTONIO SALIM CURIATI,PPB,209,2.3,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,MARQUINHO TORTORELLO,MARCO ANTONIO CAPOVILLA TORTORELLO,PPS,188,2.07,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,JOAQUIM VAZ GABRIEL,JOAQUIM VAZ GABRIEL,PGT,163,1.79,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,SETEMBRINA,SETEMBRINA LOURENÇO DE OLIVEIRA,PT,104,1.14,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,SOUZA SANTOS,JOSE SOUZA DOS SANTOS,PL,92,1.01,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,JOSELYR,JOSELYR BENEDITO SILVESTRE,PL,88,0.97,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,DUARTE NOGUEIRA,ANTONIO DUARTE NOGUEIRA JUNIOR,PSDB,82,0.9,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,DRA. HAVANIR,HAVANIR TAVARES DE ALMEIDA NIMTZ,PRONA,81,0.89,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,PARDAL,JOSE ANTONIO FOGANHOLI,PV,78,0.86,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,1,Deputado Estadual,WALDIR AGNELLO,WALDIR AGNELLO,PSB,75,0.82,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,2,Governador,GERALDO ALCKMIN,GERALDO JOSE RODRIGUES ALCKMIN FILHO,PSDB,6796,56.86,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2002,2,Governador,GENOÍNO,JOSE GENOINO NETO,PT,5157,43.14,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip
+2006,1,Presidente,GERALDO ALCKMIN,GERALDO JOSÉ RODRIGUES ALCKMIN FILHO,PSDB,8078,62.73,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,LULA,LUIZ INACIO LULA DA SILVA,PT,4430,34.4,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,HELOÍSA HELENA,HELOÍSA HELENA LIMA DE MORAES CARVALHO,PSOL,233,1.81,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,CRISTOVAM BUARQUE,CRISTOVAM RICARDO CALVACANTI BUARQUE,PDT,117,0.91,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,ANA MARIA RANGEL,ANA MARIA TEIXEIRA RANGEL,PRP,13,0.1,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,LUCIANO BIVAR,LUCIANO CALDAS BIVAR,PSL,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Presidente,JOSÉ MARIA EYMAEL,JOSÉ MARIA EYMAEL,PSDC,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,SERRA,JOSÉ SERRA,PSDB,8948,71.09,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,MERCADANTE,ALOIZIO MERCADANTE OLIVA,PT,3065,24.35,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,ORESTES QUÉRCIA,ORESTES QUÉRCIA,PMDB,392,3.11,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,CARLOS APOLINARIO,CARLOS ALBERTO EUGENIO APOLINARIO,PDT,84,0.67,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,PLÍNIO ARRUDA SAMPAIO,PLÍNIO SOARES DE ARRUDA SAMPAIO,PSOL,62,0.49,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,CLÁUDIO DE MAURO,CLÁUDIO ANTONIO DE MAURO,PV,15,0.12,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,TARCÍSIO FOGLIO,TARCISIO ROBERTO FOGLIO,PSC,5,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,CUNHA LIMA,ANTONIO DA CUNHA LIMA,PSDC,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,SARLI JR,ROBERTO GANDOLFO SARLI JUNIOR,PAN,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,PROFESSOR MARIO LUIZ GUIDE,MARIO LUIZ GUIDE,PSB,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,EDER XAVIER,EDER XAVIER,PTC,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,ROBERTO SIQUEIRA,ROBERTO SIQUEIRA GOMES,PSL,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Governador,FRED CORREA/FREDY CORREA,ALFREDO MARTINS CORREIA,PTN,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,GUILHERME AFIF,GUILHERME AFIF DOMINGOS,PFL,7159,65.22,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,EDUARDO SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,3387,30.86,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,ALDA MARCO ANTONIO,ALDA MARCO ANTONIO,PMDB,290,2.64,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,ELZA,ELZA DE FATIMA COSTA PEREIRA,PDT,92,0.84,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,DOMINGOS FERNANDES,DOMINGOS FERNANDES,PV,17,0.15,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,RIBAMAR DANTAS,JOSE RIBAMAR DANTAS,PMN,12,0.11,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,MARCELO REIS LOBO,MARCELO GATTI REIS LOBO,PSB,9,0.08,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,TEN NASCIMENTO,MANOEL BARBOSA DO NASCIMENTO,PSC,4,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,MALEK,ROBSON MALEK,PRONA,4,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Senador,MANCHA,LUIZ CARLOS PRATES,PSTU,3,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,ARNALDO MADEIRA,ARNALDO DE ABREU MADEIRA,PSDB,5782,52.26,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,DELFIM NETTO,ANTONIO DELFIM NETTO,PMDB,815,7.37,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,SILVIO TORRES,SILVIO FRANÇA TORRES,PSDB,383,3.46,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,RENATO AMARY,RENATO FAUVEL AMARY,PSDB,325,2.94,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,MILTON MONTI,MILTON ANTÔNIO CASQUEL MONTI,PL,306,2.77,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,NELSON MARQUEZELLI,NELSON MARQUEZELLI,PTB,298,2.69,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,LUIZ EDUARDO GREENHALGH,LUIZ EDUARDO RODRIGUES GREENHALGH,PT,237,2.14,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,PAULO MALUF,PAULO SALIM MALUF,PP,202,1.83,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,SÉRGIO JOSÉ CUSTÓDIO,SÉRGIO JOSÉ CUSTÓDIO,PT,187,1.69,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,DUARTE NOGUEIRA,ANTONIO DUARTE NOGUEIRA JUNIOR,PSDB,182,1.64,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,JOELSON CÂNDIDO,JOELSON CANDIDO DE OLIVEIRA,PSC,150,1.36,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,ENEAS,ENEAS FERREIRA CARNEIRO,PRONA,120,1.08,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JÚNIOR,PT,117,1.06,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,PROFESSOR BENJAMIN,BENJAMIN RIBEIRO DA SILVA,PMDB,111,1.0,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Federal,JOÃO FADEL,JOÃO JORGE FADEL FILHO,PDT,104,0.94,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,SERGIO SICILIANO,SERGIO SICILIANO,PSDB,6373,61.38,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,BERALDO,SIDNEY ESTANISLAU BERALDO,PSDB,513,4.94,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,TIÃOZINHO PT,SEBASTIÃO MOREIRA ARCANJO,PT,492,4.74,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,JARDIM,FRANCISCO SERGIO FERREIRA JARDIM,PTB,331,3.19,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,CURIATI,ANTONIO SALIM CURIATI,PP,296,2.85,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,LARISSA FIGUEIRA,LARISSA ANDREA ISSAC FIGUEIRA,PRONA,209,2.01,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,TEREZINHA DA PAULINA,TEREZINHA DE JESUS MORAIS VASCONCELOS SILVA,PFL,206,1.98,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,MARIA LUCIA AMARY,MARIA LUCIA CARDOSO PINTO AMARY,PSDB,192,1.85,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,MILTON FLAVIO,MILTON FLAVIO MARQUES LAUTENSCHLAGER,PSDB,177,1.7,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,VALMIR,VALMIR DOMINGOS,PL,115,1.11,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,CARUSO,JORGE LUIS CARUSO,PMDB,115,1.11,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,HAMILTON PEREIRA,HAMILTON PEREIRA,PT,104,1.0,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,GILMACI SANTOS,GILMACI DOS SANTOS BARBOSA,PL,76,0.73,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,WALDIR AGNELLO,WALDIR AGNELLO,PTB,74,0.71,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,1,Deputado Estadual,ZICO,JOSÉ PRADO DE ANDRADE,PT,53,0.51,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,2,Presidente,GERALDO ALCKMIN,GERALDO JOSÉ RODRIGUES ALCKMIN FILHO,PSDB,7297,55.44,#NULO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2006,2,Presidente,LULA,LUIZ INACIO LULA DA SILVA,PT,5866,44.56,#NULO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip
+2010,1,Presidente,DILMA,DILMA VANA ROUSSEFF,PT,6438,47.71,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,JOSÉ SERRA,JOSÉ SERRA,PSDB,5858,43.41,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,MARINA SILVA,MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA,PV,1137,8.43,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,PLÍNIO,PLÍNIO SOARES DE ARRUDA SAMPAIO,PSOL,45,0.33,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,ZÉ MARIA,JOSÉ MARIA DE ALMEIDA,PSTU,5,0.04,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,LEVY FIDELIX,JOSE LEVY FIDELIX DA CRUZ,PRTB,5,0.04,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,RUI COSTA PIMENTA,RUI COSTA PIMENTA,PCO,3,0.02,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,EYMAEL,JOSE MARIA EYMAEL,PSDC,3,0.02,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Presidente,IVAN PINHEIRO,IVAN MARTINS PINHEIRO,PCB,1,0.01,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,GERALDO ALCKMIN,GERALDO JOSE RODRIGUES ALCKMIN FILHO,PSDB,7753,58.89,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,ALOIZIO MERCADANTE,ALOIZIO MERCADANTE OLIVA,PT,4877,37.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,CELSO RUSSOMANNO,CELSO UBIRAJARA RUSSOMANNO,PP,256,1.94,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,FABIO FELDMANN,FABIO JOSÉ FELDMANN,PV,181,1.37,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,SKAF,PAULO ANTONIO SKAF,PSB,89,0.68,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,MANCHA,LUIZ CARLOS PRATES,PSTU,7,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Governador,ANAI CAPRONI,ANAI CAPRONI PINTO,PCO,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,ALOYSIO NUNES,ALOYSIO NUNES FERREIRA FILHO,PSDB,6569,31.09,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,MARTA SUPLICY,MARTA SUPLICY,PT,5110,24.18,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,NETINHO,JOSÉ DE PAULA NETO,PC do B,4981,23.57,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,ROMEU TUMA,ROMEU TUMA,PTB,2442,11.56,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,RICARDO YOUNG,RICARDO YOUNG SILVA,PV,1494,7.07,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,DR. REDÓ,SERGIO DE AZEVEDO REDÓ,PP,294,1.39,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,MOACYR FRANCO,MOACYR DE OLIVEIRA FRANCO,PSL,132,0.62,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,SERPA,ALEXANDRE EUGENIO SERPA,PSB,37,0.18,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,MARCELO HENRIQUE,MARCELO HENRIQUE,PSOL,36,0.17,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,CIRO,CIRO TIZIANI MOURA,PTC,21,0.1,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,ANA LUIZA,ANA LUIZA DE FIGUEIREDO GOMES,PSTU,11,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Senador,AFONSO TEIXEIRA,AFONSO TEIXEIRA FILHO,PCO,5,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,ARNALDO MADEIRA,ARNALDO DE ABREU MADEIRA,PSDB,3465,28.93,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JUNIOR,PT,1868,15.59,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,WANDA CORRÊA,VANDERLEIA APARECIDA CORREA,PTB,1479,12.35,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,JOÃO FADEL,JOÃO JORGE FADEL FILHO,PP,558,4.66,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,EDSON APARECIDO,EDSON APARECIDO DOS SANTOS,PSDB,496,4.14,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,GUILHERME MUSSI,GUILHERME MUSSI FERREIRA,PV,411,3.43,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,RENATO GALENDI,RENATO APARECIDO GALENDI,DEM,321,2.68,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,TIRIRICA,FRANCISCO EVERARDO OLIVEIRA SILVA,PR,299,2.5,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,GABRIEL CHALITA,GABRIEL BENEDITO ISSAAC CHALITA,PSB,245,2.05,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,VALDEMAR COSTA NETO,VALDEMAR COSTA NETO,PR,235,1.96,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,NELSON MARQUEZELLI,NELSON MARQUEZELLI,PTB,232,1.94,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,RENATO AMARY,RENATO FAUVEL AMARY,PSDB,225,1.88,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PR,184,1.54,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,BRUNA FURLAN,BRUNA DIAS FURLAN,PSDB,128,1.07,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Federal,JEFFERSON CAMPOS,JEFFERSON ALVES DE CAMPOS,PSB,103,0.86,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,SAMUEL MOREIRA,SAMUEL MOREIRA DA SILVA JÚNIOR,PSDB,3776,33.38,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,HAMILTON PEREIRA,HAMILTON PEREIRA,PT,2058,18.19,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,CAMPOS MACHADO,ANTONIO CARLOS DE CAMPOS MACHADO,PTB,598,5.29,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,CURIATI,ANTONIO SALIM CURIATI,PP,587,5.19,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,UBIRAJARA GUIMARÃES,UBIRAJARA PEREIRA GUIMARÃES,PSDB,476,4.21,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,JOAO MELLAO NETO,JOAO MELLAO NETO,DEM,422,3.73,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,GIRIBONI,EDSON DE OLIVEIRA GIRIBONI,PV,345,3.05,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,MARIA LÚCIA AMARY,MARIA LÚCIA CARDOSO PINTO AMARY,PSDB,287,2.54,MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,ANDRE DO PRADO,ANDRE LUIS DO PRADO,PR,198,1.75,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,JOÃO CARAMEZ,JOÃO CARLOS CARAMEZ,PSDB,153,1.35,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,CANDIDO,JOELSON CANDIDO DE OLIVEIRA,PSC,129,1.14,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,MARIA CRISTINA DI CIESCO,MARIA CRISTINA MESA MUNARIN DI CIESCO,PV,124,1.1,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,CIMATTI NETO,MILTON CIMATTI NETO,PP,101,0.89,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,CELSO NASCIMENTO,CELSO BRAZ DO NASCIMENTO,PSC,99,0.88,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,1,Deputado Estadual,ALDO DEMARCHI,JOSE ALDO DEMARCHI,DEM,90,0.8,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,2,Presidente,DILMA,DILMA VANA ROUSSEFF,PT,7062,51.98,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2010,2,Presidente,JOSÉ SERRA,JOSÉ SERRA,PSDB,6525,48.02,#NULO#,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip
+2014,1,Presidente,AÉCIO NEVES,AÉCIO NEVES DA CUNHA,PSDB,6784,50.24,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,DILMA,DILMA VANA ROUSSEFF,PT,4643,34.38,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,MARINA SILVA,MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA,PSB,1800,13.33,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,LUCIANA GENRO,LUCIANA KREBS GENRO,PSOL,134,0.99,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,EDUARDO JORGE,EDUARDO JORGE MARTINS ALVES SOBRINHO,PV,68,0.5,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,PASTOR EVERALDO,EVERALDO DIAS PEREIRA,PSC,39,0.29,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,LEVY FIDELIX,JOSÉ LEVY FIDELIX DA CRUZ,PRTB,26,0.19,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,MAURO IASI,MAURO LUÍS IASI,PCB,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,EYMAEL,JOSE MARIA EYMAEL,PSDC,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,ZÉ MARIA,JOSÉ MARIA DE ALMEIDA,PSTU,2,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Presidente,RUI COSTA PIMENTA,RUI COSTA PIMENTA,PCO,0,0.0,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,GERALDO ALCKMIN,GERALDO JOSE RODRIGUES ALCKMIN FILHO,PSDB,9034,69.44,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,PADILHA,ALEXANDRE ROCHA SANTOS PADILHA,PT,2490,19.14,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,SKAF,PAULO ANTONIO SKAF,PMDB,1387,10.66,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,GILBERTO NATALINI,GILBERTO TANOS NATALINI,PV,43,0.33,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,MARINGONI,GILBERTO MARINGONI DE OLIVEIRA,PSOL,28,0.22,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,LAÉRCIO BENKO,LAERCIO BENKO LOPES,PHS,19,0.15,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,WAGNER FARIAS,WAGNER JOSÉ GONÇALVES FARIAS,PCB,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,RAIMUNDO SENA,RAIMUNDO SENA DE JESUS,PCO,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Governador,WALTER CIGLIONI,WALTER PAIVA CIGLIONI,PRTB,2,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,JOSÉ SERRA,JOSÉ SERRA,PSDB,7640,65.43,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,EDUARDO SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,3222,27.59,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,GILBERTO KASSAB,GILBERTO KASSAB,PSD,640,5.48,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,MARLENE CAMPOS MACHADO,MARLENE OLIVEIRA DE CAMPOS MACHADO,PTB,118,1.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,KAKA WERA,CARLOS ALBERTO DOS SANTOS,PV,40,0.34,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,ANA LUIZA,ANA LUIZA DE FIGUEIREDO GOMES,PSTU,7,0.06,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,FERNANDO LUCAS,LUIZ FERNANDO AMARAL LUCAS,PRP,5,0.04,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,SENADOR FLÁQUER,RICARDO SIMON FLAQUER,PRTB,3,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,EDMILSON COSTA,EDMILSON SILVA COSTA,PCB,2,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Senador,JURACI GARCIA,JURACI BAENA GARCIA,PCO,0,0.0,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,SAMUEL MOREIRA,SAMUEL MOREIRA DA SILVA JUNIOR,PSDB,4115,34.97,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,GUILHERME MUSSI,GUILHERME MUSSI FERREIRA,PP,624,5.3,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,HAMILTON PEREIRA,HAMILTON PEREIRA,PT,543,4.61,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,PAULO TEIXEIRA,LUIZ PAULO TEIXEIRA FERREIRA,PT,542,4.61,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,TIRIRICA,FRANCISCO EVERARDO OLIVEIRA SILVA,PR,530,4.5,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,BALEIA ROSSI,LUIZ FELIPE BALEIA TENUTO ROSSI,PMDB,350,2.97,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,GUILHERME RIBEIRO,GUILHERME AUGUSTO SANCHES RIBEIRO,PP,314,2.67,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,JOÃO FADEL,JOÃO JORGE FADEL FILHO,SD,309,2.63,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,CELSO RUSSOMANNO,CELSO UBIRAJARA RUSSOMANNO,PRB,301,2.56,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,WALTER IHOSHI,WALTER SHINDI IIHOSHI,PSD,294,2.5,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,ELI CORRÊA FILHO,ADRIANO ELI CORREA,DEM,294,2.5,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,DR UBIALI,MARCO AURELIO UBIALI,PSB,293,2.49,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JUNIOR,PT,236,2.01,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PR,179,1.52,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Federal,MISSIONÁRIO JOSÉ OLÍMPIO,JOSE OLÍMPIO SILVEIRA MORAES,PP,154,1.31,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,GIRIBONI,EDSON DE OLIVEIRA GIRIBONI,PV,2337,21.44,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,GONZAGA,LUIZ GONZAGA VIEIRA DE CAMARGO,PSDB,1484,13.62,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,FRANCISCO FRANÇA,FRANCISCO FRANÇA DA SILVA,PT,754,6.92,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,ALEXANDRE DA FARMÁCIA,ALEXANDRE JOSÉ DA CUNHA,PP,467,4.29,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,PEDRO TOBIAS,PEDRO TOBIAS,PSDB,356,3.27,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,JOÃO PAULO RILLO,JOÃO PAULO RILLO,PT,350,3.21,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,DR. ULYSSES,ULYSSES MÁRIO TASSINARI,PV,348,3.19,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,CARUSO,JORGE LUIS CARUSO,PMDB,321,2.95,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,JOSÉ BITTENCOURT,JOSÉ DOMINGOS BITTENCOURT,PSD,302,2.77,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,RENATO GALENDI,RENATO APARECIDO GALENDI,PRP,283,2.6,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,JOAO CARAMEZ,JOAO CARLOS CARAMEZ,PSDB,273,2.51,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,CAMPOS MACHADO,ANTONIO CARLOS DE CAMPOS MACHADO,PTB,243,2.23,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,CARLOS NEDER,CARLOS ALBERTO PLETZ NEDER,PT,234,2.15,ELEITO POR MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,MARIA LÚCIA AMARY,MARIA LUCIA CARDOSO PINTO AMARY,PSDB,205,1.88,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,1,Deputado Estadual,ANDRÉ DO PRADO,ANDRÉ LUIS DO PRADO,PR,187,1.72,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,2,Presidente,AÉCIO NEVES,AÉCIO NEVES DA CUNHA,PSDB,8651,61.51,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2014,2,Presidente,DILMA,DILMA VANA ROUSSEFF,PT,5414,38.49,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip
+2018,1,Presidente,JAIR BOLSONARO,JAIR MESSIAS BOLSONARO,PSL,5725,45.2,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,FERNANDO HADDAD,FERNANDO HADDAD,PT,3000,23.69,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,GERALDO ALCKMIN,GERALDO JOSÉ RODRIGUES ALCKMIN FILHO,PSDB,2422,19.12,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,CIRO GOMES,CIRO FERREIRA GOMES,PDT,768,6.06,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,JOÃO AMOÊDO,JOÃO DIONISIO FILGUEIRA BARRETO AMOEDO,NOVO,454,3.58,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,ALVARO DIAS,ALVARO FERNANDES DIAS,PODE,70,0.55,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,HENRIQUE MEIRELLES,HENRIQUE DE CAMPOS MEIRELLES,MDB,65,0.51,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,MARINA SILVA,MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA,REDE,57,0.45,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,CABO DACIOLO,BENEVENUTO DACIOLO FONSECA DOS SANTOS,PATRI,52,0.41,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,GUILHERME BOULOS,GUILHERME CASTRO BOULOS,PSOL,45,0.36,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,EYMAEL,JOSE MARIA EYMAEL,DC,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,JOÃO GOULART FILHO,JOÃO VICENTE FONTELLA GOULART,PPL,2,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Presidente,VERA,VERA LUCIA PEREIRA DA SILVA SALGADO,PSTU,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,2,Presidente,JAIR BOLSONARO,JAIR MESSIAS BOLSONARO,PSL,7829,65.59,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,2,Presidente,FERNANDO HADDAD,FERNANDO HADDAD,PT,4108,34.41,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,EDSON GIRIBONI,EDSON DE OLIVEIRA GIRIBONI,PV,2350,23.27,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,CARLOS NEDER,CARLOS ALBERTO PLETZ NEDER,PT,1201,11.89,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,RICARDO MADALENA,RICARDO ROSSI MADALENA,PR,833,8.25,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,JANAINA PASCHOAL,JANAINA CONCEIÇÃO PASCHOAL,PSL,556,5.51,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,JOÃO PAULO RILLO,JOÃO PAULO RILLO,PSOL,438,4.34,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,FERNANDO CURY,FERNANDO HENRIQUE CURY,PPS,434,4.3,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,JOÃO FADEL,JOÃO JORGE FADEL FILHO,PODE,422,4.18,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,DRA. CRISTIANY,CRISTIANY DE CASTRO,PR,287,2.84,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,JOSÉ MARIO BRASILIENSE,JOSÉ MARIO BRASILIENSE CARNEIRO,PSDB,282,2.79,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,DR. ULYSSES,ULYSSES MARIO TASSINARI,PV,241,2.39,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,REINALDO ALGUZ,REINALDO DE SOUZA ALGUZ,PV,169,1.67,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,HELIO GODOY,HÉLIO APARECIDO DE GODOY,PRB,120,1.19,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,SEBASTIÃO SANTOS,SEBASTIÃO DOS SANTOS FILHO,PRB,115,1.14,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,MAJOR AMARAL,SILVIO AMARAL SOARES,PR,107,1.06,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Estadual,RODRIGO MORAES,RODRIGO AUGUSTO MORAES,DEM,105,1.04,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,SAMUEL MOREIRA,SAMUEL MOREIRA DA SILVA JÚNIOR,PSDB,2479,22.92,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,PAULO TEIXEIRA,LUIZ PAULO TEIXEIRA FERREIRA,PT,1179,10.9,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,CAPITÃO AUGUSTO,JOSÉ AUGUSTO ROSA,PR,751,6.94,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,EDUARDO BOLSONARO,EDUARDO NANTES BOLSONARO,PSL,601,5.56,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PR,493,4.56,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,GUILHERME MUSSI,GUILHERME MUSSI FERREIRA,PP,481,4.45,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JUNIOR,PT,474,4.38,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,JOICE HASSELMANN,JOICE CRISTINA HASSELMANN,PSL,362,3.35,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,CELSO RUSSOMANNO,CELSO UBIRAJARA RUSSOMANNO,PRB,226,2.09,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,TIRIRICA,FRANCISCO EVERARDO OLIVEIRA SILVA,PR,207,1.91,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,ELI CORRÊA FILHO,ADRIANO ELI CORRÊA,DEM,186,1.72,ELEITO POR MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,ENRICO MISASI,ENRICO VAN BLARCUM DE GRAAFF MISASI,PV,167,1.54,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,CANTORA VANILDA BORDIERI,VANILDA APARECIDA BUENO BORDIERI POLI,PATRI,156,1.44,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,MISSIONÁRIO JOSÉ OLIMPIO,JOSÉ OLIMPIO SILVEIRA MORAES,DEM,127,1.17,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Deputado Federal,VINICIUS CARVALHO,VINICIUS RAPOZO DE CARVALHO,PRB,123,1.14,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MARA GABRILLI,MARA CRISTINA GABRILLI,PSDB,4412,22.64,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MAJOR OLIMPIO,SERGIO OLIMPIO GOMES,PSL,3681,18.89,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,EDUARDO SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,2977,15.28,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,TRIPOLI,JOSÉ RICARDO ALVARENGA TRIPOLI,PSDB,2585,13.26,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,JILMAR TATTO,JILMAR AUGUSTINHO TATTO,PT,2007,10.3,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MAURREN MAGGI,MAURREN HIGA MAGGI,PSB,1703,8.74,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MARIO COVAS NETO,MÁRIO COVAS NETO,PODE,904,4.64,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,DIOGO DA LUZ,DIOGO RIBEIRO DA LUZ,NOVO,648,3.32,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,ANTONIO NETO,ANTONIO FERNANDES DOS SANTOS NETO,PDT,130,0.67,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MARCELO BARBIERI,MARCELO FORTES BARBIERI,MDB,113,0.58,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,PROFESSORA SILVIA FERRARO,SILVIA ANDREA FERRARO,PSOL,107,0.55,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,CIDINHA,MARIA APARECIDA PINTO,MDB,103,0.53,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,EDUCADOR DANIEL CARA,DANIEL TOJEIRA CARA,PSOL,63,0.32,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,PEDRO HENRIQUE DE CRISTO,PEDRO HENRIQUE HENRIQUES FERNANDES,REDE,20,0.1,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,MOIRA LÁZARO MANDATO COLETIVO,MOIRA LÁZARO DA SILVA,REDE,20,0.1,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Senador,DRA. ELIANA FERREIRA,ELIANA LÚCIA FERREIRA,PSTU,16,0.08,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,JOÃO DORIA,JOÃO AGRIPINO DA COSTA DORIA JUNIOR,PSDB,4983,44.73,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,LUIZ MARINHO,LUIZ MARINHO,PT,2295,20.6,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,MARCIO FRANÇA,MARCIO LUIZ FRANÇA GOMES,PSB,2012,18.06,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,PAULO SKAF,PAULO ANTONIO SKAF,MDB,1135,10.19,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,ROGERIO CHEQUER,ROGERIO CHEQUER RAMALHO MACHADO,NOVO,221,1.98,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,RODRIGO TAVARES,RODRIGO TAVARES DA SILVA,PRTB,220,1.97,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,MAJOR COSTA E SILVA,ADRIANO DA COSTA E SILVA,DC,198,1.78,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,PROFESSORA LISETE,LISETE REGINA GOMES ARELARO,PSOL,67,0.6,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,PROF. CLAUDIO FERNANDO,CLAUDIO FERNANDO DE AGUIAR,PMN,8,0.07,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,1,Governador,TONINHO FERREIRA,ANTONIO DONIZETE FERREIRA,PSTU,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,2,Governador,JOÃO DORIA,JOÃO AGRIPINO DA COSTA DORIA JUNIOR,PSDB,5639,50.03,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2018,2,Governador,MARCIO FRANÇA,MARCIO LUIZ FRANÇA GOMES,PSB,5633,49.97,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip
+2022,1,Presidente,JAIR BOLSONARO,JAIR MESSIAS BOLSONARO,PL,6397,48.38,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,LULA,LUIZ INÁCIO LULA DA SILVA,PT,5853,44.27,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,SIMONE TEBET,SIMONE NASSAR TEBET,MDB,610,4.61,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,CIRO GOMES,CIRO FERREIRA GOMES,PDT,253,1.91,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,FELIPE D AVILA,LUIZ FELIPE CHAVES D AVILA,NOVO,48,0.36,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,SORAYA THRONICKE,SORAYA VIEIRA THRONICKE,UNIÃO,36,0.27,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,PADRE KELMON,KELMON LUIS DA SILVA SOUZA,PTB,12,0.09,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,SOFIA MANZANO,SOFIA PADUA MANZANO,PCB,6,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,LÉO PÉRICLES,LEONARDO PÉRICLES VIEIRA ROQUE,UP,4,0.03,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,VERA,VERA LUCIA PEREIRA DA SILVA SALGADO,PSTU,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Presidente,CONSTITUINTE EYMAEL,JOSE MARIA EYMAEL,DC,0,0.0,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,2,Presidente,JAIR BOLSONARO,JAIR MESSIAS BOLSONARO,PL,7291,54.77,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,2,Presidente,LULA,LUIZ INÁCIO LULA DA SILVA,PT,6021,45.23,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,PAULO TEIXEIRA,LUIZ PAULO TEIXEIRA FERREIRA,PT,1596,13.56,ELEITO POR MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,SAMUEL MOREIRA,SAMUEL MOREIRA DA SILVA JUNIOR,PSDB,1541,13.1,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,MAURICIO NEVES,MANOEL MAURICIO SILVA NEVES,PP,1318,11.2,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JUNIOR,PT,566,4.81,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,FREDERICO DAVILA,FREDERICO BRAUN D AVILA,PL,537,4.56,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,CAPITÃO AUGUSTO,JOSÉ AUGUSTO ROSA,PL,415,3.53,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,RICARDO IZAR,RICARDO IZAR JUNIOR,REPUBLICANOS,380,3.23,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,SIMONE MARQUETTO,SIMONE APARECIDA CURRALADAS DOS SANTOS,MDB,363,3.09,ELEITO POR MÉDIA,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,EDUARDO BOLSONARO,EDUARDO NANTES BOLSONARO,PL,252,2.14,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,CARLA ZAMBELLI,CARLA ZAMBELLI SALGADO DE OLIVEIRA,PL,244,2.07,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,RICARDO SALLES,RICARDO DE AQUINO SALLES,PL,229,1.95,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,CAPITÃO DERRITE,GUILHERME MURARO DERRITE,PL,212,1.8,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,MARCIO ALVINO,MARCIO LUIZ ALVINO DE SOUZA,PL,175,1.49,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,GUILHERME BOULOS,GUILHERME CASTRO BOULOS,PSOL,155,1.32,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Federal,MILTON MONTI,MILTON ANTONIO CASQUEL MONTI,PSD,153,1.3,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,ASTRONAUTA MARCOS PONTES,MARCOS CESAR PONTES,PL,5142,46.28,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,MÁRCIO FRANÇA,MÁRCIO LUIZ FRANÇA GOMES,PSB,4170,37.53,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,EDSON APARECIDO,EDSON APARECIDO DOS SANTOS,MDB,1586,14.28,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,ALDO REBELO,JOSÉ ALDO REBELO FIGUEIREDO,PDT,76,0.68,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,VIVIAN MENDES,VIVIAN MENDES DA SILVA,UP,49,0.44,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,RICARDO MELLÃO,RICARDO LUIS MELLÃO,NOVO,33,0.3,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,JANAINA PASCHOAL,JANAINA CONCEIÇÃO PASCHOAL,PRTB,30,0.27,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,PROF. TITO BELLINI,TITO FLAVIO BELLINI NOGUEIRA DE OLIVEIRA,PCB,17,0.15,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,DR. AZKOUL,MARCO ANTONIO AZKOUL,DC,6,0.05,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,MANCHA COLETIVO SOCIALISTA,LUIZ CARLOS PRATES,PSTU,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Senador,ANTÔNIO CARLOS,ANTÔNIO CARLOS SILVA,PCO,0,0.0,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,TARCÍSIO,TARCISIO GOMES DE FREITAS,REPUBLICANOS,5073,42.17,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,FERNANDO HADDAD,FERNANDO HADDAD,PT,4756,39.53,2º TURNO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,RODRIGO GARCIA,RODRIGO GARCIA,PSDB,2015,16.75,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,ELVIS CEZAR,ELVIS LEONARDO CEZAR,PDT,87,0.72,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,VINICIUS POIT,VINICIUS LAZZER POIT,NOVO,62,0.52,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,GABRIEL COLOMBO,GABRIEL MAURILIO COLOMBO DE FREITAS,PCB,21,0.17,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,CAROL VIGLIAR,CAROLINA REJAILI VIGLIAR,UP,10,0.08,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,ANTONIO JORGE,ANTONIO JORGE FILHO,DC,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,ALTINO,ALTINO DE MELO PRAZERES JUNIOR,PSTU,3,0.02,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Governador,EDSON DORTA,EDSON DORTA SILVA,PCO,1,0.01,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,EDSON GIRIBONI,EDSON DE OLIVEIRA GIRIBONI,UNIÃO,2141,19.65,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,JEFERSON MODESTO JÉ,JEFERSON MODESTO SILVA,PP,1776,16.3,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,EDUARDO SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,1687,15.48,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,RICARDO MADALENA,RICARDO ROSSI MADALENA,PL,702,6.44,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,PROFESSOR WAGNER ROMÃO,WAGNER DE MELO ROMÃO,PT,452,4.15,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,DRA. CRISTIANY,CRISTIANY DE CASTRO,PL,427,3.92,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,DANI ALONSO,DANIELE MAZUQUELI ALONSO,PL,179,1.64,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,FERNANDO CURY,FERNANDO HENRIQUE CURY,UNIÃO,152,1.39,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,CARLOS GIANNAZI,CARLOS ALBERTO GIANNASI,PSOL,148,1.36,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,SEBASTIÃO SANTOS,SEBASTIÃO DOS SANTOS FILHO,REPUBLICANOS,116,1.06,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,ROGÉRIO SANTOS,JOSÉ ROGERIO SOARES DOS SANTOS,MDB,113,1.04,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,MAJOR MECCA,DIMAS MECCA SAMPAIO,PL,103,0.95,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,CARLOS CEZAR,CARLOS CEZAR DA SILVA,PL,92,0.84,ELEITO POR QP,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,ALESSANDRA ALGARIN,ALESSANDRA CRISTIANE SOARES GARCIA ALGARIN,PODE,91,0.84,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,1,Deputado Estadual,JOÃO FADEL,JOÃO JORGE FADEL FILHO,PP,84,0.77,SUPLENTE,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,2,Governador,TARCÍSIO,TARCISIO GOMES DE FREITAS,REPUBLICANOS,7165,56.14,ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2022,2,Governador,FERNANDO HADDAD,FERNANDO HADDAD,PT,5597,43.86,NÃO ELEITO,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip
+2026,1,Presidente,FLAVIO BOLSONARO,FLAVIO NANTES BOLSONARO,PL,7881,58.63,2º turno (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,LULA,LUIZ INÁCIO LULA DA SILVA,PT,4667,34.72,2º turno (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,ESCRITOR AUGUSTO CURY,AUGUSTO JORGE CURY,AVANTE,372,2.77,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,RENAN SANTOS,RENAN ANTONIO FERREIRA DOS SANTOS,MISSÃO,293,2.18,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,RONALDO CAIADO,RONALDO RAMOS CAIADO,PSD,195,1.45,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,ZEMA,ROMEU ZEMA NETO,NOVO,18,0.13,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,SAMARA,SAMARA MARTINS DA SILVA FEITOSA,UP,8,0.06,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,HERTZ DIAS,HERTZ DA CONCEICAO DIAS,PSTU,3,0.02,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,RUI COSTA PIMENTA,RUI COSTA PIMENTA,PCO,3,0.02,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,CLARIANA BARAO,CLARIANA ZACARKIM BARAO,DC,2,0.01,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,VETERINÁRIO WILSON GRASSI,WILSON GRASSI JUNIOR,DEMOCRATA,1,0.01,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Presidente,EDMILSON COSTA,EDMILSON SILVA COSTA,PCB,0,0.0,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp71773-c0001-e006257-u.json
+2026,1,Governador,TARCÍSIO,TARCISIO GOMES DE FREITAS,REPUBLICANOS,8320,67.24,Eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0003-e006259-u.json
+2026,1,Governador,FERNANDO HADDAD,FERNANDO HADDAD,PT,3962,32.02,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0003-e006259-u.json
+2026,1,Governador,VIVIAN MENDES,VIVIAN MENDES DA SILVA,UP,35,0.28,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0003-e006259-u.json
+2026,1,Governador,VERA LÚCIA,VERA LÚCIA PEREIRA DA SILVA SALGADO,PSTU,28,0.23,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0003-e006259-u.json
+2026,1,Governador,CARLOS MACHADO,CARLOS ALBERTO MACHADO,PCB,28,0.23,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0003-e006259-u.json
+2026,1,Senador,GUILHERME DERRITE,GUILHERME MURARO DERRITE,PP,7868,34.28,Eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,ANDRÉ DO PRADO,ANDRE LUIS DO PRADO,PL,7704,33.56,Eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,SIMONE TEBET,SIMONE NASSAR TEBET ROCHA,PSB,3652,15.91,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,MARINA SILVA,MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA,REDE,3371,14.69,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,GERALDO RUFINO,GERALDO ARISTIDES RUFINO,PODE,149,0.65,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,GUTO SCHIAVETTO,RICARDO AUGUSTO MANGUE SCHIAVETTO,MISSÃO,127,0.55,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,SONINHA FRANCINE,SONIA FRANCINE GASPAR MARMO,CIDADANIA,23,0.1,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,MAÍRA DE SOUZA,MAÍRA DIAS DE SOUZA,UP,23,0.1,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,DRA ELIANA FERREIRA,ELIANA LUCIA FERREIRA,PSTU,15,0.07,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,PETTER MAAHS,PETTER MAAHS DA SILVA,PCB,9,0.04,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,MARCIO ALVES,MARCIO ALVES DOS SANTOS,UP,7,0.03,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,WELLER GONÇALVES,WELLER PEREIRA GONÇALVES,PSTU,4,0.02,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Senador,WILLIAM TEIXEIRA,WILLIAM TEIXEIRA DE OLIVEIRA,AGIR,2,0.01,Não eleito (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0005-e006259-u.json
+2026,1,Deputado Federal,MAURICIO NEVES,MANOEL MAURICIO SILVA NEVES,PP,2333,18.41,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,LUCAS PAVANATO,LUCAS PAVANATO DE OLIVEIRA,PL,1554,12.26,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,PAULO TEIXEIRA,LUIZ PAULO TEIXEIRA FERREIRA,PT,1287,10.15,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,VITOR LIPPI,VITOR LIPPI,PSD,702,5.54,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,CAPITÃO AUGUSTO,JOSE AUGUSTO ROSA,PL,503,3.97,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,ERIKA HILTON,ERIKA HILTON,PSOL,362,2.86,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,ARLINDO CHINAGLIA,ARLINDO CHIGNALIA JUNIOR,PT,344,2.71,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,RIBAMAR SILVA,RIBAMAR ANTONIO DA SILVA,PODE,321,2.53,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,RENATO BOLSONARO,RENATO ANTONIO BOLSONARO,PL,299,2.36,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,JOÃO CURY,JOAO CURY NETO,MDB,291,2.3,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,MARCOS PEREIRA,MARCOS ANTONIO PEREIRA,REPUBLICANOS,242,1.91,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,MOTTA,LUIZ CARLOS MOTTA,PL,227,1.79,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,IGOR SOARES,IGOR SOARES EBERT,PSD,204,1.61,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,ALEX LACERDA,ALEX ROGERIO CAMARGO DE LACERDA,PSB,202,1.59,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Federal,KIM KATAGUIRI,KIM PATROCA KATAGUIRI,MISSÃO,188,1.48,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0006-e006259-u.json
+2026,1,Deputado Estadual,EDSON GIRIBONI,EDSON DE OLIVEIRA GIRIBONI,UNIÃO,3622,28.78,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,NEWTON LIMA,NEWTON LIMA NETO,PT,997,7.92,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,JÉ - JEFERSON MODESTO,JEFERSON MODESTO SILVA,PL,947,7.53,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,EDUARDA CAMPOPIANO,MARIA EDUARDA CAMPOPIANO MONTEIRO,PL,664,5.28,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,DANILO JOAN,DANILO BARBOSA MACHADO,PP,528,4.2,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,TENENTE COIMBRA,MATHEUS COIMBRA MARTINS DE AGUIAR,PL,315,2.5,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,DANI ALONSO,DANIELE MAZUQUELI ALONSO ROSA,PL,311,2.47,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,CONTE LOPES,ROBERVAL CONTE LOPES LIMA,PL,275,2.19,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,THAINARA FARIA,THAINARA KAROLINE FARIA,PT,263,2.09,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,RICARDO MADALENA,RICARDO ROSSI MADALENA,PL,260,2.07,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,DRA CRISTIANY,CRISTIANY DE CASTRO,REPUBLICANOS,233,1.85,Suplente (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,CARLOS GIANNAZI,CARLOS ALBERTO GIANNASI,PSOL,167,1.33,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,GIOVANNI SANCHES,GIOVANNI GIUDICE CALDERON,PL,143,1.14,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,EDUARDO SUPLICY,EDUARDO MATARAZZO SUPLICY,PT,141,1.12,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json
+2026,1,Deputado Estadual,SOFIA FAVERO,SOFIA FAVERO,PSOL,132,1.05,Eleito por QP (situação estadual/nacional),https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp71773-c0007-e006259-u.json

@@ -1,0 +1,25 @@
+territorio,etapa,2019,2021,2023,2025,fonte
+Taquarituba,anos iniciais EF (rede publica = municipal),7.0,6.7,6.9,7.0,"INEP via IBGE Cidades API, indicadores 78187/78188"
+Taquarituba,anos finais EF (rede publica = estadual),5.6,5.6,5.6,5.4,"INEP via IBGE, indicador 78192"
+Taquarituba,ensino medio (rede publica),5.0,5.0,4.5,4.9,"INEP via IBGE, indicador 78197"
+Avaré,anos iniciais EF,6.2,5.6,6.3,6.5,idem
+Avaré,anos finais EF,5.3,5.2,4.9,4.8,idem
+Avaré,ensino medio,4.6,4.4,4.3,4.4,idem
+Coronel Macedo,anos iniciais EF,6.4,6.3,6.6,6.2,idem
+Coronel Macedo,anos finais EF,5.3,5.0,5.5,5.2,idem
+Coronel Macedo,ensino medio,4.2,4.1,4.0,4.1,idem
+Fartura,anos iniciais EF,7.4,6.5,7.4,7.4,idem
+Fartura,anos finais EF,5.7,5.8,5.8,5.7,idem
+Fartura,ensino medio,5.3,4.8,4.9,4.9,idem
+Itaí,anos iniciais EF,5.9,5.7,6.0,6.1,idem
+Itaí,anos finais EF,5.3,5.2,4.9,5.0,idem
+Itaí,ensino medio,4.5,4.3,3.9,4.5,idem
+Itaporanga,anos iniciais EF,6.4,5.7,5.9,6.4,idem
+Itaporanga,anos finais EF,4.8,4.6,4.6,5.1,idem
+Itaporanga,ensino medio,4.6,4.1,4.2,4.5,idem
+Taguaí,anos iniciais EF,7.7,7.1,7.5,7.9,idem
+Taguaí,anos finais EF,6.0,5.8,5.8,5.5,idem
+Taguaí,ensino medio,4.8,4.6,4.8,4.8,idem
+Estado de SP,anos iniciais EF (publica),6.5,6.1,6.2,6.5,idem
+Estado de SP,anos finais EF (publica),5.2,5.3,5.1,5.2,idem
+Estado de SP,ensino medio (estadual),4.3,4.4,4.2,4.3,idem

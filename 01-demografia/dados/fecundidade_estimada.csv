@@ -1,0 +1,10 @@
+grupo_idade_mae,nascidos_2021,nascidos_2022,nascidos_2023,media_2021_2023,mulheres_censo_2022,taxa_especifica_por_mil_ESTIMATIVA,taxa_RA_Itapeva_2022_SEADE,taxa_ESP_2022_SEADE
+15-19 (inclui 10-14),35,27,29,30.33,752,40.3,45.61,29.86
+20-24,89,80,78,82.33,837,98.4,91.3,71.41
+25-29,80,71,88,79.67,876,90.9,93.02,77.95
+30-34,55,62,54,57.0,891,64.0,68.35,68.25
+35-39,21,24,31,25.33,860,29.5,40.67,44.2
+40-44,6,11,6,7.67,932,8.2,11.39,13.04
+45-49,1,0,0,0.33,812,0.4,0.5,0.93
+TFT (filhos por mulher),,,,,,1.66,1.75,1.53
+nota,Nascidos: DATASUS SINASC por residencia. Mulheres: IBGE Censo 2022 SIDRA 9514. TFT de Taquarituba e calculo proprio (nao oficial). RA Itapeva e ESP: SEADE fecundidade_total.csv,,,,,,,

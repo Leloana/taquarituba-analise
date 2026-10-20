@@ -1,0 +1,323 @@
+ano,produto,area_plantada_ha,quantidade_t,rendimento_kg_ha,valor_producao_mil_reais,pct_valor_total,fonte
+2002,Abacate,10,88,8800,22,0.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Arroz (em casca),300,900,3000,328,0.81,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Batata-inglesa,864,24375,28211,13548,33.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Café (em grão) Total,812,682,839,1325,3.27,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Cana-de-açúcar,1550,93000,60000,2834,7.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Feijão (em grão),6200,6690,1079,7611,18.80,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Laranja,300,6129,20430,1250,3.09,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Milho (em grão),8800,42040,4777,11257,27.80,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Pêssego,7,63,9000,58,0.14,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Soja (em grão),1500,4500,3000,2180,5.38,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Tomate,3,180,60000,76,0.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2002,Total,20346,..,..,40489,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Abacate,8,72,9000,29,0.09,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Arroz (em casca),150,450,3000,225,0.67,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Batata-inglesa,330,9940,30121,5566,16.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Café (em grão) Total,812,682,839,1728,5.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Cana-de-açúcar,1550,93000,60000,2139,6.32,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Feijão (em grão),3400,4080,1200,5712,16.89,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Laranja,192,6273,32671,1230,3.64,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Milho (em grão),10000,40800,4080,10322,30.52,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Pêssego,7,84,12000,97,0.29,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Soja (em grão),1500,4500,3000,2812,8.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Tomate,3,225,75000,179,0.53,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Total,22452,..,..,33819,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2003,Trigo (em grão),4500,9000,2000,3780,11.18,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Abacate,8,72,9000,31,0.08,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Arroz (em casca),150,450,3000,261,0.66,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Batata-inglesa,480,12490,26020,6828,17.36,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Café (em grão) Total,812,584,719,1694,4.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Cana-de-açúcar,1500,105000,70000,3150,8.01,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Feijão (em grão),5100,7020,1376,6950,17.67,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Laranja,230,6915,30065,1452,3.69,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Mandioca,100,3000,30000,600,1.53,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Milho (em grão),8300,36300,4373,9166,23.30,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Pêssego,7,70,10000,77,0.20,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Soja (em grão),3000,8400,2800,6006,15.27,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Tomate,3,225,75000,135,0.34,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Total,22490,..,..,39338,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2004,Trigo (em grão),2800,7200,2571,2988,7.60,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Abacate,8,104,13000,57,0.16,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Arroz (em casca),150,225,1500,88,0.25,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Batata-inglesa,382,11392,29821,6797,19.20,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Café (em grão) Total,812,584,719,1810,5.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Cana-de-açúcar,1575,109511,69530,3066,8.66,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Feijão (em grão),2800,4710,1682,5417,15.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Laranja,160,7473,46706,1495,4.22,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Mandioca,109,3234,29669,517,1.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Milho (em grão),12300,40392,3283,9593,27.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Pêssego,7,98,14000,165,0.47,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Soja (em grão),4000,7200,1800,3240,9.15,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Tomate,3,225,75000,135,0.38,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Total,26306,..,..,35392,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Trigo (em grão),3000,7200,2400,2376,6.71,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2005,Triticale (em grão),1000,2400,2400,636,1.80,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Abacate,8,96,12000,48,0.08,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Arroz (em casca),100,150,1500,107,0.18,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Batata-inglesa,626,16784,26811,9063,15.47,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Café (em grão) Total,812,584,719,1655,2.83,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Cana-de-açúcar,1500,105000,70000,3402,5.81,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Feijão (em grão),7036,10550,1499,14503,24.76,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Laranja,160,7824,48900,2817,4.81,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Mandioca,200,6000,30000,540,0.92,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Milho (em grão),15000,84600,5640,20304,34.67,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Pêssego,7,140,20000,238,0.41,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Soja (em grão),3000,7200,2400,2724,4.65,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Tomate,1,60,60000,27,0.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Total,33060,..,..,58566,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Trigo (em grão),3610,7581,2100,2502,4.27,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2006,Triticale (em grão),1000,2400,2400,636,1.09,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Abacate,8,120,15000,67,0.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Arroz (em casca),140,336,2400,161,0.28,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Batata-inglesa,596,16980,28489,11207,19.14,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Café (em grão) Total,860,602,700,2353,4.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Cana-de-açúcar,3500,245000,70000,8820,15.07,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Feijão (em grão),4000,6000,1500,9360,15.99,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Laranja,240,11736,48900,2993,5.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Mandioca,250,7500,30000,840,1.43,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Milho (em grão),10000,48600,4860,17350,29.64,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Pêssego,7,105,15000,158,0.27,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Soja (em grão),3000,7200,2400,3744,6.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Tomate,1,60,60000,20,0.03,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Total,24602,..,..,58540,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Trigo (em grão),1000,1800,1800,882,1.51,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2007,Triticale (em grão),1000,2208,2208,585,1.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Abacate,8,104,13000,54,0.06,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Arroz (em casca),70,115,1642,74,0.08,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Batata-inglesa,596,16685,27994,12291,13.93,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Café (em grão) Total,575,410,713,1640,1.86,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Cana-de-açúcar,1600,112000,70000,3360,3.81,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Feijão (em grão),7801,12475,1599,29104,32.99,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Laranja,160,7824,48900,1933,2.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Mandioca,200,6000,30000,894,1.01,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Milho (em grão),13740,78208,5691,29328,33.24,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Pêssego,7,126,18000,166,0.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Soja (em grão),2550,6630,2600,4641,5.26,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Tomate,1,70,70000,32,0.04,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Total,31858,..,..,88233,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Trigo (em grão),3250,7280,2240,3858,4.37,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2008,Triticale (em grão),1300,2860,2200,858,0.97,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Arroz (em casca),150,450,3000,270,0.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Batata-inglesa,240,7800,32500,8580,13.87,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Café (em grão) Total,960,864,900,3629,5.87,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Cana-de-açúcar,4000,280000,70000,8680,14.03,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Feijão (em grão),6000,7200,1200,8352,13.50,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Laranja,600,19584,32640,3094,5.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Mandioca,4000,13500,30000,2025,3.27,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Milho (em grão),12200,61920,5075,18019,29.13,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Soja (em grão),4000,10800,2700,7776,12.57,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Total,36150,..,..,61865,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Trigo (em grão),2000,1800,900,810,1.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2009,Triticale (em grão),2000,1800,900,630,1.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Batata-inglesa,530,8480,16000,3816,4.26,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Café (em grão) Total,960,864,900,4519,5.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Cana-de-açúcar,4000,280000,70000,10640,11.88,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Feijão (em grão),6000,12600,2100,30844,34.45,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Laranja,540,29214,54100,11013,12.30,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Mandioca,200,8000,40000,1584,1.77,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Milho (em grão),12200,61000,5000,18971,21.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Soja (em grão),4000,10800,2700,7732,8.64,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Sorgo (em grão),600,2160,3600,408,0.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2010,Total,29030,..,..,89527,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Arroz (em casca),300,720,2400,338,0.43,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Batata-inglesa,390,11430,29308,5036,6.39,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Café (em grão) Total,960,864,900,4968,6.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Cana-de-açúcar,4000,280000,70000,17360,22.04,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Feijão (em grão),3500,7350,2100,12201,15.49,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Laranja,540,22032,40800,5949,7.55,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Mandioca,200,8000,40000,1880,2.39,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Milho (em grão),7600,44880,5905,18682,23.72,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Soja (em grão),6000,16200,2700,11988,15.22,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Sorgo (em grão),600,1440,2400,360,0.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2011,Total,24090,..,..,78762,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Arroz (em casca),200,480,2400,274,0.28,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Batata-inglesa,390,11430,29308,8760,9.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Café (em grão) Arábica,960,864,900,4355,4.50,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Café (em grão) Total,960,864,900,4355,4.50,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Cana-de-açúcar,4000,280000,70000,13160,13.59,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Feijão (em grão),3530,7404,2097,23383,24.15,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Laranja,540,19829,36720,2855,2.95,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Mandioca,200,6000,30000,1110,1.15,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Milho (em grão),12000,61000,5083,22830,23.58,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Soja (em grão),8000,19200,2400,19699,20.35,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Sorgo (em grão),600,1440,2400,397,0.41,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2012,Total,30420,..,..,96823,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Arroz (em casca),200,480,2400,336,0.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Batata-inglesa,390,11430,29308,7664,9.23,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Café (em grão) Arábica,960,864,900,3110,3.75,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Café (em grão) Total,960,864,900,3110,3.75,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Cana-de-açúcar,4000,280000,70000,17360,20.91,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Feijão (em grão),3530,7404,2097,8277,9.97,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Laranja,540,19829,36720,3173,3.82,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Mandioca,200,6000,30000,2700,3.25,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Milho (em grão),12000,62000,5167,22388,26.97,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Soja (em grão),8000,19200,2400,17664,21.28,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Sorgo (em grão),600,1440,2400,346,0.42,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2013,Total,30420,..,..,83018,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Arroz (em casca),200,480,2400,355,0.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Batata-inglesa,390,11430,29308,6975,7.85,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Café (em grão) Arábica,960,864,900,4320,4.86,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Café (em grão) Total,960,864,900,4320,4.86,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Cana-de-açúcar,4000,280000,70000,16800,18.91,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Feijão (em grão),3530,6354,1800,8282,9.32,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Laranja,540,19829,36720,7337,8.26,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Mandioca,200,6000,30000,2220,2.50,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Milho (em grão),12000,62000,5167,23940,26.95,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Soja (em grão),8000,16800,2100,18312,20.61,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Sorgo (em grão),600,1440,2400,288,0.32,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2014,Total,30420,..,..,88829,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Batata-inglesa,200,6000,30000,5160,3.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Café (em grão) Arábica,960,1440,1500,6912,4.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Café (em grão) Total,960,1440,1500,6912,4.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Cana-de-açúcar,3500,455000,130000,27300,17.53,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Feijão (em grão),3000,6300,2100,11340,7.28,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Laranja,960,34560,36000,11750,7.54,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Mandioca,80,3200,40000,1120,0.72,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Milho (em grão),9500,69300,7295,33264,21.36,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Soja (em grão),13500,45360,3360,49896,32.03,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Sorgo (em grão),1000,4200,4200,1260,0.81,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Total,37200,..,..,155756,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Trigo (em grão),3500,9450,2700,6804,4.37,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2015,Triticale (em grão),1000,2500,2500,950,0.61,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Batata-inglesa,177,5310,30000,7042,3.96,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Café (em grão) Arábica,960,1440,1500,11232,6.32,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Café (em grão) Total,960,1440,1500,11232,6.32,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Cana-de-açúcar,2000,140000,70000,8960,5.04,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Feijão (em grão),2500,6000,2400,27000,15.18,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Laranja,400,14000,35000,7980,4.49,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Mandioca,60,1800,30000,666,0.37,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Milho (em grão),8000,52700,6588,33257,18.70,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Soja (em grão),14000,54600,3900,65520,36.85,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Sorgo (em grão),2300,8740,3800,4807,2.70,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Total,35897,..,..,177815,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Trigo (em grão),5000,17300,3460,10726,6.03,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2016,Triticale (em grão),500,1250,2500,625,0.35,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Batata-inglesa,77,2310,30000,3604,2.46,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Café (em grão) Arábica,960,1440,1500,10512,7.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Café (em grão) Total,960,1440,1500,10512,7.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Cana-de-açúcar,1000,80000,80000,5200,3.56,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Feijão (em grão),2500,6000,2400,15000,10.26,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Laranja,400,20000,50000,7900,5.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Mandioca,60,1800,30000,882,0.60,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Milho (em grão),8300,57360,6911,24137,16.50,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Soja (em grão),14500,58290,4020,66571,45.51,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Sorgo (em grão),2300,8740,3800,2622,1.79,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Total,34947,..,..,146265,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Trigo (em grão),4250,14705,3460,9117,6.23,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2017,Triticale (em grão),600,1500,2500,720,0.49,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Banana (cacho),2,60,30000,72,0.04,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Batata-inglesa,150,3750,25000,2700,1.63,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Café (em grão) Arábica,680,850,1250,5525,3.33,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Café (em grão) Total,680,850,1250,5525,3.33,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Cana-de-açúcar,1000,70000,70000,4410,2.66,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Feijão (em grão),2000,5000,2500,10835,6.53,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Laranja,500,20000,40000,9000,5.43,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Mandioca,19,570,30000,257,0.15,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Milho (em grão),8000,44100,5513,21186,12.77,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Soja (em grão),19800,75240,3800,87805,52.94,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Sorgo (em grão),3300,15320,4642,6575,3.96,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Total,41751,..,..,165848,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Trigo (em grão),5800,17640,3041,16758,10.10,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2018,Triticale (em grão),500,1250,2500,725,0.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Algodão herbáceo (em caroço),150,615,4100,3075,1.52,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Banana (cacho),2,25,25000,38,0.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Batata-inglesa,150,5175,34500,6469,3.20,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Café (em grão) Arábica,680,1428,2100,9282,4.59,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Café (em grão) Total,680,1428,2100,9282,4.59,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Cana-de-açúcar,1000,70000,70000,4760,2.35,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Feijão (em grão),2500,8112,3245,26040,12.88,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Laranja,500,19600,39200,9898,4.89,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Mandioca,19,285,15000,78,0.04,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Milho (em grão),7700,51000,6623,30243,14.96,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Soja (em grão),20100,69948,3480,87435,43.24,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Sorgo (em grão),3400,18120,5329,8122,4.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Total,42801,..,..,202225,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Trigo (em grão),6000,18900,3150,16065,7.94,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2019,Triticale (em grão),600,1440,2400,720,0.36,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Algodão herbáceo (em caroço),150,630,4200,3570,1.18,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Banana (cacho),1,22,22000,26,0.01,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Batata-inglesa,58,1797,30983,2408,0.80,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Café (em grão) Arábica,1000,2400,2400,25200,8.34,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Café (em grão) Total,1000,2400,2400,25200,8.34,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Cana-de-açúcar,300,21000,70000,1680,0.56,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Cevada (em grão),266,1251,4703,1710,0.57,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Feijão (em grão),2318,7649,3300,31873,10.54,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Laranja,317,14075,44401,7601,2.51,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Mandioca,14,392,28000,165,0.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Milho (em grão),7030,44433,6320,52660,17.42,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Soja (em grão),20400,75480,3700,135234,44.74,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Sorgo (em grão),2000,9000,4500,5850,1.94,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Total,42519,..,..,302277,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Trigo (em grão),8165,28170,3450,33100,10.95,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2020,Triticale (em grão),500,1500,3000,1200,0.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Batata-inglesa,100,3696,36960,6283,1.54,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Café (em grão) Arábica,700,1540,2200,22843,5.60,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Café (em grão) Total,700,1540,2200,22843,5.60,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Cana-de-açúcar,300,21000,70000,1680,0.41,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Cevada (em grão),270,1312,4859,1640,0.40,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Feijão (em grão),2300,6900,3000,30482,7.48,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Laranja,320,12928,40400,7692,1.89,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Mandioca,14,462,33000,197,0.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Milho (em grão),8600,49140,5714,68154,16.72,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Soja (em grão),22000,94600,4300,214427,52.60,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Sorgo (em grão),5500,23100,4200,27335,6.71,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Total,46904,..,..,407650,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Trigo (em grão),6000,16500,2750,23925,5.87,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2021,Triticale (em grão),800,2640,3300,2992,0.73,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Batata-inglesa,100,4000,40000,6800,1.41,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Café (em grão) Arábica,700,1470,2100,28311,5.85,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Café (em grão) Total,700,1470,2100,28311,5.85,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Cana-de-açúcar,278,19460,70000,2530,0.52,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Cevada (em grão),270,1944,7200,3484,0.72,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Feijão (em grão),2600,7785,2994,38830,8.03,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Laranja,317,15216,48000,12903,2.67,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Mandioca,14,360,25714,588,0.12,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Milho (em grão),6500,51000,7846,73428,15.18,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Soja (em grão),22500,91350,4060,262905,54.34,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Sorgo (em grão),4000,13350,3338,14418,2.98,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Total,43279,..,..,483847,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2022,Trigo (em grão),6000,20250,3375,39650,8.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Batata-inglesa,100,4000,40000,7311,2.30,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Café (em grão) Arábica,700,1050,1500,13125,4.13,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Café (em grão) Total,700,1050,1500,13125,4.13,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Cana-de-açúcar,217,15190,70000,2064,0.65,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Cevada (em grão),270,918,3400,1102,0.35,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Feijão (em grão),1145,2070,6000,7866,2.48,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Laranja,317,13314,42000,15673,4.93,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Mandioca,14,360,25714,253,0.08,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Milho (em grão),6200,34535,5570,33171,10.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Soja (em grão),24500,95775,3909,207449,65.31,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Sorgo (em grão),4500,20052,4456,15039,4.73,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Total,44445,..,..,317636,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Trigo (em grão),6000,19800,3300,13860,4.36,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2023,Triticale (em grão),482,1205,2500,723,0.23,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Batata-inglesa,38,1412,37158,4518,1.75,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Café (em grão) Arábica,700,840,1200,7140,2.76,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Café (em grão) Total,700,840,1200,7140,2.76,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Cana-de-açúcar,227,2270,10000,304,0.12,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Cevada (em grão),72,372,5167,502,0.19,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Feijão (em grão),2500,8250,3300,34370,13.29,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Laranja,400,16800,42000,37044,14.33,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Mandioca,4,60,15000,50,0.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Milho (em grão),8700,38575,4434,36822,14.24,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Soja (em grão),22000,60555,2753,112632,43.56,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Sorgo (em grão),5800,24840,4283,19872,7.69,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Total,44441,..,..,258577,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2024,Trigo (em grão),4000,7600,1900,5323,2.06,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Amendoim (em casca),25,142,5680,533,0.13,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Arroz (em casca),35,126,3600,199,0.05,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Batata-inglesa,38,1520,40000,1781,0.44,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Café (em grão) Arábica,700,1470,2100,51450,12.62,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Café (em grão) Total,700,1470,2100,51450,12.62,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Cana-de-açúcar,227,10215,45000,1389,0.34,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Cevada (em grão),100,350,3500,397,0.10,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Feijão (em grão),2000,6360,3180,23322,5.72,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Laranja,400,16320,40800,19992,4.90,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Mandioca,4,60,15000,72,0.02,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Milho (em grão),9390,68542,7299,82006,20.11,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Soja (em grão),20700,79512,3841,163000,39.98,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Sorgo (em grão),9800,40602,4143,35161,8.62,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Total,49819,..,..,407733,100.00,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Trigo (em grão),5400,21510,3983,25812,6.33,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457
+2025,Triticale (em grão),1000,2700,2700,2619,0.64,IBGE PAM tabela 5457 https://sidra.ibge.gov.br/tabela/5457

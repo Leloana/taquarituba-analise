@@ -1,0 +1,11 @@
+# Fonte: Siconfi RGF Anexos 01 e 02, Poder Executivo (API apidatalake.tesouro.gov.br). 2018 e 2020-2025 = 3o quadrimestre; 2019 = RGF Simplificado 2o semestre; 2026 = 2o quadrimestre (12 meses ate ago/2026). R$ correntes. Siconfi nao traz RGF da Prefeitura antes de 2018.
+ano,periodo,RCL_ajustada,despesa_total_pessoal,pct_pessoal_RCL,limite_alerta_pct,limite_prudencial_pct,limite_maximo_pct,divida_consolidada,divida_consolidada_liquida,pct_DCL_RCL,emendas_individuais_deduzidas_RCL,obs
+2018,3Q,69010428.54,30867645.79,44.73,48.6,51.3,54,,,,,
+2019,2S simplificado,74169355.14,39244335.39,52.91,48.6,51.3,54,4192832.70,4124835.40,,,acima do limite prudencial segundo o RGF declarado; TCE apurou 43.72% (metodologia diferente)
+2020,3Q,80678480.88,34227000.27,42.42,48.6,51.3,54,4297700.40,4297700.40,,,
+2021,3Q,95412296.77,35017103.98,36.70,48.6,51.3,54,,,,3879432.00,
+2022,3Q,109875147.23,39409418.86,35.87,48.6,51.3,54,4722737.76,-22885283.70,negativa,600275.00,
+2023,3Q,128764201.84,50072033.98,38.89,48.6,51.3,54,,,,773812.00,mais R$ 1.271.700 de emendas de bancada/ACS deduzidas
+2024,3Q,140325092.27,53201609.95,37.91,48.6,51.3,54,4788197.18,-1075350.79,negativa,1834159.97,
+2025,3Q,156553556.44,58832787.40,37.58,48.6,51.3,54,29520387.52,8068231.62,5.15,2302410.00,DC inclui emprestimo interno de R$ 25 mi (FINISA) e R$ 4,52 mi de parcelamento previdenciario; passivo atuarial RPPS R$ 152,67 mi
+2026,2Q,166411172.40,64863583.63,38.98,48.6,51.3,54,24679262.13,5528208.37,3.32,2437590.00,passivo atuarial RPPS R$ 151,39 mi

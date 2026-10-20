@@ -1,0 +1,21 @@
+ano,populacao,urbana,rural,pct_urbana,tipo,fonte
+1970,13964,6351,7613,45.48,censo,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+1980,16174,9658,6516,59.71,censo,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+1991,18537,13610,4927,73.42,censo,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+2000,21982,18328,3654,83.38,censo,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+2010,22291,19579,2712,87.83,censo,IBGE SIDRA tabela 202 (Censos 1970-2010) https://sidra.ibge.gov.br/tabela/202
+2022,24350,20421,3929,83.86,censo,IBGE SIDRA tabela 4709 e 9923 (Censo 2022) https://sidra.ibge.gov.br/tabela/9923
+2011,22315,,,,estimativa IBGE,IBGE Cidades/Panorama indicador 29171
+2012,22338,,,,estimativa IBGE,IBGE indicador 29171
+2013,23083,,,,estimativa IBGE,IBGE indicador 29171
+2014,23123,,,,estimativa IBGE,IBGE indicador 29171
+2015,23163,,,,estimativa IBGE,IBGE indicador 29171
+2016,23202,,,,estimativa IBGE,IBGE indicador 29171
+2017,23240,,,,estimativa IBGE,IBGE indicador 29171
+2018,23180,,,,estimativa IBGE,IBGE indicador 29171
+2019,23218,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2020,23256,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2021,23292,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2024,24863,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2025,24932,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579
+2026,24995,,,,estimativa IBGE,IBGE SIDRA tabela 6579 (Estimativas de populacao) https://sidra.ibge.gov.br/tabela/6579

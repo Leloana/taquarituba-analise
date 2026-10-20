@@ -1,0 +1,27 @@
+# Emendas parlamentares estaduais (ALESP) com beneficiario em Taquarituba. Cobertura PARCIAL. Fontes: Governo SP, PDFs de emendas impositivas 2020-2022 (https://www.transparencia.sp.gov.br/EmendasImpositivas/<ano>_Saude_30_01_25.pdf e <ano>_ExcetoSaude_30_01_25.pdf); Diario Oficial de Taquarituba ed. 1123/2024 (emendas 2023.*); ALESP, Quadro consolidado das emendas 2025 (https://www.al.sp.gov.br/spl/2025/02/Acessorio/1000597524_1000740220_Acessorio.pdf). Paineis 2023-2026 do Governo SP (Power BI) nao foram extraidos.
+ano_emenda,deputado,beneficiario,objeto,valor_rs,situacao,fonte
+2020,Dra. Damaris Moura,Santa Casa de Misericordia de Taquarituba,custeio (saude),100000.00,PAGA,Governo SP 2020_Saude
+2020,Ricardo Madalena,Santa Casa de Misericordia de Taquarituba,custeio (saude),110000.00,PAGA,Governo SP 2020_Saude
+2020,Fernando Cury,Casa da Crianca de Taquarituba,reforma/ampliacao,100000.00,IMPEDIDA,Governo SP 2020_ExcetoSaude
+2020,Reinaldo Alguz,Lar Sao Vicente de Paulo de Taquarituba,reforma e ampliacao do lar,200000.00,IMPEDIDA,Governo SP 2020_ExcetoSaude
+2020,Ricardo Madalena,APAE de Taquarituba,obras,100000.00,IMPEDIDA,Governo SP 2020_ExcetoSaude
+2021,Fernando Cury,Casa da Crianca de Taquarituba,aquisicao de equipamento,40000.00,PAGA,Governo SP 2021_ExcetoSaude
+2022,Conte Lopes,Santa Casa de Misericordia de Taquarituba,melhoria do atendimento,100000.00,PAGA,Governo SP 2022_Saude
+2022,Edson Giriboni,Santa Casa de Misericordia de Taquarituba,mesa cirurgica motorizada,250000.00,PAGA,Governo SP 2022_Saude
+2022,Frederico d'Avila,Santa Casa de Misericordia de Taquarituba,custeio,195000.00,PAGA,Governo SP 2022_Saude
+2022,Gilmaci Santos,Prefeitura Municipal de Taquarituba,custeio em geral (saude),100000.00,PAGA,Governo SP 2022_Saude
+2022,Maria Lucia Amary,Santa Casa de Misericordia de Taquarituba,mobiliario e materiais hospitalares,200000.00,PAGA,Governo SP 2022_Saude
+2022,Patricia Bezerra,Prefeitura Municipal de Taquarituba,aquisicao de veiculo (saude),100000.00,PAGA,Governo SP 2022_Saude
+2022,Wellington Moura,Santa Casa de Misericordia de Taquarituba,modernizacao da rede de informatica,150000.00,EM PROCESSAMENTO (jan/2025),Governo SP 2022_Saude
+2022,Fernando Cury,Casa da Crianca de Taquarituba,reforma/ampliacao,65000.00,PAGA,Governo SP 2022_ExcetoSaude
+2022,Paulo Fiorilo,Prefeitura Municipal de Taquarituba,equipamentos e mobiliarios (educacao),80000.00,EM PROCESSAMENTO (jan/2025),Governo SP 2022_ExcetoSaude
+2023,Dani Alonso,Santa Casa (via Prefeitura; termo de colaboracao),SADT: ultrassom tomografia mamografia RX,100000.00,repassada em 2024,DO Taquarituba 1123/2024 (emenda 2023.268.51734)
+2023,Ricardo Madalena,Santa Casa (via Prefeitura; termo de colaboracao),SADT: ultrassom tomografia mamografia RX,150000.00,repassada em 2024,DO Taquarituba 1123/2024 (emenda 2023.078.51937)
+2025,Edson Giriboni,Prefeitura Municipal de Taquarituba,aquisicao de ambulancia,250000.00,indicada,ALESP quadro 2025 (2025.177.66614)
+2025,Edson Giriboni,Prefeitura Municipal de Taquarituba,aquisicao de veiculo para saude,150000.00,indicada,ALESP quadro 2025 (2025.177.66612)
+2025,Edson Giriboni,Prefeitura Municipal de Taquarituba,infraestrutura urbana,100000.00,indicada,ALESP quadro 2025 (2025.177.66619)
+2025,Agente Federal Danilo Balas,Prefeitura Municipal de Taquarituba,aquisicao de equipamentos (saude),150000.00,indicada,ALESP quadro 2025 (2025.005.68046)
+2025,Conte Lopes,Santa Casa de Misericordia de Taquarituba,custeio,100000.00,indicada,ALESP quadro 2025 (2025.025.63834)
+2025,Major Mecca,Santa Casa de Misericordia de Taquarituba,custeio de acoes e servicos de saude,150000.00,indicada,ALESP quadro 2025 (2025.059.63468)
+2025,Major Mecca,Casa da Crianca de Taquarituba,custeio,50000.00,indicada,ALESP quadro 2025 (2025.059.63531)
+2025,Tome Abduch,APAE de Taquarituba,custeio,100000.00,indicada,ALESP quadro 2025 (2025.288.67473)

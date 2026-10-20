@@ -1,0 +1,553 @@
+ano,tipo,item,valor,unidade,fonte
+2002,rebanho,Bovino,30805,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Bovino,34205,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Bovino,30890,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Bovino,28298,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Bovino,29530,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Bovino,27520,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Bovino,27700,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Bovino,21646,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Bovino,21502,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Bovino,23293,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Bovino,23045,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Bovino,19347,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Bovino,18786,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Bovino,18377,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Bovino,18496,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Bovino,16463,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Bovino,16403,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Bovino,16800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Bovino,17747,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Bovino,17500,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Bovino,19796,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Bovino,18387,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Bovino,18253,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Bovino,20609,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Bubalino,300,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Bubalino,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Bubalino,237,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Bubalino,210,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Bubalino,190,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Bubalino,100,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Bubalino,100,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Bubalino,320,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Bubalino,96,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Bubalino,90,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Bubalino,43,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Bubalino,33,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Bubalino,53,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Bubalino,39,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Bubalino,146,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Bubalino,82,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Bubalino,96,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Bubalino,160,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Bubalino,201,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Bubalino,200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Bubalino,234,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Bubalino,241,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Bubalino,239,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Bubalino,304,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Caprino,127,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Caprino,150,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Caprino,135,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Caprino,48,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Caprino,64,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Caprino,200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Caprino,230,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Caprino,82,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Caprino,150,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Caprino,140,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Caprino,145,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Caprino,120,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Caprino,80,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Caprino,41,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Caprino,28,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Caprino,190,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Caprino,145,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Caprino,120,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Caprino,98,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Caprino,90,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Caprino,7,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Caprino,6,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Caprino,22,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Caprino,23,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Codornas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Equino,670,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Equino,820,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Equino,784,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Equino,630,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Equino,660,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Equino,540,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Equino,550,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Equino,497,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Equino,500,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Equino,465,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Equino,486,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Equino,490,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Equino,450,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Equino,400,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Equino,186,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Equino,150,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Equino,147,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Equino,210,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Equino,190,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Equino,180,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Equino,208,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Equino,233,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Equino,298,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Equino,364,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Galináceos - galinhas,1960,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Galináceos - galinhas,1950,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Galináceos - galinhas,1900,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Galináceos - galinhas,1800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Galináceos - galinhas,1950,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Galináceos - galinhas,1500,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Galináceos - galinhas,1580,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Galináceos - galinhas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Galináceos - galinhas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Galináceos - galinhas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Galináceos - galinhas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Galináceos - galinhas,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Galináceos - galinhas,200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Galináceos - galinhas,200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Galináceos - galinhas,90,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Galináceos - galinhas,6000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Galináceos - galinhas,6200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Galináceos - galinhas,5100,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Galináceos - galinhas,4805,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Galináceos - galinhas,4900,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Galináceos - galinhas,3500,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Galináceos - galinhas,3325,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Galináceos - galinhas,75,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Galináceos - galinhas,2800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Galináceos - total,22722,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Galináceos - total,22370,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Galináceos - total,21700,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Galináceos - total,21800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Galináceos - total,22450,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Galináceos - total,19800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Galináceos - total,41670,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Galináceos - total,12540,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Galináceos - total,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Galináceos - total,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Galináceos - total,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Galináceos - total,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Galináceos - total,400,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Galináceos - total,7393,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Galináceos - total,6953,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Galináceos - total,26000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Galináceos - total,25000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Galináceos - total,24585,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Galináceos - total,22850,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Galináceos - total,23000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Galináceos - total,16875,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Galináceos - total,15760,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Galináceos - total,3097,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Galináceos - total,3100,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Ovino,760,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Ovino,850,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Ovino,950,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Ovino,915,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Ovino,980,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Ovino,800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Ovino,1100,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Ovino,940,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Ovino,300,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Ovino,392,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Ovino,355,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Ovino,129,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Ovino,86,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Ovino,350,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Ovino,396,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Ovino,420,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Ovino,518,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Ovino,475,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Ovino,388,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Ovino,380,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Ovino,178,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Ovino,240,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Ovino,368,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Ovino,321,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Suíno - matrizes de suínos,-,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Suíno - matrizes de suínos,2091,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Suíno - matrizes de suínos,1919,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Suíno - matrizes de suínos,1925,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Suíno - matrizes de suínos,1792,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Suíno - matrizes de suínos,780,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Suíno - matrizes de suínos,1981,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Suíno - matrizes de suínos,2135,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Suíno - matrizes de suínos,2195,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Suíno - matrizes de suínos,2150,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Suíno - matrizes de suínos,2000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Suíno - matrizes de suínos,500,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Suíno - matrizes de suínos,522,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Suíno - matrizes de suínos,590,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,rebanho,Suíno - total,2605,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2003,rebanho,Suíno - total,2509,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2004,rebanho,Suíno - total,2715,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2005,rebanho,Suíno - total,1910,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2006,rebanho,Suíno - total,1974,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2007,rebanho,Suíno - total,1320,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2008,rebanho,Suíno - total,9200,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2009,rebanho,Suíno - total,7570,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2010,rebanho,Suíno - total,15000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2011,rebanho,Suíno - total,14000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2012,rebanho,Suíno - total,13997,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2013,rebanho,Suíno - total,18226,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2014,rebanho,Suíno - total,20360,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2015,rebanho,Suíno - total,19982,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2016,rebanho,Suíno - total,20204,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2017,rebanho,Suíno - total,9800,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2018,rebanho,Suíno - total,22820,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2019,rebanho,Suíno - total,22615,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2020,rebanho,Suíno - total,23120,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2021,rebanho,Suíno - total,23000,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2022,rebanho,Suíno - total,22179,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2023,rebanho,Suíno - total,5426,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2024,rebanho,Suíno - total,5675,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2025,rebanho,Suíno - total,6389,cabecas,IBGE PPM tabela 3939 https://sidra.ibge.gov.br/tabela/3939
+2002,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Casulos do bicho-da-seda,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,producao,Leite,2345,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Leite,2387,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Leite,2199,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Leite,1985,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Leite,2279,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Leite,1660,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Leite,1467,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Leite,1727,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Leite,2254,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Leite,5126,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Leite,7231,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Leite,7015,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Leite,9570,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Leite,8675,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Leite,8405,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Leite,7385,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Leite,9722,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Leite,11052,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Leite,11664,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Leite,11800,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Leite,10914,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Leite,11487,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Leite,12033,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Leite,15783,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Lã,440,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Lã,400,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Lã,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,producao,Mel de abelha,390,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Mel de abelha,960,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Mel de abelha,1030,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Mel de abelha,930,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Mel de abelha,1100,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Mel de abelha,960,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Mel de abelha,700,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Mel de abelha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Mel de abelha,600,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Mel de abelha,552,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Mel de abelha,600,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Mel de abelha,300,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Mel de abelha,1875,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Mel de abelha,2166,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Mel de abelha,2266,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Mel de abelha,1000,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Mel de abelha,200,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Mel de abelha,250,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Mel de abelha,300,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Mel de abelha,500,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Mel de abelha,980,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Mel de abelha,100,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Mel de abelha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Mel de abelha,45,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Ovos de codorna,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,producao,Ovos de galinha,37,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,producao,Ovos de galinha,25,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,producao,Ovos de galinha,21,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,producao,Ovos de galinha,18,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,producao,Ovos de galinha,18,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,producao,Ovos de galinha,14,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,producao,Ovos de galinha,19,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,producao,Ovos de galinha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,producao,Ovos de galinha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,producao,Ovos de galinha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,producao,Ovos de galinha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,producao,Ovos de galinha,-,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,producao,Ovos de galinha,2,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,producao,Ovos de galinha,2,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,producao,Ovos de galinha,2,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,producao,Ovos de galinha,42,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,producao,Ovos de galinha,47,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,producao,Ovos de galinha,43,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,producao,Ovos de galinha,50,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,producao,Ovos de galinha,50,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,producao,Ovos de galinha,41,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,producao,Ovos de galinha,38,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,producao,Ovos de galinha,35,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,producao,Ovos de galinha,35,mil litros (leite) / mil duzias (ovos) / kg (mel),IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Casulos do bicho-da-seda,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Leite,844,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Leite,1026,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Leite,1012,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Leite,774,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Leite,1162,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Leite,1062,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Leite,954,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Leite,1209,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Leite,1645,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Leite,4664,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Leite,6146,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Leite,7647,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Leite,10431,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Leite,9456,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Leite,11431,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Leite,9601,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Leite,13805,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Leite,16800,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Leite,21112,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Leite,26550,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Leite,32087,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Leite,30786,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Leite,32128,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Leite,44667,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Lã,1,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Lã,1,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Lã,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Mel de abelha,2,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Mel de abelha,6,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Mel de abelha,9,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Mel de abelha,8,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Mel de abelha,13,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Mel de abelha,9,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Mel de abelha,6,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Mel de abelha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Mel de abelha,7,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Mel de abelha,10,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Mel de abelha,12,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Mel de abelha,5,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Mel de abelha,18,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Mel de abelha,25,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Mel de abelha,27,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Mel de abelha,12,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Mel de abelha,3,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Mel de abelha,3,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Mel de abelha,5,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Mel de abelha,7,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Mel de abelha,13,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Mel de abelha,5,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Mel de abelha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Mel de abelha,1,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Ovos de codorna,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Ovos de galinha,65,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Ovos de galinha,33,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Ovos de galinha,31,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Ovos de galinha,22,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Ovos de galinha,19,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Ovos de galinha,20,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Ovos de galinha,30,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Ovos de galinha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Ovos de galinha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Ovos de galinha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Ovos de galinha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Ovos de galinha,-,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Ovos de galinha,6,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Ovos de galinha,11,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Ovos de galinha,12,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Ovos de galinha,252,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Ovos de galinha,229,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Ovos de galinha,220,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Ovos de galinha,272,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Ovos de galinha,325,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Ovos de galinha,246,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Ovos de galinha,247,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Ovos de galinha,420,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Ovos de galinha,383,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2002,valor_producao_mil_reais,Total,911,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2003,valor_producao_mil_reais,Total,1065,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2004,valor_producao_mil_reais,Total,1052,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2005,valor_producao_mil_reais,Total,804,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2006,valor_producao_mil_reais,Total,1194,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2007,valor_producao_mil_reais,Total,1091,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2008,valor_producao_mil_reais,Total,990,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2009,valor_producao_mil_reais,Total,1209,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2010,valor_producao_mil_reais,Total,1652,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2011,valor_producao_mil_reais,Total,4675,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2012,valor_producao_mil_reais,Total,6158,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2013,valor_producao_mil_reais,Total,7653,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2014,valor_producao_mil_reais,Total,10455,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2015,valor_producao_mil_reais,Total,9492,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2016,valor_producao_mil_reais,Total,11470,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2017,valor_producao_mil_reais,Total,9865,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2018,valor_producao_mil_reais,Total,14037,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2019,valor_producao_mil_reais,Total,17023,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2020,valor_producao_mil_reais,Total,21389,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2021,valor_producao_mil_reais,Total,26882,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2022,valor_producao_mil_reais,Total,32346,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2023,valor_producao_mil_reais,Total,31038,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2024,valor_producao_mil_reais,Total,32548,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74
+2025,valor_producao_mil_reais,Total,45051,mil reais,IBGE PPM tabela 74 https://sidra.ibge.gov.br/tabela/74

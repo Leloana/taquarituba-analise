@@ -1,0 +1,13 @@
+# IEG-M/TCE-SP (faixas A, B+, B, C+, C). Fontes: tabelas citadas nos pareceres TC-004108/989/16 (2014-2016), TC-004684/989/19 (2016-2019), Relatorio de Desempenho Municipal TCE (https://www.tce.sp.gov.br/sites/default/files/rdm/taquarituba.pdf; 2018-2021), pareceres TC-004062/989/22, TC-004281/989/23 e TC-004288/989/24. Celula vazia = nao localizado.
+ano,IEGM_geral,i_Educ,i_Saude,i_Plan,i_Fiscal,i_Amb,i_Cidade,i_GovTI
+2014,B,B+,B+,C+,B+,B+,C,B
+2015,B,B,B+,C,B+,A,B+,B
+2016,B,C+,B,C,B+,B+,B+,C+
+2017,C+,B,B,C,B+,B,C+,C+
+2018,B,B,B+,C,B,B,C+,B
+2019,C+,C+,B,C,B+,C,C,C
+2020,C+,B,B,C,B+,C,C,C
+2021,C+,B,B,C,B,B,C+,C
+2022,C+,C,B,C,,,C,C
+2023,C,C+,C+,C,B,B,C,C
+2024,C+,B,B,C,B,C,C,C+
