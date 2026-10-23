@@ -16,6 +16,7 @@ Cada número nos arquivos detalhados traz fonte com URL e ano, e vem marcado com
 | [06-futuro](06-futuro/) | Planos de governo 2024, projetos estruturantes, desafios, SWOT e propostas |
 | [07-cultura](07-cultura/) | Identidade, calendário, equipamentos culturais e incentivos da Prefeitura ao setor |
 | [08-estrategia](08-estrategia/) | Brechas e rota para uma candidatura de futuro: juventude, universidade, emprego qualificado, fiscalização |
+| [09-mulheres](09-mulheres/) | Políticas para mulheres: leis e estrutura (conselho, Guardiã Maria da Penha, abrigo regional), atendimentos 2026, gasto 2021 a 2026, violência registrada 2024 a 2026, pedidos de LAI |
 
 Cada pasta tem um `README.md` com o resumo e uma subpasta `dados/` com os CSVs.
 
@@ -84,6 +85,10 @@ Método e limitações do voto por renda (estimativa ecológica, 8 locais de vot
 ![Shows sem licitação](graficos/23-shows-facita.svg)
 
 Análise completa do gasto acima da inflação em [05-financas-publicas/gasto-real-por-area.md](05-financas-publicas/gasto-real-por-area.md) e do que fez cultura e urbanismo saltarem em [05-financas-publicas/cultura-e-urbanismo-o-que-mudou.md](05-financas-publicas/cultura-e-urbanismo-o-que-mudou.md).
+
+### Mulheres
+![Violência doméstica e quem leva a vítima](graficos/26-violencia-domestica-quem-leva.svg)
+![Taxa regional](graficos/27-violencia-domestica-regiao.svg)
 
 ### Estratégia
 ![Saída de jovens](graficos/24-saida-de-jovens.svg)

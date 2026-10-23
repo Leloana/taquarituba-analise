@@ -97,7 +97,7 @@ Inferência: Leis 1.987/2025 e LC 364/2025 abrem caminho para securitização de
 | Lei 1.930 | 29/11/2023 | Convênios para vagas de internação de dependentes químicos (Pascucci) |
 | LC 377 | 15/10/2025 | Política Municipal dos Direitos da Mulher, conselho e fundo |
 | Lei 2.010 | 28/05/2026 | Convênios com o terceiro setor para serviços complementares de saúde no SUS |
-| Lei 2.011 | 17/07/2026 | Projeto "Guardiã Maria da Penha" |
+| Lei 2.011 | 17/07/2026 (o PDF assinado traz 17/06/2026; ver 09-mulheres) | Projeto "Guardiã Maria da Penha" |
 | Lei 1.965 | 01/11/2024 | Locação de imóvel em Jaú para apoio a pacientes em tratamento (Pascucci) |
 
 ### Educação, meio ambiente e cidade

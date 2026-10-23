@@ -1,0 +1,10 @@
+# Empenhos de 2026 da Prefeitura ao Consorcio AMVAPA (jan-ago). A API nao traz funcao nem historico: qual deles e o SAI Mulheres e ESTIMATIVA (ver gasto.md). Fonte: https://transparencia.tce.sp.gov.br/api/json/despesas/taquarituba/2026/<mes>, consulta 23/10/2026.
+nr_empenho,data_empenho,empenhado_rs,pago_jan_ago_rs
+1749-2026,13/02/2026,12600.0,12600.0
+2008-2026,26/02/2026,555180.0,370120.0
+2009-2026,26/02/2026,76980.0,51320.0
+2010-2026,26/02/2026,48913.2,32608.8
+2011-2026,26/02/2026,11025.72,7350.48
+4141-2026,22/04/2026,4500.0,4500.0
+6115-2026,19/06/2026,15300.0,3060.0
+7242-2026,21/07/2026,7000.0,0.0

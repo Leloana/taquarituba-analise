@@ -95,6 +95,13 @@ Leitura direta dos números: em Taquarituba, uma candidatura que se apresente co
 - **Pontas soltas para apurar:** o objeto da CPI 001.2026; por que o vereador mais votado de 2024 (Rodrigo Politori) não ocupa a cadeira (está com Glauber Gilio); o contrato para "manter" um título de Município de Interesse Turístico que não aparece em lei estadual; o fundo de turismo que existe desde 1998 e que o PPA 2026 a 2029 diz que vai "criar"; o Plano Diretor de 2006, vencido desde 2016.
 - **Cuidado com a cassação de 2022.** O TJ-SP a anulou por cerceamento de defesa e pelo voto do presidente da Câmara, que viraria prefeito. Usada como ataque, ela tende a virar a favor do Éder (o "perseguido" que venceu). Ver [../04-politica/prefeitura-e-camara.md](../04-politica/prefeitura-e-camara.md).
 
+### 4.4b Políticas para mulheres: estrutura nova, resultado sem prestação de contas
+
+- A estrutura é quase toda de set/2025 a jun/2026: Conselho e Fundo da Mulher (LC 377/2025), Guardiã Maria da Penha (Lei 2.011/2026), abrigo regional sigiloso via AMVAPA (fev/2026). Ver [../09-mulheres/](../09-mulheres/).
+- **A violência doméstica registrada subiu 22% em 2026** (129 mulheres de janeiro a agosto, taxa de 11 por mil, acima do estado, 7,3, mas no patamar de Avaré, Coronel Macedo e Fartura). Parte disso pode ser **mais denúncia**, não mais violência: a Patrulha Maria da Penha da Guarda passou a levar vítimas à delegacia (30 em 2025, 23 em 2026). É um acerto do governo; não atacar.
+- **O que falta:** número de mulheres atendidas pelo CREAS, abrigo e Patrulha, atas do conselho, execução do fundo. O gasto específico identificável é de cerca de R$ 16 por mulher por ano (0,12% da despesa). Não há Delegacia da Mulher. A saúde notifica pouco: 14 notificações de violência no SUS em 2025 contra 182 vítimas na polícia.
+- **Ação:** protocolar os 9 pedidos prontos em [../09-mulheres/pedidos-lai.md](../09-mulheres/pedidos-lai.md). Pauta propositiva: relatório público trimestral da rede de proteção, notificação compulsória na saúde, sala de atendimento especializado na delegacia e meta de orçamento para o fundo.
+
 ### 4.5 O que o governo faz bem (e não vale atacar)
 
 Uma oposição que nega tudo perde credibilidade. Os dados mostram acertos:

@@ -1,0 +1,14 @@
+# Mulheres vitimas de violencia domestica registradas de janeiro a agosto (mes estatistico), por municipio do fato, e taxa por mil mulheres (Censo 2022). Fontes: SSP-SP Base_Violencia contra mulher.xlsx (consulta 23/10/2026); IBGE SIDRA tabela 9514 (populacao feminina 2022). Calculo proprio.
+cod_ibge,nome,mulheres_censo2022,vitimas_jan_ago_2024,vitimas_jan_ago_2025,vitimas_jan_ago_2026,taxa_2024_por_mil,taxa_2025_por_mil,taxa_2026_por_mil
+3504503,Avaré - SP,46856.0,439.0,391.0,490.0,9.37,8.34,10.46
+3505005,Barão de Antonina - SP,1768.0,16.0,9.0,17.0,9.05,5.09,9.62
+3512605,Coronel Macedo - SP,2119.0,16.0,17.0,24.0,7.55,8.02,11.33
+3515400,Fartura - SP,8517.0,88.0,87.0,89.0,10.33,10.21,10.45
+3521804,Itaí - SP,12123.0,90.0,89.0,93.0,7.42,7.34,7.67
+3522802,Itaporanga - SP,7169.0,48.0,48.0,62.0,6.7,6.7,8.65
+3535804,Paranapanema - SP,9542.0,48.0,58.0,104.0,5.03,6.08,10.9
+3553005,Taguaí - SP,6394.0,60.0,43.0,55.0,9.38,6.73,8.6
+3553807,Taquarituba - SP,11747.0,91.0,106.0,129.0,7.75,9.02,10.98
+3554201,Tejupá - SP,2022.0,16.0,14.0,9.0,7.91,6.92,4.45
+35,Estado de SP,23014862.0,134264.0,145876.0,167363.0,5.83,6.34,7.27
+,Mediana de 99 municipios de SP com 8 a 16 mil mulheres,,,,,6.88,7.22,8.08
