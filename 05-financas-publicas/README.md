@@ -17,16 +17,27 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 | LOA 2026 (receita estimada = despesa fixada) | R$ 192,45 mi | [Lei 1.998/2025](https://www.taquarituba.sp.gov.br/legislacao/download-lei/13497/) |
 | LOA 2025 (dotação inicial) | R$ 160,98 mi | [Siconfi RREO 2025](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo?an_exercicio=2025&nr_periodo=6&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2001&co_esfera=M&id_ente=3553807) |
 | Receita realizada 2025 (com intra, líquida de FUNDEB) | R$ 196,01 mi, sendo R$ 18 mi de empréstimo | idem |
-| Despesa empenhada 2025 | R$ 181,08 mi | idem |
+| Despesa empenhada 2025 | R$ 181,08 mi (com intraorçamentárias; R$ 169,95 mi sem elas, base usada nas tabelas por função) | idem |
+| Resultado orçamentário 2025 | +R$ 14,94 mi; sem o empréstimo, déficit de cerca de R$ 3,1 mi (cálculo próprio). Resultado primário +R$ 3,21 mi | [despesas.md](despesas.md), seção 6 |
+| Resultado 2022 a 2024 (TCE) | déficits de 5,10%, 5,66% e 5,36%, cobertos por caixa de anos anteriores | [contas-e-tce.md](contas-e-tce.md) |
 | Execução 2026 até agosto | receita R$ 133,20 mi; empenho R$ 177,79 mi; liquidado R$ 129,50 mi | [Siconfi RREO 2026 4º bim](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo?an_exercicio=2026&nr_periodo=4&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2001&co_esfera=M&id_ente=3553807) |
 | Dependência de transferências (2025) | 80,6% das receitas correntes (cálculo próprio) | [Siconfi DCA 2025](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=2025&no_anexo=DCA-Anexo%20I-C&id_ente=3553807) |
 | Pessoal / RCL (ago/2026) | 38,98% (limite 54%) | [Siconfi RGF 2026 2º quad.](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rgf?an_exercicio=2026&in_periodicidade=Q&nr_periodo=2&co_tipo_demonstrativo=RGF&no_anexo=RGF-Anexo%2001&co_esfera=M&co_poder=E&id_ente=3553807) |
 | Dívida consolidada (ago/2026) | R$ 24,68 mi (14,81% da RCL) | [Siconfi RGF Anexo 02](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rgf?an_exercicio=2026&in_periodicidade=Q&nr_periodo=2&co_tipo_demonstrativo=RGF&no_anexo=RGF-Anexo%2002&co_esfera=M&co_poder=E&id_ente=3553807) |
-| Empréstimo FINISA/Caixa | até R$ 25 mi autorizados; R$ 18 mi ingressaram em 2025 | [Lei 1.974/2025](https://www.taquarituba.sp.gov.br/legislacao/download-lei/12835/) |
+| Empréstimo FINISA/Caixa | até R$ 25 mi autorizados e registrados na dívida contratual; R$ 18 mi ingressaram como receita em 2025 | [Lei 1.974/2025](https://www.taquarituba.sp.gov.br/legislacao/download-lei/12835/) |
 | Passivo atuarial do RPPS (Capstuba) | R$ 151,39 mi (ago/2026) | [Siconfi RGF Anexo 02](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rgf?an_exercicio=2026&in_periodicidade=Q&nr_periodo=2&co_tipo_demonstrativo=RGF&no_anexo=RGF-Anexo%2002&co_esfera=M&co_poder=E&id_ente=3553807) |
 | Último parecer do TCE (contas 2024) | Favorável (sessão 31/03/2026) | [TCE-SP TC-004288/989/24](https://www.tce.sp.gov.br/jurisprudencia/exibir?proc=4288/989/24&offset=0) |
 | IEG-M 2024 | C+ (B em educação, saúde e fiscal; C em planejamento, ambiente e cidade) | idem |
 | Emendas federais pagas a favorecidos de Taquarituba 2016 a 2026 | R$ 11,20 mi (cálculo próprio) | [CGU, base de emendas](https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO) |
+
+## Achados do TCE que pesam no dia a dia (parecer das contas de 2024)
+
+O parecer foi favorável, mas registrou problemas concretos de serviço público ([TC-004288/989/24](https://www.tce.sp.gov.br/jurisprudencia/exibir?proc=4288/989/24&offset=0); detalhe em [contas-e-tce.md](contas-e-tce.md)):
+
+- **Segurança dos prédios:** 8 de 10 escolas e 7 de 11 unidades de saúde sem AVCB (Auto de Vistoria do Corpo de Bombeiros) válido.
+- **Saúde:** desabastecimento de medicamentos da farmácia básica por mais de um mês e falhas na Estratégia Saúde da Família.
+- **Receita própria:** taxa de lixo não instituída e cobrança fraca da dívida ativa, com cancelamentos de 6,91% e sem ajuste para perdas.
+- **Planejamento:** i-Plan com nota C desde 2015, sem plano de TI e sem plano de contingência de defesa civil.
 
 ## Arquivos
 
@@ -37,6 +48,9 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 | [despesas.md](despesas.md) | Despesa por função e por natureza 2013 a 2025, saúde e educação, pessoal, investimento, dívida, resultado |
 | [contas-e-tce.md](contas-e-tce.md) | Pareceres do TCE-SP 2009 a 2024, IEG-M 2014 a 2024, apontamentos |
 | [emendas-parlamentares.md](emendas-parlamentares.md) | Emendas federais (CGU) e estaduais (Governo SP/ALESP) |
+| [gasto-real-por-area.md](gasto-real-por-area.md) | Gasto por área e investimentos 2013 a 2025 corrigidos pelo IPCA |
+| [cultura-e-urbanismo-o-que-mudou.md](cultura-e-urbanismo-o-que-mudou.md) | O que fez Cultura e Urbanismo saltarem, empenho por empenho (base TCE-SP) |
+| [compras-sem-licitacao-e-precatorios.md](compras-sem-licitacao-e-precatorios.md) | Dispensa e inexigibilidade 2022 a 2025 e acordo de precatórios |
 | [dados/](dados/) | CSVs com todas as séries |
 
 ### CSVs em `dados/`

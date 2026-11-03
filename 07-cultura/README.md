@@ -19,7 +19,7 @@ Pesquisa de 20/10/2026 com fontes públicas: IBGE, Alesp, Prefeitura (notícias 
 3. **Gestão.** Coordenadoria de Cultura (titular Lais Fernanda Costa Pereira). Conselho Municipal de Cultura e Fundo (LC 284/2020) ativos no papel: conselho eleito em 2024 e nomeado em 2025 e 2026; o fundo é a unidade que executa o orçamento. Faltam Plano Municipal de Cultura e confirmação de adesão ao SNC.
 4. **Verba federal.** R$ 735,8 mil de 2020 a 2026: Aldir Blanc R$ 181,5 mil, Paulo Gustavo R$ 157,4 mil, PNAB 1 R$ 200,1 mil, PNAB 2 R$ 196,8 mil (CGU). Houve consultas e editais, mas a lista de contemplados não foi localizada.
 5. **Orçamento.** A Cultura subiu de R$ 0,35 mi (2013) para R$ 2,98 mi (2025), 1,75% da despesa e R$ 120 por habitante, segundo maior da vizinhança. A LOA 2026 dá R$ 2,0 mi. Turismo: zero executado em 2023-2025.
-6. **FACITA.** Em 2025 a Prefeitura assumiu a festa: R$ 2,64 mi identificados no PNCP (empresa organizadora e sete shows por inexigibilidade), cerca de 88% do gasto de Cultura do ano **[Cálculo]**. Para 2026, os shows já contratados (Simone Mendes, Zezé Di Camargo & Luciano, Murilo Huff e outros) somam R$ 2,46 mi, acima da dotação anual da Cultura.
+6. **FACITA.** Em 2025 a Prefeitura assumiu a festa. Os sete shows por inexigibilidade somaram R$ 1,80 mi, cerca de 60% do gasto de Cultura do ano **[Cálculo]**. Com a empresa organizadora (R$ 835,6 mil homologados no PNCP, mas sem empenho localizado em 2025), o teto chega a R$ 2,64 mi, ou 88%. Para 2026, os shows já contratados somam R$ 2,46 mi (R$ 2,43 mi só em Simone Mendes, Zezé Di Camargo & Luciano e Murilo Huff, mais o baile da rainha), acima da dotação anual da Cultura.
 7. **Leitura.** Base institucional razoável e identidade forte, mas política cultural dependente de evento e de verba federal pequena, com pouca transparência dos editais, turismo sem execução e memória sem proteção. Propostas em [analise-e-propostas.md](analise-e-propostas.md).
 
 ## Relação com outras pastas
@@ -32,5 +32,6 @@ Pesquisa de 20/10/2026 com fontes públicas: IBGE, Alesp, Prefeitura (notícias 
 
 - O portal da Prefeitura recusou conexões em 20/10/2026; notícias e leis vieram de cópias do Internet Archive e o Diário Oficial não foi lido.
 - Contratos anteriores a 2024 podem não estar no PNCP.
+- O gasto de Cultura em 2025 é R$ 2,98 mi no Siconfi e R$ 3,03 mi na base do TCE-SP (provavelmente por bases e datas de extração diferentes). Aqui se usa o Siconfi.
 - Situação física dos equipamentos não verificada no local.
 - Pesquisa feita com apoio de IA (Claude); vale conferir na fonte antes de citar.
