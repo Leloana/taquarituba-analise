@@ -12,11 +12,12 @@ Taquarituba tem contas em ordem e caixa razoável, mas é um município de trans
 - Contas aprovadas pelo TCE em 15 dos 16 exercícios de 2009 a 2024; única rejeição foi 2019, por 0,24 ponto percentual abaixo do mínimo do ensino.
 - Despesa com pessoal estável perto de 38% a 39% da RCL, longe do limite de 54%.
 - Dívida financeira baixa até 2024 e ainda moderada depois do FINISA (DCL de 3,32% da RCL em ago/2026).
-- Educação e saúde acima dos mínimos com folga desde 2020; IDEB 7,0 nos anos iniciais (2015 a 2019) e gasto por aluno acima da média paulista em 2021.
+- Educação e saúde acima dos mínimos com folga desde 2020; IDEB 2025 da rede pública acima do estado nas três etapas (7,0 / 5,4 / 4,9) e gasto por aluno acima da média paulista em 2021.
 - Receita per capita em alta (R$ 7.628 em 2025 com o empréstimo; cerca de R$ 6.889 sem ele).
 - Base agropecuária relevante (VAB de R$ 132 mi em 2021) e entrada no Mapa do Turismo 2026.
 
 ### Fraquezas
+- Abandono no ensino médio estadual subiu de 2,3% (2024) para 5,2% (2025), acima da média paulista (3,5%); matrículas do médio caíram 13% desde 2024 (INEP, ver [indicadores-sociais](../01-demografia/indicadores-sociais.md)).
 - 80% da receita corrente vem de transferências; IPTU de cerca de R$ 318 por habitante (2025, estimativa de cálculo próprio).
 - Investimento entre 3% e 11% da despesa; picos em anos eleitorais.
 - IEG-M em C ou C+ desde 2019; planejamento (i-Plan) com nota C em todos os anos desde 2015.

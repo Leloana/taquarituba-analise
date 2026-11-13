@@ -109,6 +109,7 @@ Uma oposição que nega tudo perde credibilidade. Os dados mostram acertos:
 | Área | Fato | Fonte no repo |
 |---|---|---|
 | Educação | IDEB 2025 da rede pública acima de SP nas três etapas (7,0 nos anos iniciais) | 01-demografia/indicadores-sociais.md |
+| Educação (alerta) | Abandono no ensino médio estadual de 5,2% em 2025 (SP 3,5%); era 2,3% em 2024 | 01-demografia/indicadores-sociais.md |
 | Saúde | Mortalidade infantil de 9,7 por mil (2020 a 2024), abaixo de SP (10,8) | 01-demografia/natalidade-mortalidade.md |
 | Contas | Pareceres favoráveis do TCE de 2020 a 2024; pessoal em 39% da receita, longe do limite de 54% | 05-financas-publicas/contas-e-tce.md |
 | Segurança | Guarda virou "Polícia Municipal", armada e com base reformada; pauta popular no eleitorado de direita | 04-politica/leis-aprovadas.md |

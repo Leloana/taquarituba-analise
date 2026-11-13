@@ -46,7 +46,7 @@ Observações:
 | 2024 | 1.180 | 389 |
 | 2025 | 1.049 | 321 |
 
-**[fato]** INEP, Censo Escolar, via IBGE Cidades **[I4]**. Na 3ª série de 2025, 283 alunos estavam na rede estadual e 38 na privada **[I4]**.
+**[fato]** INEP, Censo Escolar, via IBGE Cidades **[I4]**. Na 3ª série de 2025, 283 alunos estavam na rede estadual e 38 na privada **[I4]**. No Censo Escolar 2026 preliminar, o ensino médio estadual tem 916 matrículas (927 em 2025) **[oficial, INEP, Portaria 731/2026; detalhes em ../01-demografia/indicadores-sociais.md]**.
 
 Taquarituba e os 10 municípios a até 55 km sem ensino superior presencial (Itaí, Coronel Macedo, Taguaí, Fartura, Itaporanga, Sarutaiá, Tejupá, Barão de Antonina, Riversul, Itaberá) somam **132.149 habitantes** (Censo 2022) e **1.383 matrículas na 3ª série do ensino médio em 2025** **[cálculo, I2, I4]**.
 
