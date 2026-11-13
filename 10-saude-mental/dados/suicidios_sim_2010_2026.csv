@@ -1,0 +1,19 @@
+# Óbitos por lesões autoprovocadas intencionalmente (CID-10 X60-X84), por residência. Fonte: DATASUS/SIM, TabNet sim/cnv/obt10sp.def (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10sp.def), consulta 13/11/2026. 2025 e 2026 preliminares; 2026 parcial. 2012 sem registro para Taquarituba (zero).
+ano,taquarituba,regiao_saude_vale_do_jurumirim,estado_sp
+2010,2,21,1964
+2011,1,18,2047
+2012,0,21,2097
+2013,1,14,2205
+2014,3,19,2232
+2015,1,29,2300
+2016,4,25,2199
+2017,6,33,2306
+2018,5,33,2207
+2019,3,32,2378
+2020,6,39,2359
+2021,2,37,2645
+2022,2,39,2923
+2023,2,31,2787
+2024,6,40,2656
+2025,4,42,2671
+2026,2,25,1500

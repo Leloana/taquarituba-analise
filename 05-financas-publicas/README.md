@@ -37,6 +37,7 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 | [despesas.md](despesas.md) | Despesa por função e por natureza 2013 a 2025, saúde e educação, pessoal, investimento, dívida, resultado |
 | [contas-e-tce.md](contas-e-tce.md) | Pareceres do TCE-SP 2009 a 2024, IEG-M 2014 a 2024, apontamentos |
 | [emendas-parlamentares.md](emendas-parlamentares.md) | Emendas federais (CGU) e estaduais (Governo SP/ALESP) |
+| [creditos-adicionais-cultura-facita.md](creditos-adicionais-cultura-facita.md) | Dotação inicial x final por função 2024 a 2026: de onde veio o dinheiro da FACITA |
 | [dados/](dados/) | CSVs com todas as séries |
 
 ### CSVs em `dados/`
