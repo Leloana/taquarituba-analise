@@ -1,0 +1,15 @@
+# Perfil dos 40 suicídios de residentes de Taquarituba, 2016 a 2025. Fonte: DATASUS/SIM TabNet, consulta 13/11/2026.
+variavel,categoria,obitos
+sexo,Masculino,34
+sexo,Feminino,6
+faixa_etaria,15 a 19,3
+faixa_etaria,20 a 29,7
+faixa_etaria,30 a 39,8
+faixa_etaria,40 a 49,13
+faixa_etaria,50 a 59,4
+faixa_etaria,60 a 69,1
+faixa_etaria,70 a 79,3
+faixa_etaria,80 e mais,1
+local_ocorrencia,Domicílio,22
+local_ocorrencia,Via pública,3
+local_ocorrencia,Outros,15

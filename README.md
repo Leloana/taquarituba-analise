@@ -17,6 +17,7 @@ Cada número nos arquivos detalhados traz fonte com URL e ano, e vem marcado com
 | [07-cultura](07-cultura/) | Identidade, calendário, equipamentos culturais e incentivos da Prefeitura ao setor |
 | [08-estrategia](08-estrategia/) | Brechas e rota para uma candidatura de futuro: juventude, universidade, emprego qualificado, fiscalização |
 | [09-mulheres](09-mulheres/) | Políticas para mulheres: leis e estrutura (conselho, Guardiã Maria da Penha, abrigo regional), atendimentos 2026, gasto 2021 a 2026, violência registrada 2024 a 2026, pedidos de LAI |
+| [10-saude-mental](10-saude-mental/) | Suicídio 2010 a 2026 (taxa cerca de 2,5 vezes a do estado), perfil, gasto com o CAPS I e com prevenção 2023 a 2025 |
 
 Cada pasta tem um `README.md` com o resumo e uma subpasta `dados/` com os CSVs.
 

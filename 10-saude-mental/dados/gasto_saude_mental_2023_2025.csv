@@ -1,0 +1,5 @@
+# Despesa empenhada líquida (R$ correntes), Prefeitura. Fonte: TCE-SP, base de despesas (https://transparencia.tce.sp.gov.br/conjunto-de-dados). CAPS = programa 52 "Reforma e ampliação do CAPS I Saúde Mental", que na prática concentra a folha e o custeio do CAPS. Prevenção explícita = empenhos cujo histórico cita Setembro Amarelo, suicídio ou valorização da vida.
+ano,caps_programa52_total,caps_tesouro_municipal,caps_federal,caps_pessoal_e_encargos,caps_custeio,caps_investimento,prevencao_explicita_setembro_amarelo,despesa_funcao_saude_tce
+2023,623005,,,,,,2223.90,
+2024,1303008,1001499,301509,964082,246559,92367,4053.65,42587778
+2025,1389343,1105435,283908,1308419,80474,450,600.00,46481683
