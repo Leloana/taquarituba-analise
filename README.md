@@ -1,6 +1,6 @@
 # Taquarituba (SP): análise geral do município
 
-Dossiê público montado em 20/10/2026 com dados abertos (IBGE, DATASUS, SEADE, Atlas Brasil, TSE, Siconfi/Tesouro, TCE-SP, CGU, Câmara e Prefeitura de Taquarituba) e imprensa regional. Código IBGE 3553807, sudoeste paulista, às margens da Represa de Jurumirim.
+Dossiê público montado em 20/10/2026 (educação atualizada em 12/11/2026) com dados abertos (IBGE, DATASUS, SEADE, Atlas Brasil, TSE, Siconfi/Tesouro, TCE-SP, CGU, Câmara e Prefeitura de Taquarituba) e imprensa regional. Código IBGE 3553807, sudoeste paulista, às margens da Represa de Jurumirim.
 
 Cada número nos arquivos detalhados traz fonte com URL e ano, e vem marcado como dado oficial, cálculo próprio ou inferência/análise. O que não foi encontrado está dito explicitamente em cada pasta. Pesquisa feita com apoio de IA (Claude), vale conferir na fonte antes de citar.
 
@@ -8,7 +8,7 @@ Cada número nos arquivos detalhados traz fonte com URL e ano, e vem marcado com
 
 | Pasta | Conteúdo |
 |---|---|
-| [01-demografia](01-demografia/) | População 1991 a 2026, natalidade, mortalidade e causas, pirâmide etária 2010 e 2022, IDHM, educação |
+| [01-demografia](01-demografia/) | População 1991 a 2026, natalidade, mortalidade e causas, pirâmide etária 2010 e 2022, IDHM, educação (IDEB 2025, Censo Escolar 2024 a 2026, abandono e distorção idade-série) |
 | [02-economia](02-economia/) | PIB 2002 a 2023, renda 1991 a 2022, desigualdade, classe social estimada, emprego formal, agropecuária, Bolsa Família, exportações |
 | [03-bairros](03-bairros/) | Ficha por bairro (renda, infraestrutura, equipamentos, demandas na Câmara), comparação 2010 x 2022 por setor censitário |
 | [04-politica](04-politica/) | Eleições municipais 1996 a 2024, gerais 1998 a 2026, eleitorado, perfil ideológico, prefeitura e Câmara, leis 2021 a 2026 |
@@ -39,6 +39,8 @@ Cada pasta tem um `README.md` com o resumo e uma subpasta `dados/` com os CSVs.
 | Emprego formal | Assalariados / salário médio | 5.040 / cerca de 2 SM | 2024 |
 | Orçamento | LOA | R$ 192,45 mi | 2026 |
 | Receita | Dependência de transferências | 80,6% da receita corrente | 2025 |
+| Educação | IDEB rede pública, anos iniciais / finais / médio | 7,0 / 5,4 / 4,9 (SP 6,5 / 5,2 / 4,3) | 2025 |
+| Educação | Matrículas / abandono no ensino médio público | 5.630 / 5,2% (SP 3,5%) | 2025 |
 | Gasto | Educação / saúde | 30,1% / 26,1% da despesa | 2025 |
 | Pessoal | Despesa / receita corrente líquida | 38,98% (limite 54%) | ago/2026 |
 | Emendas federais | Pagas | R$ 11,2 mi (R$ 5,7 mi em 2025 e 2026) | 2016 a 2026 |

@@ -1,6 +1,6 @@
 # Taquarituba (SP): demografia
 
-Município de Taquarituba, código IBGE 3553807. Região Administrativa de Itapeva, Região de Saúde do Vale do Jurumirim, Região Imediata de Avaré. Pesquisa feita em 20/10/2026 com dados públicos do IBGE, DATASUS, SEADE, SES-SP, Atlas Brasil, INEP e TCE-SP.
+Município de Taquarituba, código IBGE 3553807. Região Administrativa de Itapeva, Região de Saúde do Vale do Jurumirim, Região Imediata de Avaré. Pesquisa feita em 20/10/2026 com dados públicos do IBGE, DATASUS, SEADE, SES-SP, Atlas Brasil, INEP e TCE-SP. Educação (Censo Escolar e indicadores do INEP) atualizada em 12/11/2026.
 
 Legenda usada em todos os arquivos: **[oficial]** número publicado pela fonte; **[cálculo]** conta minha só com números oficiais; **[inferência]** interpretação ou estimativa minha.
 
@@ -29,6 +29,10 @@ Legenda usada em todos os arquivos: **[oficial]** número publicado pela fonte; 
 | IDHM 2010 | **0,701** (E 0,606 / L 0,811 / R 0,700); SP 0,783 | oficial | Atlas Brasil |
 | Alfabetização 15+ (2022) | 94,77% (SP: 96,89%) | oficial | IBGE, SIDRA 10091 |
 | IDEB 2025, rede pública | AI 7,0 / AF 5,4 / EM 4,9 (SP: 6,5 / 5,2 / 4,3) | oficial | INEP via IBGE |
+| Matrículas na educação básica 2024 / 2025 | 5.828 / 5.630 (22% na rede privada) | oficial | INEP, Sinopse 2024 e 2025 |
+| Ensino médio estadual 2024 / 2025 / 2026 | 1.056 / 927 / 916 (2026 preliminar) | oficial | INEP, Sinopse e Censo Escolar 2026 preliminar |
+| Abandono no ensino médio, rede pública | 2,3% (2024) para **5,2%** (2025); SP 3,5% | oficial | INEP, taxas de rendimento |
+| Escolas / professores 2025 | 22 (7 estaduais, 10 municipais, 5 privadas) / 375 | oficial | INEP, Sinopse 2025 |
 
 URLs completas e ano de cada fonte estão no fim de cada arquivo temático.
 
@@ -50,7 +54,7 @@ URLs completas e ano de cada fonte estão no fim de cada arquivo temático.
 
 8. **Morte por doenças crônicas e violência entre jovens.** Coração e circulação, câncer e respiratório somam mais da metade dos óbitos. Entre 20 e 39 anos, causas externas (acidentes e violência) lideram [oficial, SES-SP]. A qualidade do registro é fraca: 34,5% dos óbitos com causa mal definida ou pouco útil [oficial, SES-SP].
 
-9. **Desenvolvimento humano abaixo da região em 2010, educação básica atual acima.** IDHM 0,701 em 2010, segundo pior entre os 7 municípios comparados, puxado pela escolaridade dos adultos [oficial, Atlas]. Mas o IDEB atual está acima do estado nas três etapas [oficial, INEP]. Analfabetismo de 5,2% ainda é maior que no estado (3,1%) [cálculo, Censo 2022].
+9. **Desenvolvimento humano abaixo da região em 2010, educação básica atual acima.** IDHM 0,701 em 2010, segundo pior entre os 7 municípios comparados, puxado pela escolaridade dos adultos [oficial, Atlas]. Mas o IDEB atual está acima do estado nas três etapas [oficial, INEP]. Analfabetismo de 5,2% ainda é maior que no estado (3,1%) [cálculo, Censo 2022]. O alerta novo é o **abandono no ensino médio**, que subiu para 5,2% em 2025, acima do estado (3,5%), enquanto as matrículas do médio estadual caíram 13% desde 2024 [oficial, INEP; atualizado em 12/11/2026].
 
 10. **Na região**, Taquarituba está no grupo que cresce (com Avaré, Taguaí e Fartura), enquanto Itaporanga e Coronel Macedo encolhem e envelhecem mais rápido [oficial, IBGE].
 
@@ -70,7 +74,7 @@ URLs completas e ano de cada fonte estão no fim de cada arquivo temático.
 | `populacao.md` | Série histórica, crescimento, efeito do presídio, urbanização, densidade, comparação regional |
 | `natalidade-mortalidade.md` | Nascimentos, fecundidade, óbitos, causas de morte, mortalidade infantil, comparação regional |
 | `piramide-etaria.md` | Pirâmide 2022 e 2010 por sexo, gráficos ASCII e mermaid, idade mediana, envelhecimento, dependência |
-| `indicadores-sociais.md` | IDHM e componentes, alfabetização, escolaridade, IDEB, saúde, saneamento |
+| `indicadores-sociais.md` | IDHM e componentes, alfabetização, escolaridade, IDEB, Censo Escolar 2024 a 2026, aprovação e abandono, distorção idade-série, saúde, saneamento |
 | `dados/populacao_serie_historica.csv` | Censos 1970 a 2022 e estimativas 2011 a 2026 |
 | `dados/taxas_crescimento.csv` | Taxas geométricas por período |
 | `dados/comparacao_regional_censo2022.csv` | Taquarituba, 6 vizinhos e SP: população, área, urbanização, idade mediana, envelhecimento, razão de sexo, alfabetização |
@@ -83,3 +87,7 @@ URLs completas e ano de cada fonte estão no fim de cada arquivo temático.
 | `dados/fecundidade_estimada.csv` | Cálculo da TFT estimada |
 | `dados/idhm_atlas_2010.csv` | IDHM e componentes, região e SP |
 | `dados/ideb_rede_publica.csv` | IDEB 2019 a 2025, região e SP |
+| `dados/censo_escolar_matriculas_2024_2026.csv` | Matrículas por etapa, rede pública e total, 2024, 2025 e 2026 (preliminar), 7 municípios |
+| `dados/censo_escolar_escolas_docentes_2024_2025.csv` | Escolas, professores, turmas e matrículas por rede, 2024 e 2025, 7 municípios |
+| `dados/rendimento_escolar_2023_2025.csv` | Aprovação, reprovação e abandono por etapa, 2023 a 2025, 7 municípios e SP |
+| `dados/distorcao_idade_serie_2025.csv` | Distorção idade-série por etapa, 2025, 7 municípios e SP |

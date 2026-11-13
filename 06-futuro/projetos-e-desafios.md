@@ -11,7 +11,7 @@ Situação em 20/10/2026. Cada item diz se é dado oficial, anúncio ou lacuna.
 | Grau de urbanização (2021) | 91,14% | idem |
 | IDHM (2010) | 0,701 (educação 0,606; longevidade 0,811) | idem |
 | IVS (2010) | 0,370 | idem |
-| IDEB anos iniciais | 7,0 em 2015, 2017 e 2019 (projeção 2019: 6,4) | idem |
+| IDEB anos iniciais (rede municipal) | 7,0 (2019), 6,7 (2021), 6,9 (2023), 7,0 (2025); SP 6,5 em 2025 | INEP via IBGE Cidades, ver [indicadores-sociais](../01-demografia/indicadores-sociais.md) |
 | PIB 2021 | R$ 988,15 mi; per capita R$ 42.454,52; VAB agropecuária R$ 132,34 mi; indústria R$ 66,62 mi; serviços R$ 574,07 mi | IBGE, conforme tabela do [plano de governo de Miano](https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250012394234) |
 | Região | Região Administrativa de Itapeva; região turística "Angra Paulista" | [RDM TCE-SP](https://www.tce.sp.gov.br/sites/default/files/rdm/taquarituba.pdf); [Prefeitura, Mapa do Turismo 2026](https://www.taquarituba.sp.gov.br/noticia/2661/x/) |
 
