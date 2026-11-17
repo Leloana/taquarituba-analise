@@ -8,12 +8,12 @@ import matplotlib.pyplot as plt
 from graficos import AZUL, LARANJA, AQUA, CINZA, TINTA, TINTA2, RAIZ, br, fonte, salvar, subtitulo
 
 DADOS = RAIZ / "09-mulheres/dados"
-SSP = "SSP-SP, base de violência contra a mulher (atualizada em 07/10/2026); cálculo próprio"
+SSP = "SSP-SP, base de violência contra a mulher (atualizada em 26/10/2026); cálculo próprio"
 
 
 def quem_leva():
     d = pd.read_csv(DADOS / "ssp_violencia_domestica_mulher_2024_2026.csv", comment="#")
-    d = d[d["periodo"] == "jan-ago"].set_index("ano")
+    d = d[d["periodo"] == "jan-set"].set_index("ano")
     outros = d["mulheres_vitimas"] - d["apresentadas_pela_gcm"] - d["apresentadas_pela_pm"] - d["pela_propria_vitima"]
     series = [("Pela própria vítima", d["pela_propria_vitima"], AZUL),
               ("Guarda Municipal (Patrulha Maria da Penha)", d["apresentadas_pela_gcm"], LARANJA),
@@ -32,9 +32,9 @@ def quem_leva():
     for i, t in enumerate(d["mulheres_vitimas"]):
         ax.text(i, t + 2, f"{int(t)} mulheres", ha="center", fontsize=9.5, color=TINTA, fontweight="bold")
     ax.set_ylim(0, d["mulheres_vitimas"].max() * 1.18)
-    ax.set_ylabel("mulheres vítimas (janeiro a agosto)")
+    ax.set_ylabel("mulheres vítimas (janeiro a setembro)")
     ax.set_title("Violência doméstica: vítimas com boletim e quem as levou à delegacia")
-    subtitulo(ax, "+22% em 2026; a Patrulha Maria da Penha começou a levar vítimas em 2025. Mais registro pode ser menos subnotificação")
+    subtitulo(ax, "+16% em 2026; a Patrulha Maria da Penha começou a levar vítimas em 2025. Mais registro pode ser menos subnotificação")
     ax.legend(loc="upper left", fontsize=8.5)
     fonte(fig, SSP)
     salvar(fig, "26-violencia-domestica-quem-leva")
@@ -53,9 +53,9 @@ def taxa_regional():
         ax.text(v + 0.15, i, br(v, 1), va="center", fontsize=9, color=TINTA)
     ax.grid(axis="y", visible=False); ax.grid(axis="x")
     ax.set_xlim(0, t["taxa_2026_por_mil"].max() * 1.15)
-    ax.set_xlabel("mulheres vítimas de violência doméstica por mil mulheres, janeiro a agosto de 2026")
+    ax.set_xlabel("mulheres vítimas de violência doméstica por mil mulheres, janeiro a setembro de 2026")
     ax.set_title("Taxa de violência doméstica registrada, 2026")
-    subtitulo(ax, "Taquarituba acima do estado e da mediana do porte, mas no mesmo patamar de Avaré, Coronel Macedo e Fartura")
+    subtitulo(ax, "Taquarituba acima do estado e da mediana do porte, no patamar de Avaré, Fartura e Paranapanema; Coronel Macedo lidera")
     fonte(fig, SSP + "; mulheres pelo Censo 2022 (IBGE 9514)")
     salvar(fig, "27-violencia-domestica-regiao")
 

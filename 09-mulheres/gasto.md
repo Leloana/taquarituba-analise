@@ -1,6 +1,6 @@
 # Quanto Taquarituba gasta com políticas para mulheres
 
-Data de referência: 23/10/2026. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**.
+Data de referência: 23/10/2026; empenhos de 2026 atualizados até setembro em 17/11/2026. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**.
 
 Dados em `dados/gasto_politicas_mulheres_2021_2025.csv` e `dados/tce_2026_empenhos_amvapa.csv`.
 
@@ -11,7 +11,7 @@ Dados em `dados/gasto_politicas_mulheres_2021_2025.csv` e `dados/tce_2026_empenh
 - **Fonte 2021 a 2025**: TCE-SP, conjunto de dados de despesas por ano (https://transparencia.tce.sp.gov.br/conjunto-de-dados, arquivos `despesas-<ano>.zip`, filtrados para Taquarituba em fluxo, baixados em 23/10/2026). Cada linha traz função, programa, ação, elemento e o histórico do empenho.
 - **O orçamento não tem programa nem ação para mulheres.** Os programas de Assistência Social são genéricos ("Manutenção e desenvolvimento das atividades do Fundo Municipal de Assistência Social", "da Ação Social", "do Fundo da Criança e do Adolescente") **[fato]**. Por isso classifiquei empenho por empenho, lendo o histórico, em oito categorias (palavras-chave: SAI MULHERES, MARIA DA PENHA, AGOSTO LILÁS, VIOLÊNCIA CONTRA A MULHER, REDE MULHER, DIA DA MULHER, DIA DAS MÃES, OUTUBRO ROSA, GESTANTE). Empenhos de gêneros alimentícios que só citam "gestante" de passagem foram excluídos **[cálculo]**.
 - **O que fica de fora**: salários de assistentes sociais e psicólogas do CRAS e CREAS, dos guardas da Patrulha e da equipe de saúde; exames e consultas de rotina para mulheres. O número abaixo é o gasto **específico e identificável**, não o custo total do atendimento.
-- **2026**: o arquivo em massa de 2026 ainda não existe no TCE-SP (despesas-2026.zip retornou 404 em 23/10/2026). A API mensal (https://transparencia.tce.sp.gov.br/api/json/despesas/taquarituba/2026/<mes>) tem jan a ago, mas só fornecedor, valor e data, sem função nem histórico **[fato]**.
+- **2026**: o arquivo em massa de 2026 ainda não existe no TCE-SP (despesas-2026.zip retornou 404 em 23/10/2026). A API mensal (https://transparencia.tce.sp.gov.br/api/json/despesas/taquarituba/2026/<mes>) tem jan a set (outubro ainda vazio em 17/11/2026), mas só fornecedor, valor e data, sem função nem histórico **[fato]**.
 
 ---
 
@@ -49,19 +49,19 @@ Leituras **[cálculo]**:
 
 ---
 
-## 3. 2026 (jan a ago)
+## 3. 2026 (jan a set)
 
 ### 3.1 Consórcio AMVAPA [fato, API TCE-SP]
 
-| Empenho | Data | Empenhado | Pago até ago | Parcela mensal |
+| Empenho | Data | Empenhado | Pago até set | Parcela mensal |
 |---|---|---|---|---|
-| 2008-2026 | 26/02 | 555.180,00 | 370.120,00 | 46.265,00 |
-| 2009-2026 | 26/02 | 76.980,00 | 51.320,00 | 6.415,00 |
-| 2010-2026 | 26/02 | 48.913,20 | 32.608,80 | 4.076,10 |
-| 2011-2026 | 26/02 | 11.025,72 | 7.350,48 | 918,81 |
+| 2008-2026 | 26/02 | 555.180,00 | 416.385,00 | 46.265,00 |
+| 2009-2026 | 26/02 | 76.980,00 | 57.735,00 | 6.415,00 |
+| 2010-2026 | 26/02 | 48.913,20 | 36.684,90 | 4.076,10 |
+| 2011-2026 | 26/02 | 11.025,72 | 8.269,29 | 918,81 |
 | 1749-2026 | 13/02 | 12.600,00 | 12.600,00 | |
 | 4141-2026 | 22/04 | 4.500,00 | 4.500,00 | |
-| 6115-2026 | 19/06 | 15.300,00 | 3.060,00 | 1.530,00 |
+| 6115-2026 | 19/06 | 15.300,00 | 4.590,00 | 1.530,00 |
 | 7242-2026 | 21/07 | 7.000,00 | 0,00 | |
 
 **[estimativa]** A API não diz qual empenho é o SAI. Comparando com 2025:
@@ -70,7 +70,7 @@ Leituras **[cálculo]**:
 - **2009 (R$ 76.980 = 12 × R$ 6.415)** tem o perfil da parcela estadual mensal do SAI em 2025 (R$ 6.012), reajustada em 6,7%. É o candidato mais provável.
 - A parcela de recurso próprio (R$ 2.500 por mês em 2025) pode estar em 2010 ou 6115, ou ter sido absorvida.
 
-Faixa estimada do gasto municipal com o SAI Mulheres em 2026: **R$ 77 mil a R$ 110 mil** (só a parcela 2009, ou ela mais R$ 2.500 a R$ 2.750 por mês de recurso próprio) **[estimativa, confiança baixa; confirmar por LAI]**. Pago até agosto: cerca de R$ 51 mil a R$ 72 mil **[estimativa]**.
+Faixa estimada do gasto municipal com o SAI Mulheres em 2026: **R$ 77 mil a R$ 110 mil** (só a parcela 2009, ou ela mais R$ 2.500 a R$ 2.750 por mês de recurso próprio) **[estimativa, confiança baixa; confirmar por LAI]**. Pago até setembro: cerca de R$ 58 mil a R$ 82 mil **[estimativa]**. Setembro não trouxe empenho novo à AMVAPA, só as parcelas mensais **[fato, API TCE-SP]**.
 
 Do lado da receita, o Estado anunciou R$ 130 mil adicionais a Taquarituba por sediar o serviço, além de R$ 659,2 mil de cofinanciamento regional de implantação (Agência SP, 06/02/2026) **[fato]**. Não verifiquei o ingresso desses valores na receita municipal.
 

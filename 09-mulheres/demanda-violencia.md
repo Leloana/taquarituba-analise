@@ -1,6 +1,6 @@
 # Demanda: violência contra a mulher e vulnerabilidade em Taquarituba
 
-Data de referência: 23/10/2026. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**.
+Data de referência: 23/10/2026; atualizado em 17/11/2026 com a base da SSP-SP de 26/10/2026 (dados até setembro), empenhos do TCE-SP até setembro e preventivos do SIA/SUS até agosto. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**.
 
 Dados em `dados/ssp_violencia_domestica_mulher_2024_2026.csv`, `dados/ssp_taxa_violencia_domestica_comparada.csv`, `dados/ssp_ocorrencias_criminais_2019_2026.csv`, `dados/sinan_violencia_mulheres_residentes_2010_2025.csv`.
 
@@ -8,8 +8,8 @@ Dados em `dados/ssp_violencia_domestica_mulher_2024_2026.csv`, `dados/ssp_taxa_v
 
 ## 1. Fontes usadas
 
-- **[S1] SSP-SP, base de vítimas de violência doméstica contra a mulher** (microdados por boletim, de 2024 a ago/2026): https://www.ssp.sp.gov.br/assets/estatistica/vitimas-violencia-domestica/Base_Viol%C3%AAncia%20contra%20mulher.xlsx, arquivo atualizado em 07/10/2026, baixado em 23/10/2026. Filtrei pelo município do fato (COD IBGE 3553807) e contei vítimas únicas por boletim. Os microdados têm nome de rua, bairro e coordenadas; nada disso foi copiado para o repositório, só contagens.
-- **[S2] SSP-SP, ocorrências mensais por município** (API do portal): https://www.ssp.sp.gov.br/v1/OcorrenciasMensais/RecuperaDadosMensaisAgrupados?ano=2026&grupoDelito=6&tipoGrupo=MUNIC%C3%8DPIO&idGrupo=602, consulta 23/10/2026. Não separa por sexo.
+- **[S1] SSP-SP, base de vítimas de violência doméstica contra a mulher** (microdados por boletim, de 2024 a set/2026): https://www.ssp.sp.gov.br/assets/estatistica/vitimas-violencia-domestica/Base_Viol%C3%AAncia%20contra%20mulher.xlsx, arquivo atualizado em 26/10/2026, baixado em 17/11/2026 (a versão anterior, de 07/10/2026, ia até agosto). Filtrei pelo município do fato (COD IBGE 3553807) e contei vítimas únicas do sexo feminino por boletim. Desde 17/11/2026 a comparação com o Estado e os vizinhos também conta só mulheres (antes incluía as poucas vítimas homens da base; diferença menor que 0,3%). Os microdados têm nome de rua, bairro e coordenadas; nada disso foi copiado para o repositório, só contagens.
+- **[S2] SSP-SP, ocorrências mensais por município** (API do portal): https://www.ssp.sp.gov.br/v1/OcorrenciasMensais/RecuperaDadosMensaisAgrupados?ano=2026&grupoDelito=6&tipoGrupo=MUNIC%C3%8DPIO&idGrupo=602, consulta 17/11/2026 (2026 até setembro). Não separa por sexo.
 - **[S3] DATASUS, SINAN violência interpessoal e autoprovocada, São Paulo**: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/violesp.def, mulheres residentes em Taquarituba, consulta 23/10/2026. 2025 é preliminar.
 - **[S4] IBGE, Censo 2022, SIDRA tabela 9514**: 11.747 mulheres residentes em Taquarituba (https://apisidra.ibge.gov.br/values/t/9514/n6/in%20n3%2035/v/93/p/2022/c2/5/c287/100362/c286/113635).
 - **[S5] CNJ DataJud, API pública do TJ-SP** (https://api-publica.datajud.cnj.jus.br/api_publica_tjsp/_search), consulta 23/10/2026.
@@ -22,16 +22,16 @@ Dados em `dados/ssp_violencia_domestica_mulher_2024_2026.csv`, `dados/ssp_taxa_v
 |---|---|---|---|---|---|---|---|
 | 2024 (ano) | 134 | 57 | 60 | 33 | 17 | 6 | 5 |
 | 2025 (ano) | 182 | 45 | 78 | 69 | 33 | 14 | 7 |
-| jan-ago 2024 | 91 | 39 | 37 | 21 | 13 | 4 | 4 |
-| jan-ago 2025 | 106 | 25 | 43 | 40 | 22 | 11 | 3 |
-| **jan-ago 2026** | **129** | **53** | 56 | 28 | 13 | 12 | 8 |
+| jan-set 2024 | 96 | 39 | 41 | 23 | 13 | 4 | 4 |
+| jan-set 2025 | 122 | 30 | 49 | 47 | 24 | 12 | 4 |
+| **jan-set 2026** | **142** | **56** | 62 | 32 | 15 | 13 | 9 |
 
 **[cálculo sobre S1]** Uma vítima pode ter mais de um crime no mesmo boletim, por isso as colunas não somam o total.
 
 Leituras:
-- De janeiro a agosto de 2026 foram **129 mulheres vítimas**, contra 106 no mesmo período de 2025 (**+22%**) e 91 em 2024 (**+42%**) **[cálculo]**.
-- Lesão corporal dolosa contra mulher em contexto doméstico mais que dobrou: 25 para 53 no comparativo jan-ago **[cálculo]**.
-- Projeção para 2026 inteiro: cerca de **190 mulheres**, mantido o ritmo de jan-ago (129 × 12/8 ≈ 194) **[estimativa]**.
+- De janeiro a setembro de 2026 foram **142 mulheres vítimas**, contra 122 no mesmo período de 2025 (**+16%**) e 96 em 2024 (**+48%**) **[cálculo]**. A alta perdeu força: setembro de 2026 teve 13 vítimas, abaixo das 16 de setembro de 2025 (`dados/ssp_violencia_domestica_mulher_mensal.csv`) **[cálculo]**.
+- Lesão corporal dolosa contra mulher em contexto doméstico quase dobrou: 30 para 56 no comparativo jan-set **[cálculo]**.
+- Projeção para 2026 inteiro: cerca de **190 mulheres**, mantido o ritmo de jan-set (142 × 12/9 ≈ 189); se o último trimestre repetir o peso de 2024 e 2025, de 199 a 212 **[estimativa]**.
 - Relação com o agressor (2024 a ago/2026, 366 vítimas com relação informada, de 445): união estável 164, parentesco 82, casamento 67, envolvimento amoroso 42 **[cálculo]**.
 - Faixa etária (mesmo período): 18 a 29 anos, 140; 30 a 39, 134; 40 a 49, 78; 60 ou mais, 38; menores de 18, 20 **[cálculo]**.
 - Nenhuma vítima fatal registrada na base de 2024 a ago/2026 **[cálculo]**.
@@ -42,25 +42,26 @@ Leituras:
 |---|---|---|---|---|
 | 2024 (ano) | 87 | 44 | **0** | 3 |
 | 2025 (ano) | 120 | 17 | **30** | 15 |
-| jan-ago 2026 | 65 | 30 | **23** | 11 |
+| jan-set 2026 | 73 | 31 | **25** | 13 |
 
-A GCM passou de nenhum caso de violência doméstica apresentado em 2024 para 30 em 2025 e 23 em jan-ago de 2026 **[cálculo]**. É o rastro mais objetivo da atuação da Patrulha Maria da Penha. Em 2026, 18% das vítimas chegaram à delegacia pela GCM (23 de 129) **[cálculo]**.
+A GCM passou de nenhum caso de violência doméstica apresentado em 2024 para 30 em 2025 e 25 em jan-set de 2026 **[cálculo]**. É o rastro mais objetivo da atuação da Patrulha Maria da Penha. Em 2026, 18% das vítimas chegaram à delegacia pela GCM (25 de 142) **[cálculo]**.
 
-### 2.2 Comparação com o Estado e vizinhos (jan-ago, vítimas por mil mulheres) [S1, S4]
+### 2.2 Comparação com o Estado e vizinhos (jan-set, vítimas por mil mulheres) [S1, S4]
 
 | Local | 2024 | 2025 | 2026 |
 |---|---|---|---|
-| **Taquarituba** | 7,75 | 9,02 | **10,98** |
-| Itaí | 7,42 | 7,34 | 7,67 |
-| Fartura | 10,33 | 10,21 | 10,45 |
-| Paranapanema | 5,03 | 6,08 | 10,90 |
-| Avaré | 9,37 | 8,34 | 10,46 |
-| Estado de SP | 5,83 | 6,34 | 7,27 |
-| Mediana de 99 municípios paulistas com 8 a 16 mil mulheres | 6,88 | 7,22 | 8,08 |
+| **Taquarituba** | 8,17 | 10,39 | **12,09** |
+| Coronel Macedo | 10,85 | 8,97 | 13,69 |
+| Itaí | 8,08 | 8,66 | 9,07 |
+| Fartura | 12,33 | 11,39 | 11,86 |
+| Paranapanema | 5,66 | 7,23 | 11,84 |
+| Avaré | 10,41 | 9,35 | 11,91 |
+| Estado de SP | 6,64 | 7,16 | 8,16 |
+| Mediana de 99 municípios paulistas com 8 a 16 mil mulheres | 7,67 | 8,08 | 9,11 |
 
-**[cálculo]** Em jan-ago de 2025, Taquarituba ficou na 128ª posição entre 643 municípios com registro, do maior para o menor **[cálculo]**. A taxa de Taquarituba em 2026 é 51% maior que a do Estado e 36% maior que a mediana de municípios parecidos **[cálculo]**.
+**[cálculo]** Em jan-set de 2026, Taquarituba ficou na 89ª posição entre os 645 municípios paulistas, do maior para o menor, e na 13ª entre os 99 do mesmo porte (em jan-ago de 2025 era a 128ª de 643) **[cálculo]**. A taxa de Taquarituba em 2026 é 48% maior que a do Estado e 33% maior que a mediana de municípios parecidos **[cálculo]**.
 
-**[análise]** O aumento pode ser mais violência ou mais notificação. Três sinais apontam para mais notificação: (a) a GCM passou a levar casos (0 → 30 → 23); (b) o Estado inteiro subiu 15% de 2025 para 2026 (145.876 → 167.363 vítimas jan-ago), sinal de mudança de registro ou de procura em escala estadual; (c) o crescimento de 2026 se concentra em lesão corporal, crime que costuma ser registrado em flagrante ou por terceiros. Mas não há como separar os dois efeitos com os dados públicos.
+**[análise]** O aumento pode ser mais violência ou mais notificação. Três sinais apontam para mais notificação: (a) a GCM passou a levar casos (0 → 30 → 25); (b) o Estado inteiro subiu 14% de 2025 para 2026 (164.703 → 187.707 vítimas jan-set), sinal de mudança de registro ou de procura em escala estadual; (c) o crescimento de 2026 se concentra em lesão corporal, crime que costuma ser registrado em flagrante ou por terceiros. Mas não há como separar os dois efeitos com os dados públicos.
 
 ---
 
@@ -73,11 +74,11 @@ A GCM passou de nenhum caso de violência doméstica apresentado em 2024 para 30
 | 2023 | 93 | 24 | 2 |
 | 2024 | 133 | 19 | 2 |
 | 2025 | 145 | 15 | 3 |
-| 2026 (jan-ago) | 120 | 10 | 1 |
+| 2026 (jan-set) | 131 | 11 | 1 |
 
-**[fato]** Em 2026, todos os 10 estupros registrados foram de vulnerável (menor de 14 ou sem capacidade de resistir). A base de violência doméstica [S1] não cobre estupro, por isso violência sexual contra mulheres adultas fica sub-representada aqui.
+**[fato]** Em 2026, todos os 11 estupros registrados foram de vulnerável (menor de 14 ou sem capacidade de resistir). A base de violência doméstica [S1] não cobre estupro, por isso violência sexual contra mulheres adultas fica sub-representada aqui.
 
-**[cálculo]** Lesão corporal doméstica contra mulher (53, jan-ago 2026) equivale a 44% de todas as lesões corporais dolosas do município no período (120).
+**[cálculo]** Lesão corporal doméstica contra mulher (56, jan-set 2026) equivale a 43% de todas as lesões corporais dolosas do município no período (131).
 
 Feminicídio: a SSP-SP não publica feminicídio por município nessa API. O caso de maior repercussão é de 2022: um homem matou as duas filhas, de 5 e 6 anos, para atingir a ex-companheira, e foi condenado a 60 anos em outubro de 2026, com reconhecimento de feminicídio em contexto de violência doméstica (A Voz do Vale, https://avozdovale.com.br/pai-e-condenado-a-60-anos-de-prisao-por-matar-as-duas-filhas-em-taquarituba/; Sudoeste Paulista, https://sudoestepaulista.com.br/maldito-pai-que-matou-duas-filhas-em-taquarituba-e-condenado-a-60-anos-de-prisao/, out/2026) **[fato]**.
 
@@ -101,7 +102,7 @@ Feminicídio: a SSP-SP não publica feminicídio por município nessa API. O cas
 ## 5. Medidas protetivas (Justiça)
 
 - **[fato]** A API pública do DataJud tem só 45 processos da classe "Medidas Protetivas de Urgência (Lei Maria da Penha) Criminal" (código 1268) na Vara Única de Taquarituba, o mais recente de 2024 [S5]. Medidas protetivas tramitam em segredo de justiça e quase não aparecem na base pública, por isso esse número não mede a demanda.
-- **[fato]** Boletins por descumprimento de medida protetiva: 17 (2024), 33 (2025), 13 (jan-ago 2026) [S1]. É o único indicador público de que há medidas protetivas ativas no município.
+- **[fato]** Boletins por descumprimento de medida protetiva: 17 (2024), 33 (2025), 15 (jan-set 2026) [S1]. É o único indicador público de que há medidas protetivas ativas no município.
 - O painel do CNJ (Monitoramento da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres) é em Power BI e não foi extraído **[lacuna]**. Número de medidas concedidas na comarca vai nos pedidos de LAI ao TJ-SP.
 
 ---
@@ -119,10 +120,10 @@ Feminicídio: a SSP-SP não publica feminicídio por município nessa API. O cas
 
 | Grupo | Número | Tipo |
 |---|---|---|
-| Mulheres com boletim de violência doméstica em 2026 | 129 (jan-ago); cerca de 190 no ano | cálculo; estimativa |
+| Mulheres com boletim de violência doméstica em 2026 | 142 (jan-set); cerca de 190 no ano | cálculo; estimativa |
 | Mulheres com boletim em 2025 | 182 | cálculo |
 | Casos que a saúde notificou em 2025 | 14 | fato |
-| Vítimas que chegam pela GCM em 2026 | 23 (jan-ago) | cálculo |
+| Vítimas que chegam pela GCM em 2026 | 25 (jan-set) | cálculo |
 | Famílias do Bolsa Família chefiadas por mulheres | cerca de 990 | estimativa |
 | Mulheres residentes | 11.747 | fato |
 

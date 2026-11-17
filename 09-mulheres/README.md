@@ -5,7 +5,7 @@
 
 Gráficos gerados por [`scripts/graficos_mulheres.py`](../scripts/graficos_mulheres.py).
 
-Levantamento de 23/10/2026. Pergunta: quantas mulheres os programas municipais de apoio atenderam em 2026 e se essas políticas são eficazes diante da demanda. Cada número nos arquivos tem fonte com URL e data e vem marcado como **[fato]**, **[cálculo]**, **[estimativa]** ou **[análise]**. Nenhum nome de vítima ou atendida foi publicado; o endereço do abrigo sigiloso foi omitido de propósito. Pesquisa feita com apoio de IA (Claude): confira na fonte antes de citar.
+Levantamento de 23/10/2026, atualizado em 17/11/2026 com a base da SSP-SP de 26/10/2026 (dados até setembro), empenhos do TCE-SP até setembro e preventivos do SIA/SUS até agosto. Pergunta: quantas mulheres os programas municipais de apoio atenderam em 2026 e se essas políticas são eficazes diante da demanda. Cada número nos arquivos tem fonte com URL e data e vem marcado como **[fato]**, **[cálculo]**, **[estimativa]** ou **[análise]**. Nenhum nome de vítima ou atendida foi publicado; o endereço do abrigo sigiloso foi omitido de propósito. Pesquisa feita com apoio de IA (Claude): confira na fonte antes de citar.
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -14,7 +14,7 @@ Levantamento de 23/10/2026. Pergunta: quantas mulheres os programas municipais d
 | [gasto.md](gasto.md) | Gasto identificável 2021 a 2025 e estimativa de 2026 |
 | [demanda-violencia.md](demanda-violencia.md) | Violência doméstica registrada (SSP-SP), SINAN, comparação com o Estado, vulnerabilidade |
 | [pedidos-lai.md](pedidos-lai.md) | Nove pedidos de LAI prontos para fechar as lacunas |
-| `dados/` | CSVs: atendimentos 2026, leis, gasto, empenhos AMVAPA 2026, vítimas SSP 2024 a 2026, taxas comparadas, ocorrências 2019 a 2026, SINAN, coletas de preventivo |
+| `dados/` | CSVs: atendimentos 2026, leis, gasto, empenhos AMVAPA 2026, vítimas SSP 2024 a 2026 (total e por mês), taxas comparadas, ocorrências 2019 a 2026, SINAN, coletas de preventivo |
 
 ---
 
@@ -34,10 +34,10 @@ Não há secretaria nem coordenadoria da mulher. A política está espalhada ent
 
 | Indicador 2026 | Número | Tipo e certeza |
 |---|---|---|
-| Mulheres vítimas de violência doméstica que chegaram à delegacia (jan-ago) | **129** | cálculo, alta (SSP-SP) |
-| Dessas, levadas pela GCM / Patrulha Maria da Penha | **23** | cálculo, alta como piso |
+| Mulheres vítimas de violência doméstica que chegaram à delegacia (jan-set) | **142** | cálculo, alta (SSP-SP) |
+| Dessas, levadas pela GCM / Patrulha Maria da Penha | **25** | cálculo, alta como piso |
 | Gestantes no Encontro de Gestantes (set) | **65** kits | fato, média |
-| Coletas de Papanicolau no SUS (jan-jul) | **480** coletas | cálculo, alta para o registro |
+| Coletas de Papanicolau no SUS (jan-ago) | **543** coletas | cálculo, alta para o registro |
 | Alunos na palestra da Patrulha (13/03) | ~150 | fato, média |
 | Outubro Rosa 2026 | 500 a 900 coletas | estimativa, baixa |
 | Auxílio-aluguel estadual | 5 a 12 mulheres | estimativa, baixa |
@@ -56,23 +56,23 @@ Os itens se sobrepõem; não somar.
 
 ## 4. Demanda contra oferta
 
-| | 2024 | 2025 | 2026 (jan-ago) |
+| | 2024 | 2025 | 2026 (jan-set) |
 |---|---|---|---|
-| Mulheres vítimas de violência doméstica (SSP-SP) | 134 | 182 | 129 (cerca de 190 no ano, estimativa) |
-| Vítimas por mil mulheres, jan-ago: Taquarituba | 7,75 | 9,02 | **10,98** |
-| Idem, Estado de SP | 5,83 | 6,34 | 7,27 |
-| Levadas à delegacia pela GCM | 0 | 30 | 23 |
-| Descumprimento de medida protetiva | 17 | 33 | 13 |
+| Mulheres vítimas de violência doméstica (SSP-SP) | 134 | 182 | 142 (cerca de 190 no ano, estimativa) |
+| Vítimas por mil mulheres, jan-set: Taquarituba | 8,17 | 10,39 | **12,09** |
+| Idem, Estado de SP | 6,64 | 7,16 | 8,16 |
+| Levadas à delegacia pela GCM | 0 | 30 | 25 |
+| Descumprimento de medida protetiva | 17 | 33 | 15 |
 | Notificações de violência interpessoal contra mulheres no SINAN | 7 | 14 | n.d. |
 
-**[cálculo; fontes em demanda-violencia.md]** A taxa de Taquarituba em 2026 é 51% maior que a do Estado e 36% maior que a mediana de municípios paulistas do mesmo porte.
+**[cálculo; fontes em demanda-violencia.md]** A taxa de Taquarituba em 2026 é 48% maior que a do Estado e 33% maior que a mediana de municípios paulistas do mesmo porte.
 
 ## 5. Eficácia (análise)
 
 1. **A demanda é real e crescente, e a oferta é medida só pela metade.** São cerca de 190 mulheres por ano com boletim de violência doméstica, numa cidade de 11,7 mil mulheres. O município criou peças certas (conselho, patrulha, abrigo, lei da Guardiã), mas não publica quantas mulheres acompanha. Sem esse número, não se mede cobertura. **[análise]**
-2. **A Patrulha Maria da Penha é o programa com sinal mais claro.** A GCM passou de zero casos levados à delegacia (2024) para 30 (2025) e responde por 18% das vítimas de 2026. A alta de 2026 nos registros, puxada por lesão corporal (25 para 53 no comparativo jan-ago), é compatível com mais detecção, não só mais violência. **[análise]**
+2. **A Patrulha Maria da Penha é o programa com sinal mais claro.** A GCM passou de zero casos levados à delegacia (2024) para 30 (2025) e responde por 18% das vítimas de 2026. A alta de 2026 nos registros, puxada por lesão corporal (30 para 56 no comparativo jan-set), é compatível com mais detecção, não só mais violência. **[análise]**
 3. **O abrigo resolve uma lacuna regional, mas é estadual na prática.** O município paga pouco e não controla metas; a cobertura para Taquarituba depende de quantas vagas sobram para as outras 11 cidades. **[análise]**
-4. **O elo fraco é a saúde e a prevenção.** A rede de saúde notificou 14 casos em 2025 para 182 vítimas na polícia; a notificação é a porta de entrada do CREAS. As coletas de preventivo caíram 30% no primeiro semestre de 2026 frente a 2025 (pode ser atraso de registro). **[análise]**
+4. **O elo fraco é a saúde e a prevenção.** A rede de saúde notificou 14 casos em 2025 para 182 vítimas na polícia; a notificação é a porta de entrada do CREAS. As coletas de preventivo caíram 33% de janeiro a agosto de 2026 frente ao mesmo período de 2025 (pode ser atraso de registro). **[análise]**
 5. **Política de calendário, pouca política de serviço.** Fora o abrigo, o gasto identificável é camiseta, folder, caneca e lanche. Conselho e fundo existem desde out/2025, mas não há plano municipal, meta nem ação orçamentária. **[análise]**
 6. **Veredito provisório**: estrutura recente e no caminho certo, eficácia **não demonstrável** com dado público. A Guardiã depende de um termo com o MP que não foi localizado. O passo mais barato e de maior efeito é publicar um painel trimestral (CREAS, Patrulha, SAI, auxílio-aluguel) e criar uma ação "Políticas para as Mulheres" na LOA 2027. **[análise]**
 

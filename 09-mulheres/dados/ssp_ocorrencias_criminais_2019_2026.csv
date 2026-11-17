@@ -1,4 +1,4 @@
-# Ocorrencias registradas em Taquarituba (todos os sexos), indicadores selecionados. 2026 = jan-ago. Fonte: SSP-SP, API do portal de estatistica https://www.ssp.sp.gov.br/v1/OcorrenciasMensais/RecuperaDadosMensaisAgrupados?ano=<ano>&grupoDelito=6&tipoGrupo=MUNIC%C3%8DPIO&idGrupo=602 (consulta 23/10/2026).
+# Ocorrencias registradas em Taquarituba (todos os sexos), indicadores selecionados. 2026 = jan-set. Fonte: SSP-SP, API do portal de estatistica https://www.ssp.sp.gov.br/v1/OcorrenciasMensais/RecuperaDadosMensaisAgrupados?ano=<ano>&grupoDelito=6&tipoGrupo=MUNIC%C3%8DPIO&idGrupo=602 (consulta 17/11/2026).
 ano,indicador,total,meses_publicados
 2019,HOMICÍDIO DOLOSO (2),1,12
 2019,TENTATIVA DE HOMICÍDIO,0,12
@@ -42,9 +42,9 @@ ano,indicador,total,meses_publicados
 2025,TOTAL DE ESTUPRO (4),15,12
 2025,ESTUPRO,1,12
 2025,ESTUPRO DE VULNERÁVEL,14,12
-2026,HOMICÍDIO DOLOSO (2),1,8
-2026,TENTATIVA DE HOMICÍDIO,2,8
-2026,LESÃO CORPORAL DOLOSA,120,8
-2026,TOTAL DE ESTUPRO (4),10,8
-2026,ESTUPRO,0,8
-2026,ESTUPRO DE VULNERÁVEL,10,8
+2026,HOMICÍDIO DOLOSO (2),1,9
+2026,TENTATIVA DE HOMICÍDIO,2,9
+2026,LESÃO CORPORAL DOLOSA,131,9
+2026,TOTAL DE ESTUPRO (4),11,9
+2026,ESTUPRO,0,9
+2026,ESTUPRO DE VULNERÁVEL,11,9

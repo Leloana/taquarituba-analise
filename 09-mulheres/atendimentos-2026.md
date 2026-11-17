@@ -1,6 +1,6 @@
 # Quantas mulheres foram atendidas em 2026
 
-Data de referência: 23/10/2026. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**. Tabela completa em `dados/atendimentos_2026.csv`.
+Data de referência: 23/10/2026; atualizado em 17/11/2026 com a base da SSP-SP de 26/10/2026 (dados até setembro), empenhos do TCE-SP até setembro e preventivos do SIA/SUS até agosto. Marcações: **[fato]**, **[cálculo]**, **[estimativa]**, **[análise]**. Tabela completa em `dados/atendimentos_2026.csv`.
 
 ---
 
@@ -8,10 +8,10 @@ Data de referência: 23/10/2026. Marcações: **[fato]**, **[cálculo]**, **[est
 
 **Não existe número oficial publicado de mulheres atendidas pelos programas municipais em 2026.** A Prefeitura não divulga relatório do CREAS, da Patrulha Maria da Penha nem do SAI Mulheres, e o conselho da mulher não publicou atas. O que dá para afirmar com dado público:
 
-- **129 mulheres** vítimas de violência doméstica passaram pela delegacia de janeiro a agosto de 2026 (fato em Taquarituba) **[cálculo, SSP-SP]**. É o único universo contado de mulheres em situação de violência que chegaram ao Estado.
-- **23 delas** chegaram pela GCM (Patrulha Maria da Penha) **[cálculo, SSP-SP]**. É um piso do trabalho de campo da Patrulha em 2026: não inclui visitas, orientações e casos que não viraram boletim.
+- **142 mulheres** vítimas de violência doméstica passaram pela delegacia de janeiro a setembro de 2026 (fato em Taquarituba) **[cálculo, SSP-SP]**. É o único universo contado de mulheres em situação de violência que chegaram ao Estado.
+- **25 delas** chegaram pela GCM (Patrulha Maria da Penha) **[cálculo, SSP-SP]**. É um piso do trabalho de campo da Patrulha em 2026: não inclui visitas, orientações e casos que não viraram boletim.
 - **65 gestantes** receberam kit no Encontro de Gestantes de setembro **[fato, Prefeitura]**.
-- **480 coletas de Papanicolau** foram processadas no SUS de janeiro a julho **[cálculo, DATASUS]**; não são 480 mulheres distintas.
+- **543 coletas de Papanicolau** foram processadas no SUS de janeiro a agosto **[cálculo, DATASUS]**; não são 543 mulheres distintas.
 - **Cerca de 150 alunos** (meninos e meninas) ouviram a Patrulha Maria da Penha em 13/03/2026 **[fato, Prefeitura]**.
 - Abrigo regional (SAI Mulheres), CREAS, Rede Mulher, visitas da Guardiã e auxílio-aluguel: **sem número público** **[lacuna]**.
 
@@ -23,12 +23,12 @@ Os itens se sobrepõem e não devem ser somados.
 
 | Serviço | Executor | Número 2026 | Período | Tipo | Certeza | Fonte e data |
 |---|---|---|---|---|---|---|
-| Mulheres vítimas de violência doméstica com boletim | Polícia Civil, PM, GCM | 129 | jan-ago | cálculo | alta | SSP-SP, base de vítimas (atual. 07/10/2026) |
-| Vítimas levadas à delegacia pela GCM | GCM (Patrulha Maria da Penha) | 23 | jan-ago | cálculo | alta como piso | mesma base, campo "apresentação" |
-| Boletins por descumprimento de medida protetiva | Polícia Civil | 13 vítimas | jan-ago | cálculo | alta | mesma base |
+| Mulheres vítimas de violência doméstica com boletim | Polícia Civil, PM, GCM | 142 | jan-set | cálculo | alta | SSP-SP, base de vítimas (atual. 26/10/2026) |
+| Vítimas levadas à delegacia pela GCM | GCM (Patrulha Maria da Penha) | 25 | jan-set | cálculo | alta como piso | mesma base, campo "apresentação" |
+| Boletins por descumprimento de medida protetiva | Polícia Civil | 15 vítimas | jan-set | cálculo | alta | mesma base |
 | Palestra da Patrulha na Escola José Pena | GCM | ~150 alunos | 13/03 | fato | média | https://www.taquarituba.sp.gov.br/noticia/2643/ (13/03/2026) |
 | Encontro de Gestantes 2026 | Saúde | 65 kits | set | fato | média | https://www.taquarituba.sp.gov.br/noticia/2673/ (30/09/2026) |
-| Coletas de Papanicolau (SIA/SUS) | Unidades de saúde | 480 coletas | jan-jul | cálculo | alta para o registro | DATASUS SIA, proc. 0201020033 (consulta 23/10/2026) |
+| Coletas de Papanicolau (SIA/SUS) | Unidades de saúde | 543 coletas | jan-ago | cálculo | alta para o registro | DATASUS SIA, proc. 0201020033 (consulta 17/11/2026) |
 | Outubro Rosa 2026 | Saúde | em curso; 500 a 900 coletas esperadas | out-nov | estimativa | baixa | notícia 2666 (25/09/2026); base 2023 e 2025, ver 3.2 |
 | Auxílio-aluguel estadual | SEDS-SP via CRAS/CREAS | 5 a 12 mulheres | ano | estimativa | baixa | ver 3.3 |
 | Famílias do Bolsa Família chefiadas por mulheres | MDS via CRAS | cerca de 990 | jun | estimativa | média | ver `demanda-violencia.md`, seção 6 |
@@ -44,13 +44,13 @@ Os itens se sobrepõem e não devem ser somados.
 
 ### 3.1 Polícia e GCM [S1 de `demanda-violencia.md`]
 
-Contagem de vítimas únicas por boletim na base de violência doméstica contra a mulher da SSP-SP, município do fato = Taquarituba, mês estatístico de janeiro a agosto de 2026. O campo "Descrição da apresentação" com valor "Por Guardas Civis Metropolitanos" é como a SSP rotula ocorrências levadas por guardas municipais. Série: 0 (2024), 30 (2025), 23 (jan-ago 2026) **[cálculo]**.
+Contagem de vítimas únicas por boletim na base de violência doméstica contra a mulher da SSP-SP, município do fato = Taquarituba, mês estatístico de janeiro a setembro de 2026. O campo "Descrição da apresentação" com valor "Por Guardas Civis Metropolitanos" é como a SSP rotula ocorrências levadas por guardas municipais. Série: 0 (2024), 30 (2025), 25 (jan-set 2026) **[cálculo]**.
 
-Ritmo anual de 2026: cerca de 35 vítimas levadas pela GCM e cerca de 190 vítimas no total **[estimativa linear, 12/8]**.
+Ritmo anual de 2026: cerca de 33 vítimas levadas pela GCM e cerca de 190 vítimas no total **[estimativa linear, 12/9]**. Setembro de 2026 teve 13 vítimas, contra 16 em setembro de 2025 (`dados/ssp_violencia_domestica_mulher_mensal.csv`) **[cálculo]**.
 
 ### 3.2 Saúde
 
-- Coletas de Papanicolau aprovadas no SIA com local de atendimento em Taquarituba, por mês de processamento: 2023, 2.090; 2024, 2.126; 2025, 1.659; jan-jul 2026, 480, contra 690 em jan-jul 2025 (**-30%**) (`dados/sia_coleta_preventivo_2023_2026.csv`) **[cálculo]**. A queda pode ser atraso de processamento ou mudança de registro para o e-SUS APS; não verifiquei o SISAB.
+- Coletas de Papanicolau aprovadas no SIA com local de atendimento em Taquarituba, por mês de processamento: 2023, 2.090; 2024, 2.126; 2025, 1.659; jan-ago 2026, 543, contra 806 em jan-ago 2025 (**-33%**); agosto de 2026 teve 63 coletas, contra 116 em agosto de 2025 (`dados/sia_coleta_preventivo_2023_2026.csv`) **[cálculo]**. A queda pode ser atraso de processamento ou mudança de registro para o e-SUS APS; não verifiquei o SISAB.
 - Outubro de 2025 concentrou 604 coletas processadas, efeito da campanha **[cálculo]**. Em 2023 a Prefeitura informou 917 exames preventivos na campanha (https://www.taquarituba.sp.gov.br/noticia/2489/, 28/11/2023) **[fato]**. Para 2026, com o mesmo formato de horário ampliado, espero **500 a 900 coletas** no Outubro Rosa **[estimativa: limite inferior perto de 2025, superior no patamar de 2023]**.
 - Mamografias de moradoras não aparecem no SIA por local de atendimento em Taquarituba (o exame é feito fora do município) **[fato]**.
 
@@ -76,7 +76,7 @@ Abrigo regional sigiloso para 12 municípios, inaugurado em 04/02/2026. Não há
 
 ## 4. Leitura (análise)
 
-1. **O único número robusto é de demanda, não de oferta.** Sabemos quantas mulheres chegaram à polícia (129 até agosto), mas não quantas o município acompanhou depois. **[análise]**
+1. **O único número robusto é de demanda, não de oferta.** Sabemos quantas mulheres chegaram à polícia (142 até setembro), mas não quantas o município acompanhou depois. **[análise]**
 2. **A Patrulha aparece nos dados.** A GCM saiu de zero casos levados à delegacia em 2024 para 30 em 2025, e responde por 18% das vítimas de 2026. É o sinal mais concreto de que um programa novo está funcionando. **[análise]**
 3. **A rede de saúde quase não notifica.** 14 notificações SINAN em 2025 para 182 vítimas na polícia. **[análise]**
 4. Para fechar a conta é preciso pedir os números por LAI (`pedidos-lai.md`).

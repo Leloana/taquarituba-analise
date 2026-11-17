@@ -1,4 +1,4 @@
-# Coletas de material do colo do utero para exame citopatologico (procedimento SIGTAP 0201020033) aprovadas no SIA/SUS com local de atendimento em Taquarituba, por mes de PROCESSAMENTO (nao de atendimento). 2026 = jan-jul (ultimo arquivo disponivel qasp2607). Fonte: DATASUS TabNet, Producao Ambulatorial SP por local de atendimento, sia/cnv/qasp.def (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sia/cnv/qasp.def), consulta 23/10/2026. Mamografias de residentes nao aparecem por local de atendimento em Taquarituba (exame feito fora do municipio).
+# Coletas de material do colo do utero para exame citopatologico (procedimento SIGTAP 0201020033) aprovadas no SIA/SUS com local de atendimento em Taquarituba, por mes de PROCESSAMENTO (nao de atendimento). 2026 = jan-ago (ultimo arquivo disponivel qasp2608). Fonte: DATASUS TabNet, Producao Ambulatorial SP por local de atendimento, sia/cnv/qasp.def (http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sia/cnv/qasp.def), consulta 17/11/2026. Mamografias de residentes nao aparecem por local de atendimento em Taquarituba (exame feito fora do municipio).
 periodo,coletas
 2023,2090
 2024,2126
@@ -22,5 +22,6 @@ periodo,coletas
 2026-05,65
 2026-06,39
 2026-07,47
-2026 jan-jul,480
-2025 jan-jul,690
+2026-08,63
+2026 jan-ago,543
+2025 jan-ago,806

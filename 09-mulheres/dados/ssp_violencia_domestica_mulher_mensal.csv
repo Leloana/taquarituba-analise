@@ -1,0 +1,14 @@
+# Mulheres vitimas de violencia domestica com fato em Taquarituba por mes estatistico (mes de registro). Mesma regra de contagem de ssp_violencia_domestica_mulher_2024_2026.csv. 2026 = jan-set. Fonte: SSP-SP, Base_Violencia contra mulher.xlsx (https://www.ssp.sp.gov.br/assets/estatistica/vitimas-violencia-domestica/Base_Viol%C3%AAncia%20contra%20mulher.xlsx, atualizada 26/10/2026, consulta 17/11/2026). Calculo proprio.
+mes,vitimas_2024,vitimas_2025,vitimas_2026
+1,18,16,26
+2,10,14,16
+3,18,10,26
+4,13,14,11
+5,12,11,16
+6,7,11,10
+7,1,19,8
+8,12,11,16
+9,5,16,13
+10,11,22,
+11,14,19,
+12,13,19,
