@@ -119,3 +119,11 @@ Marcação: **[Fato]** dado do PNCP ou de cadastro oficial; **[Cálculo]** conta
 5. Contrato da dispensa emergencial de limpeza (110/2025) e situação da licitação definitiva.
 6. Resultado dos pregões de merenda terceirizada (55/2025) e fórmulas infantis (90/2025).
 7. Fundamento legal correto das dispensas 51/2024, 121/2025 e 19/2026.
+
+## 4. Pendências (verificar quando os sites voltarem)
+
+Registradas em 20/11/2026. Os sites de consulta de CNPJ e o portal de transparência da Prefeitura não responderam nesta data.
+
+1. **A fornecedora dos cordões é a esposa do vice-prefeito?** Documentos judiciais públicos (TJ-SP, Comarca de Taquarituba) trazem uma Célia Gobbo Soldera como parte, junto com Waldemar Soldera (vice-prefeito, MDB), em processo de retificação de registro de imóvel de 2023. Ela também aparece como filiada ao PMDB local desde 2015. A fornecedora das dispensas 47 e 48/2025 se chama Celia Gobbo da Silva (MEI, nome fantasia "Recanto do Helinho"). **[Análise]** É improvável que sejam a mesma pessoa: o nome do MEI sai do cadastro do CPF, a empresa é de 2019 e o sobrenome Soldera já aparecia em documentos muito anteriores; além disso, há outras Célias Gobbo na cidade. **Como checar:** comparar o CPF parcial do titular do MEI (sites de consulta de CNPJ ou certificado CCMEI) com o de Célia Gobbo Soldera, que consta em edital judicial público, ou pedir pela LAI a habilitação da fornecedora nos processos 184 e 185/2025. Não publicar CPF neste repositório.
+2. **Parentesco do empreiteiro Marcos Humberto Gobbo de Oliveira** (8 contratos, R$ 1,30 mi, item 2.8) com a família do vice-prefeito. Em processos de herança de Antonio Luiz Gobbo no TJ-SP, Marcos aparece como inventariante e Célia Gobbo Soldera como herdeira (fontes: e-SAJ TJ-SP, processos do foro 620). **[Inferência]** Se ele for filho da herdeira Celina Gobbo de Oliveira, é sobrinho da esposa do vice, ou seja, parente por afinidade em terceiro grau. Verificar o grau exato e se o vice-prefeito teve algum papel nas contratações (art. 14, IV, da Lei 14.133).
+3. **Declarações de parentesco:** pedir pela LAI as declarações de inexistência de parentesco com agentes públicos assinadas pelos fornecedores Celia Gobbo da Silva e Marcos Humberto Gobbo de Oliveira.
