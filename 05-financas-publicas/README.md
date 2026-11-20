@@ -26,6 +26,7 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 | Passivo atuarial do RPPS (Capstuba) | R$ 151,39 mi (ago/2026) | [Siconfi RGF Anexo 02](https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rgf?an_exercicio=2026&in_periodicidade=Q&nr_periodo=2&co_tipo_demonstrativo=RGF&no_anexo=RGF-Anexo%2002&co_esfera=M&co_poder=E&id_ente=3553807) |
 | Último parecer do TCE (contas 2024) | Favorável (sessão 31/03/2026) | [TCE-SP TC-004288/989/24](https://www.tce.sp.gov.br/jurisprudencia/exibir?proc=4288/989/24&offset=0) |
 | IEG-M 2024 | C+ (B em educação, saúde e fiscal; C em planejamento, ambiente e cidade) | idem |
+| Contratos publicados no PNCP | R$ 4,9 mi (2024), R$ 16,4 mi (2025), R$ 29,0 mi (2026 até 19/11); 124 alertas de inconsistência | [PNCP, API](https://pncp.gov.br/api/consulta) e [contratacoes-pncp-2024-2026.md](contratacoes-pncp-2024-2026.md) |
 | Emendas federais pagas a favorecidos de Taquarituba 2016 a 2026 | R$ 11,20 mi (cálculo próprio) | [CGU, base de emendas](https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO) |
 
 ## Arquivos
@@ -37,6 +38,8 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 | [despesas.md](despesas.md) | Despesa por função e por natureza 2013 a 2025, saúde e educação, pessoal, investimento, dívida, resultado |
 | [contas-e-tce.md](contas-e-tce.md) | Pareceres do TCE-SP 2009 a 2024, IEG-M 2014 a 2024, apontamentos |
 | [emendas-parlamentares.md](emendas-parlamentares.md) | Emendas federais (CGU) e estaduais (Governo SP/ALESP) |
+| [compras-sem-licitacao-e-precatorios.md](compras-sem-licitacao-e-precatorios.md) | Despesa por modalidade 2022 a 2025 (TCE), inexigibilidade, dispensa e acordo de precatórios |
+| [contratacoes-pncp-2024-2026.md](contratacoes-pncp-2024-2026.md) | Todas as contratações, contratos, atas e aditivos da Prefeitura no PNCP de 2024 a 2026 e as inconsistências encontradas (fracionamento, processos excluídos, show publicado depois do evento, prazos) |
 | [dados/](dados/) | CSVs com todas as séries |
 
 ### CSVs em `dados/`
@@ -52,12 +55,15 @@ Pesquisa feita em 20/10/2026. Série histórica de 2009 a 2026, com foco nos dad
 - `emendas_federais_cgu_por_favorecido.csv`
 - `emendas_federais_resumo_por_autor.csv`
 - `emendas_estaduais_sp_taquarituba.csv`
+- `pncp_contratacoes_2024_2026.csv`, `pncp_contratos_2024_2026.csv`, `pncp_atas_2024_2026.csv`, `pncp_termos_aditivos_2024_2026.csv` (gerados por `scripts/pncp_contratos.py`)
+- `pncp_inconsistencias_2024_2026.csv` (alertas gerados por `scripts/pncp_inconsistencias.py`)
 
 ## Fontes principais
 
 - Tesouro Nacional, API de dados abertos do Siconfi (DCA, RREO, RGF, extrato de entregas): `https://apidatalake.tesouro.gov.br/ords/siconfi/tt/` com `id_ente=3553807`. O DCA no Siconfi começa em 2013 para o município; RREO e RGF começam em 2018. FINBRA anterior a 2013 não foi baixado.
 - Leis municipais (LOA, LDO, PPA, operação de crédito): portal da Prefeitura, `https://www.taquarituba.sp.gov.br/legislacao/download-lei/<id>/`.
 - TCE-SP, pesquisa de jurisprudência (pareceres de contas anuais): `https://www.tce.sp.gov.br/jurisprudencia/`; Relatório de Desempenho Municipal: https://www.tce.sp.gov.br/sites/default/files/rdm/taquarituba.pdf
+- PNCP, API de consulta (contratações, contratos, atas e termos, CNPJ 46.634.218/0001-07), consultada em 20/11/2026: https://pncp.gov.br/api/consulta
 - CGU, Portal da Transparência, base de emendas parlamentares (arquivo de 09/10/2026): https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares/UNICO
 - Governo SP, emendas impositivas 2020 a 2022: https://www.transparencia.sp.gov.br/home/emendasparlamentares ; ALESP, quadro consolidado de emendas 2025: https://www.al.sp.gov.br/spl/2025/02/Acessorio/1000597524_1000740220_Acessorio.pdf
 

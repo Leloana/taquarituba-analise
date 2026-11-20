@@ -12,7 +12,7 @@ Cada número nos arquivos detalhados traz fonte com URL e ano, e vem marcado com
 | [02-economia](02-economia/) | PIB 2002 a 2023, renda 1991 a 2022, desigualdade, classe social estimada, emprego formal, agropecuária, Bolsa Família, exportações |
 | [03-bairros](03-bairros/) | Ficha por bairro (renda, infraestrutura, equipamentos, demandas na Câmara), comparação 2010 x 2022 por setor censitário |
 | [04-politica](04-politica/) | Eleições municipais 1996 a 2024, gerais 1998 a 2026, eleitorado, perfil ideológico, prefeitura e Câmara, leis 2021 a 2026 |
-| [05-financas-publicas](05-financas-publicas/) | LOA/LDO/PPA, receitas e despesas 2013 a 2025, pessoal, dívida, pareceres do TCE 2009 a 2024, IEG-M, emendas parlamentares |
+| [05-financas-publicas](05-financas-publicas/) | LOA/LDO/PPA, receitas e despesas 2013 a 2025, pessoal, dívida, pareceres do TCE 2009 a 2024, IEG-M, emendas parlamentares, contratações no PNCP 2024 a 2026 e inconsistências |
 | [06-futuro](06-futuro/) | Planos de governo 2024, projetos estruturantes, desafios, SWOT e propostas |
 | [07-cultura](07-cultura/) | Identidade, calendário, equipamentos culturais e incentivos da Prefeitura ao setor |
 | [08-estrategia](08-estrategia/) | Brechas e rota para uma candidatura de futuro: juventude, universidade, emprego qualificado, fiscalização |
@@ -41,6 +41,7 @@ Cada pasta tem um `README.md` com o resumo e uma subpasta `dados/` com os CSVs.
 | Receita | Dependência de transferências | 80,6% da receita corrente | 2025 |
 | Gasto | Educação / saúde | 30,1% / 26,1% da despesa | 2025 |
 | Pessoal | Despesa / receita corrente líquida | 38,98% (limite 54%) | ago/2026 |
+| Contratações | Contratos no PNCP / alertas de inconsistência | R$ 50,4 mi / 124 | 2024 a 2026 |
 | Emendas federais | Pagas | R$ 11,2 mi (R$ 5,7 mi em 2025 e 2026) | 2016 a 2026 |
 | Eleitorado | Eleitores | 18.117 | out/2026 |
 

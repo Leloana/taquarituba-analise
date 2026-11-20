@@ -73,15 +73,19 @@ Contratações no Portal Nacional de Contratações Públicas (PNCP). Tabela em 
 | Charles & Mancini | 80.000,00 | [PNCP 2025/155](https://pncp.gov.br/app/editais/46634218000107/2025/155) |
 | **Total identificado [Cálculo]** | **2.638.566,67** | |
 
-| FACITA 2026 (5 a 8/11, contratos até 20/10/2026) | Valor (R$) | Fonte |
+| FACITA 2026 (5 a 8/11, contratos até 19/11/2026) | Valor (R$) | Fonte |
 |---|---:|---|
 | Simone Mendes (07/11) | 950.000,00 | [PNCP 2026/119](https://pncp.gov.br/app/editais/46634218000107/2026/119) |
 | Zezé Di Camargo & Luciano (05/11) | 770.000,00 | [PNCP 2026/121](https://pncp.gov.br/app/editais/46634218000107/2026/121) |
 | Murilo Huff (07/11) | 705.000,00 | [PNCP 2026/118](https://pncp.gov.br/app/editais/46634218000107/2026/118) |
+| Luan Pereira ("14/11", ver nota) | 180.000,00 | [PNCP 2026/153](https://pncp.gov.br/app/editais/46634218000107/2026/153) |
+| Mateus & Cristiano (07/11) | 80.000,00 | [PNCP 2026/141](https://pncp.gov.br/app/editais/46634218000107/2026/141) |
 | Victor e Franco (Baile da Rainha, 19/09) | 30.000,00 | [PNCP 2026/120](https://pncp.gov.br/app/editais/46634218000107/2026/120) |
-| **Total identificado [Cálculo]** | **2.455.000,00** | |
+| **Total identificado [Cálculo]** | **2.715.000,00** | |
 
-- **[Fato] Estrutura de eventos.** Em jan/2026 a Prefeitura abriu registro de preços para "infraestrutura, equipamentos e serviços para eventos" do calendário cultural, com 233 itens (palcos, som, luz, galpões, sala VIP) e **teto estimado de R$ 52.350.052,11**, situação "em andamento" no PNCP ([PNCP 2026/1](https://pncp.gov.br/app/editais/46634218000107/2026/1)). Registro de preços é teto, não gasto; mesmo assim o teto equivale a 26 LOAs inteiras de cultura **[Cálculo]**. Em 2024 houve pregão de locação de som, palco e luz estimado em R$ 438.435,03 ([PNCP 2024/60](https://pncp.gov.br/app/editais/46634218000107/2024/60)).
+Atualizado em 20/11/2026: entraram Mateus & Cristiano (publicado em 23/10) e Luan Pereira (publicado em 17/11, três dias **depois** da data do show escrita no objeto, 14/11, que fica fora das datas da feira; sem contrato publicado). Também houve dispensa de ambulância UTI para os quatro dias da feira (R$ 17.500, [PNCP 2026/142](https://pncp.gov.br/app/editais/46634218000107/2026/142)). Não há contrato de palco, som ou organização da FACITA 2026 no PNCP. Ver [../05-financas-publicas/contratacoes-pncp-2024-2026.md](../05-financas-publicas/contratacoes-pncp-2024-2026.md), itens 2.2 e 2.3.
+
+- **[Fato] Estrutura de eventos.** Em jan/2026 a Prefeitura abriu registro de preços para "infraestrutura, equipamentos e serviços para eventos" do calendário cultural, com 233 itens (palcos, som, luz, galpões, sala VIP) e **teto estimado de R$ 52.350.052,11**, que em 20/11/2026 seguia sem ata, valor homologado ou contrato no PNCP ([PNCP 2026/1](https://pncp.gov.br/app/editais/46634218000107/2026/1)). Registro de preços é teto, não gasto; mesmo assim o teto equivale a 26 LOAs inteiras de cultura **[Cálculo]**. Em 2024 houve pregão de locação de som, palco e luz estimado em R$ 438.435,03 ([PNCP 2024/60](https://pncp.gov.br/app/editais/46634218000107/2024/60)).
 
 ### Outras festas
 
@@ -117,7 +121,7 @@ Tabela em [dados/orcamento_cultura_esporte_2013_2025.csv](dados/orcamento_cultur
 - **[Fato] Turismo executado = zero.** Em 2023, 2024 e 2025 o município não empenhou nada nas funções 22 (Indústria) e 23 (Comércio e Serviços, onde fica a subfunção 695 Turismo) (mesma fonte). A LOA 2026 reserva R$ 245.000 ao programa "Descubra Taquarituba" na função 22 ([Lei 1.998/2025](https://www.taquarituba.sp.gov.br/legislacao/download-lei/13497/)).
 - **[Fato] PPA 2026-2029.** Programa 0011 Valorização da Cultura: R$ 2,105 mi (2026), 2,8 mi (2027), 3,008 mi (2028), 2,742 mi (2029), total R$ 10,655 mi; R$ 1,8 mi por ano em "manutenção e modernização" e R$ 1 mi para a sede própria. Indicadores: 2 cursos por ano; manutenção de teatro, biblioteca e Guri; "eventos culturais" de 110 (2026) a 140 (2029) ([Lei 1.996/2025](https://www.taquarituba.sp.gov.br/legislacao/download-lei/13342/)).
 - **[Cálculo] Peso da FACITA.** Os R$ 2,64 mi identificados da FACITA 2025 equivalem a **88%** da despesa empenhada em Cultura em 2025 (R$ 2,98 mi). Isso supõe que os contratos foram lançados na função Cultura, o que é provável porque foram pedidos pela Coordenadoria de Cultura, mas não confirmei no empenho. O salto de R$ 1,52 mi (2024) para R$ 2,98 mi (2025) coincide com o ano em que a Prefeitura assumiu a festa.
-- **[Cálculo]** Só os shows já contratados da FACITA 2026 (R$ 2,455 mi) passam a dotação inteira de Cultura da LOA 2026 (R$ 2,005 mi) em 22%; a diferença terá de vir de crédito suplementar ou de outra função.
+- **[Cálculo]** Só os shows já contratados da FACITA 2026 (R$ 2,715 mi) passam a dotação inteira de Cultura da LOA 2026 (R$ 2,005 mi) em 35%; a diferença terá de vir de crédito suplementar ou de outra função.
 - **[Cálculo]** Os repasses federais somaram R$ 735,8 mil em seis anos. A PNAB ciclo 1 cobriu 13,2% da despesa de Cultura de 2024; a Lei Paulo Gustavo, 8,5% da de 2023. Um único show (Simone Mendes, R$ 950 mil) custa 4,8 vezes o repasse do ciclo 2 da PNAB.
 
 ### Comparação com vizinhos (2025)
