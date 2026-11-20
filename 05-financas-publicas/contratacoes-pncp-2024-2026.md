@@ -13,6 +13,7 @@ Marcação: **[Fato]** dado do PNCP ou de cadastro oficial; **[Cálculo]** conta
 | `pncp_atas_2024_2026.csv` | 94 | atas de registro de preços |
 | `pncp_termos_aditivos_2024_2026.csv` | 10 | termos aditivos |
 | `pncp_inconsistencias_2024_2026.csv` | 124 | alertas, um por linha, com link |
+| `tce_2025_fornecedora_cnpj_33671633.csv` | 18 | empenhos, liquidações e pagamentos de 2025 à fornecedora do item 2.1 (TCE-SP) |
 
 **[Fato] Processos publicados por modalidade e ano**
 
@@ -50,11 +51,17 @@ Marcação: **[Fato]** dado do PNCP ou de cadastro oficial; **[Cálculo]** conta
 
 ## 2. Inconsistências e alertas
 
-### 2.1 Fracionamento na decoração de Natal de 2025 e fornecedora MEI
-- **[Fato]** Três dispensas pelo art. 75, II para decoração natalina em novembro de 2025: [114/2025](https://pncp.gov.br/app/editais/46634218000107/2025/114) (cordões de LED, estimado R$ 59.875, contratado R$ 23.000 com a Bazar Distribuidora), [157/2025](https://pncp.gov.br/app/editais/46634218000107/2025/157) (R$ 60.375) e [158/2025](https://pncp.gov.br/app/editais/46634218000107/2025/158) (R$ 59.155). As duas últimas foram para a mesma fornecedora, assinadas com seis dias de diferença (18 e 24/11/2025), cada uma a 96% e 94% do limite.
-- **[Cálculo]** As três somam R$ 142.530, mais que o dobro do limite anual de dispensa por valor em 2025 (R$ 62.725,59, Decreto 12.343/2024). O art. 75, § 1º manda somar no exercício as despesas do mesmo ramo. No mesmo ano houve ainda o pregão de registro de preços de decoração natalina ([129/2025](https://pncp.gov.br/app/editais/46634218000107/2025/129), teto R$ 801 mil).
-- **[Fato]** A fornecedora das duas dispensas, Celia Gobbo da Silva (CNPJ 33.671.633/0001-80, Taquarituba), consta na Receita Federal como **MEI** (consulta via BrasilAPI em 20/11/2026). O teto de faturamento do MEI é R$ 81 mil por ano; só esses dois contratos somam R$ 119.530.
-- **[Análise]** É o padrão clássico de fracionamento: um objeto dividido em pedaços logo abaixo do limite para escapar da licitação. Pedir os dois processos completos (pesquisa de preços, justificativa de não somar com as outras compras de Natal) e as notas fiscais.
+### 2.1 Fracionamento e sobrepreço na decoração de Natal de 2025
+- **[Fato]** Três dispensas pelo art. 75, II para decoração natalina em 2025: [114/2025](https://pncp.gov.br/app/editais/46634218000107/2025/114) (cordões de LED, com aviso público e disputa de 01 a 08/09/2025, vencida pela Bazar Distribuidora por R$ 23.000), [157/2025](https://pncp.gov.br/app/editais/46634218000107/2025/157) (R$ 60.375) e [158/2025](https://pncp.gov.br/app/editais/46634218000107/2025/158) (R$ 59.155). As duas últimas foram para a mesma fornecedora, Celia Gobbo da Silva (CNPJ 33.671.633/0001-80), ratificadas em 18 e 24/11/2025, a 96% e 94% do limite.
+- **[Cálculo]** As três somam R$ 142.530, mais que o dobro do limite anual de dispensa por valor em 2025 (R$ 62.725,59, Decreto 12.343/2024). O art. 75, § 1º manda somar no exercício as despesas do mesmo ramo. Houve ainda o pregão de registro de preços de decoração natalina ([129/2025](https://pncp.gov.br/app/editais/46634218000107/2025/129), teto de R$ 801 mil).
+- **[Fato] O mesmo produto, 2,6 vezes mais caro.** Em setembro a Bazar vendeu 250 "cordões luminosos com 50 metros, 500 luminárias LED (400 branco quente e 100 strobo branco frio), IP44, 9 W" a **R$ 92,00** cada ([termo de ratificação da dispensa 036/2025](https://pncp.gov.br/pncp-api/v1/orgaos/46634218000107/compras/2025/114/arquivos/2)). Em novembro o contrato com Celia Gobbo da Silva comprou mais 250 unidades com a **mesma especificação, palavra por palavra** (só o cabo muda de 1,88 para 1,8 mm), a **R$ 241,50** cada ([contrato 0125/25](https://pncp.gov.br/pncp-api/v1/orgaos/46634218000107/contratos/2025/83/arquivos/1)).
+- **[Cálculo]** Ao preço de setembro, os 250 cordões de novembro custariam R$ 23.000. A diferença é de **R$ 37.375**.
+- **[Fato] Sem disputa publicada.** A dispensa de setembro teve aviso de contratação direta no PNCP e cita o § 3º do art. 75 (disputa eletrônica). As de novembro só têm o termo de ratificação: o processo foi ao PNCP depois de ratificado, sem aviso nem prazo para propostas, embora os contratos digam que o "Aviso de Contratação Direta" os vincula.
+- **[Fato] Pago no mesmo dia.** Pela base de despesas do TCE-SP, os R$ 60.375 dos cordões foram **empenhados, liquidados e pagos em 19/11/2025**, o dia seguinte à ratificação. Liquidar significa atestar que os 250 cordões foram entregues e conferidos. O segundo contrato (uma árvore de Natal em estrutura de aço, R$ 29.375, e um túnel de LED de 10 m, R$ 29.780) foi empenhado em 25/11 e pago em 28/11/2025. Os dois contratos dizem que o pagamento vem depois do termo de recebimento, em até 30 dias.
+- **[Fato] Fornecedora.** Empresária individual optante pelo **MEI** desde 21/05/2019, em Taquarituba, capital de R$ 6.750, atividade principal "comércio varejista de outros produtos" e 12 secundárias (material elétrico, paisagismo, aluguel de móveis e de palcos, organização de festas, instalação elétrica, brinquedos e outras) (Receita Federal via BrasilAPI, 20/11/2026). Na base do TCE-SP, de 2019 a 2024 ela não recebeu nada de nenhum órgão municipal paulista. Em 2025 recebeu **R$ 138.460** da Prefeitura de Taquarituba, todos por dispensa: piso de tacos da base da Guarda (R$ 9.150, jan), jardim da Segurança Pública (R$ 7.320, fev), decoração do Feirão do Emprego (R$ 1.500, abr), mesas e cadeiras para formação de professores (R$ 960, mai) e os dois contratos de Natal (R$ 119.530, nov). As quatro primeiras não estão no PNCP. Extrato em [dados/tce_2025_fornecedora_cnpj_33671633.csv](dados/tce_2025_fornecedora_cnpj_33671633.csv).
+- **[Cálculo]** O teto de faturamento do MEI é R$ 81 mil por ano. Só a Prefeitura pagou 1,7 vez isso em 2025. Passar do teto obriga a sair do MEI; não torna o contrato nulo, mas mostra que a empresa não tinha porte declarado para esse volume.
+- **[Fato]** Fiscal dos dois contratos: Gabriel Aparecido Almeida Rodrigues; gestora: Francine Medina Leite Miano. O pedido é do Fundo Social de Solidariedade.
+- **[Análise]** Juntos, os fatos formam o padrão que os tribunais de contas descrevem como fracionamento com direcionamento: objeto repartido logo abaixo do teto, mesma fornecedora, nenhuma disputa, preço muito acima de uma compra igual feita semanas antes e pagamento sem o prazo normal de recebimento. Nada disso prova dolo; pode haver explicação (urgência, cordões diferentes na prática, erro de registro). Pedir: os processos 184 e 185/2025 completos, com a pesquisa de preços e a justificativa de não usar a cotação de setembro; o termo de recebimento e as notas fiscais; e onde os 500 cordões foram instalados.
 
 ### 2.2 Show contratado depois do evento e datas da FACITA 2026
 - **[Fato]** O show de Luan Pereira "na FACITA 2026, no dia 14 de novembro de 2026" (R$ 180 mil, inexigibilidade) foi publicado no PNCP em **17/11/2026**, três dias depois da data do show, e não tem contrato publicado ([153/2026](https://pncp.gov.br/app/editais/46634218000107/2026/153)).
@@ -103,7 +110,7 @@ Marcação: **[Fato]** dado do PNCP ou de cadastro oficial; **[Cálculo]** conta
 
 ## 3. Perguntas para pedido de LAI
 
-1. Processos completos das dispensas 114, 157 e 158/2025 (Natal) e notas fiscais da fornecedora MEI.
+1. Processos completos das dispensas 157 e 158/2025 (processos 184 e 185/2025), com pesquisa de preços, termo de recebimento, notas fiscais e local de instalação dos cordões; justificativa do preço 2,6 vezes maior que o da dispensa 036/2025.
 2. Empenho, nota fiscal e data real do show de Luan Pereira (inexigibilidade 153/2026).
 3. Contratos de estrutura, palco, som e segurança da FACITA 2026 e a ata do registro de preços 1/2026, se houver.
 4. Lista dos 36 processos excluídos do PNCP, com objeto e motivo.
